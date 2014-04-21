@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 16 Apr 2014 22:38:00 GMT
+Server: Apache/2.4.6 (Ubuntu)
+Last-Modified: Mon, 17 Feb 2014 21:32:34 GMT
+ETag: "b1-4f2a0e4d81876"
+Accept-Ranges: bytes
+Content-Length: 177
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>

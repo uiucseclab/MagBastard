@@ -1,0 +1,10 @@
+HTTP/1.1 #statuscode
+Date: #date
+Server: #server
+Last-Modified: #lastmodified
+Accept-Ranges: bytes
+Content-Length: #contentlength
+#options
+Connection: close
+Content-Type: text/html
+

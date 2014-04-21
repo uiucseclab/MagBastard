@@ -1,0 +1,10 @@
+HTTP/1.0 200 OK
+Vary: Accept-Encoding
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: #lastmodified
+Content-Length: #contentlength
+Connection: close
+Date: #date
+Server: lighttpd/1.4.31
+

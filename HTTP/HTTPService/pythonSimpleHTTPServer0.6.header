@@ -1,0 +1,6 @@
+HTTP/1.0 #statuscode
+Server: #server
+Date: #date
+Content-type: text/html; charset=mbcs
+Content-Length: #contentlength
+

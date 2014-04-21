@@ -1,0 +1,15 @@
+HTTP/1.0 501 Unsupported method ('OPTIONS')
+Server: #server
+Date: #date
+Content-Type: text/html
+Connection: close
+
+<head>
+<title>Error response</title>
+</head>
+<body>
+<h1>Error response</h1>
+<p>Error code 501.
+<p>Message: Unsupported method ('OPTIONS').
+<p>Error code explanation: 501 = Server does not support this operation.
+</body>

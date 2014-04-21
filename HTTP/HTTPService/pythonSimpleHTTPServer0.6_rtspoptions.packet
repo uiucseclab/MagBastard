@@ -1,0 +1,9 @@
+<head>
+<title>Error response</title>
+</head>
+<body>
+<h1>Error response</h1>
+<p>Error code 400.
+<p>Message: Bad request version ('RTSP/1.0').
+<p>Error code explanation: 400 = Bad request syntax or unsupported method.
+</body>
