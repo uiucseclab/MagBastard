@@ -1,7 +1,7 @@
 HTTP/1.1 #statuscode
 Server: #server
 Date: #date
-Content-Type: text/html
+Content-Type: #contenttype
 Content-Length: #contentlength
 Last-Modified: #lastmodified
 Connection: close

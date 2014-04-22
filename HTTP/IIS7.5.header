@@ -1,5 +1,5 @@
 HTTP/1.1 #statuscode
-Content-Type: text/html
+Content-Type: #contenttype
 Last-Modified: #lastmodified
 Accept-Ranges: bytes
 Server: #server

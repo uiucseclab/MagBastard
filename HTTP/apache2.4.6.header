@@ -6,5 +6,5 @@ Accept-Ranges: bytes
 Content-Length: #contentlength
 Vary: Accept-Encoding
 Connection: close
-Content-Type: text/html
+Content-Type: #contenttype
 

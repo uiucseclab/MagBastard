@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 Vary: Accept-Encoding
-Content-Type: text/html
+Content-Type: #contenttype
 Accept-Ranges: bytes
 Last-Modified: #lastmodified
 Content-Length: #contentlength
