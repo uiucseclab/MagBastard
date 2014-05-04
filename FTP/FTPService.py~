@@ -19,8 +19,7 @@ def selectServer():
     file.close()
 
     # Choose the server version
-    #return servers[randint(0, len(servers) - 1)]
-    return servers[4]
+    return servers[randint(0, len(servers) - 1)]
 
 def createListenerSocket(host, port):
     listener = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

@@ -47,7 +47,10 @@ def getMessage(skt):
         return None
 
 def sendResponse(skt, msg, flags=0):
-    skt.send(msg)
+    try:
+        skt.send(msg)
+    except:
+        print 'Connection reset'
 
 def __main__():
     server = selectServer()
