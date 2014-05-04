@@ -3,7 +3,7 @@ import datetime
 
 def logEvent(destIP, destPort, srcIP, srcPort, content):
     #connecting to Database
-    db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
+    db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
 
     #for interacting with the Database
     cur = db.cursor()
@@ -40,7 +40,7 @@ def updateSession(ip,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
 
 def logSession(ip,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
     #connecting to Database
-    db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
+    db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
 	
     #for interacting with the Database
     cur = db.cursor()
