@@ -1,0 +1,7 @@
+--To create second table
+
+CREATE  TABLE `logs`.`session_data` (
+  `Timestamp` TIMESTAMP NOT NULL ,
+  `Service Name` VARCHAR(45) NULL ,
+  PRIMARY KEY (`Timestamp`) );
+
