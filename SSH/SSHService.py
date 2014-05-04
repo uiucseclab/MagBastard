@@ -4,7 +4,7 @@ import urlparse
 
 # Constants
 sendRate = 1000
-listenAddress = "172.16.200.240"
+listenAddress = "localhost"
 
 if len(sys.argv) > 1:
     def randint(a, b):
@@ -47,7 +47,10 @@ def getMessage(skt):
         return None
 
 def sendResponse(skt, msg, flags=0):
-    skt.send(msg)
+    try: 
+    	skt.send(msg)
+    except:
+	print("Connection reset!")
 
 def __main__():
     server = selectServer()
