@@ -47,7 +47,10 @@ def getMessage(skt):
         return None
 
 def sendResponse(skt, msg, flags=0):
-    skt.send(msg)
+    try:
+    	skt.send(msg)
+    except:
+	print("Connection Reset!")
 
 def __main__():
     server = selectServer()
@@ -56,13 +59,8 @@ def __main__():
     while 1 == 1:
         (s, details) = listener.accept()
         print("Got a connection!")
-	if(server["Name"] == "Postfix"):
-		response = server["Response"]
-	elif(server["Name"] == "Sendmail"):
-		response = server["Response"]
-	elif(server["Name"] == "Qmail"):
-		response = server["Response"]
-        sendResponse(s, response)
+	response = server["Response"]
+	sendResponse(s, response)
         s.close()
 
 __main__()
