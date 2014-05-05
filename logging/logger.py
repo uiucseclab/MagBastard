@@ -1,6 +1,17 @@
 import MySQLdb
 import datetime
 
+def class session:
+    def __init__():
+        self.timestamp = datetime.datetime.now()
+        self.services = {
+            21: None,
+            22: None,
+            25: None,
+            80: None,
+            139: None
+        }
+
 def logEvent(destIP, destPort, srcIP, srcPort, content):
     #connecting to Database
     db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
