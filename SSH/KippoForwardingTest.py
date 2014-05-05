@@ -17,13 +17,40 @@ print("Connection established by host %s!" % str(info))
 # Connect to Kippo; forward traffic
 kippo = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 kippo.connect((kippoaddr, kippoport))
-print("From kippo: %s" % kippo.recv(65535))
+kippostr = kippo.recv(65535)
+val = ''
+for c in kippostr:
+    val += str(ord(c)) + ' '
+print("From kippo: [%s]" % val)
 
 # Send garbage string as response
 isOpen = True
-s.send("asdlkfjslkdjflskdf")
+skt.send("SSH-2.0-OpenSSH_5.1p1 Debian-5\r\n")
+#skt.send(kippostr)
 
-while isOpen:
-    kippo.send(s.recv(65535))
-    s.send(kippo.recv(65535))
+import threading
+def sendTo():
+    data = 'blah'
+    while data != None and data != '':
+        data = skt.recv(65535)
+        print ("--->: %s..." % data[:70])
+	if (len(data) > 2):
+            print ('Data ended with %d %d.' % (ord(data[-2]), ord(data[-1])))
+        kippo.send(data)
 
+def sendFrom():
+    data = 'blah'
+    while data != None and data != '':
+        data = kippo.recv(65535)
+	if (len(data) > 2):
+            print ('Data ended with %d %d.' % (ord(data[-2]), ord(data[-1])))
+        print ("<---: %s..." % data[:70])
+        skt.send(data)
+
+sender = threading.Thread(target=sendTo)
+sender.start()
+th = threading.Thread(target=sendFrom)
+th.daemon = True
+th.start()
+
+sender.join()
