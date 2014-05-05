@@ -79,4 +79,14 @@ def retrieveSession(ip):
     cur.execute("SELECT * FROM SessionData WHERE IP=%s", (ip,))
     session = cur.fetchone()
     db.close()
+    
+    if not session:
+	return None
+
+    timestamp = session[1]
+    elapsed = datetime.datetime.now() - timestamp
+
+    if(elapsed.seconds > 300):
+	return None
+ 	
     return session
