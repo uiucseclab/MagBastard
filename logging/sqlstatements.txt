@@ -1,7 +1,27 @@
+--To create first table
+
+CREATE TABLE `LogData` (
+  `Timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `DestIP` varchar(45) DEFAULT NULL,
+  `DestPort` int(11) DEFAULT NULL,
+  `SourceIP` varchar(45) DEFAULT NULL,
+  `SourcePort` int(11) DEFAULT NULL,
+  `Content` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`Timestamp`)
+)
+
 --To create second table
 
-CREATE  TABLE `logs`.`session_data` (
-  `Timestamp` TIMESTAMP NOT NULL ,
-  `Service Name` VARCHAR(45) NULL ,
-  PRIMARY KEY (`Timestamp`) );
+CREATE TABLE `SessionData` (
+  `IP` int(11) DEFAULT NULL,
+  `Timestamp` timestamp NULL DEFAULT NULL,
+  `P21` int(11) DEFAULT NULL,
+  `P22` int(11) DEFAULT NULL,
+  `P25` int(11) DEFAULT NULL,
+  `P80` int(11) DEFAULT NULL,
+  `P139` int(11) DEFAULT NULL
+)
 
+ALTER TABLE SessionData MODIFY IP VARCHAR(45)
+
+ALTER TABLE SessionData ADD PRIMARY KEY(IP)
