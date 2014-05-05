@@ -43,10 +43,11 @@ def updateSession(ip,resp,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
         cur.execute(query)
     else:
         #inserting the values into the table
-	query = "INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', %d, %d, %d, %d, %d)" % (ip, time, resp, p21,p22,p25,p80,p139)
+	query = "INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', '%s', '%s', %d, %d, %d, %d, %d)" % (ip, time, resp, p21,p22,p25,p80,p139)
         cur.execute(query)
 
     #closing the Database connection
+    db.commit()
     db.close()
 
 def updatetimestamp(ip):
