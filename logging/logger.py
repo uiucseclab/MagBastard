@@ -16,12 +16,34 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     time = datetime.datetime.now().strftime(f)
 
     #inserting the values into the table
-    cur.execute("INSERT INTO LogData (Timestamp, Dest IP, Dest Port, Source IP, Source Port, Content) VALUES (%s, %s, %d, %s, %d, %s)", time, destIP, destPort, srcIP, srcPort, content)
+    cur.execute("INSERT INTO LogData (Timestamp, Dest IP, Dest Port, Source IP, Source Port, Content) VALUES (%s, %s, %d, %s, %d, %s)", (time, destIP, destPort, srcIP, srcPort, content))
 
     #closing the Database connection
     db.close()
 
-def updateSession(ip,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
+def updateSession(ip,resp,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
+    #connecting to Database
+    db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
+	
+    #for interacting with the Database
+    cur = db.cursor()
+
+    ip = db.escape_string(ip)
+    resp = db.escape_string(resp)
+    f = '%Y-%m-%d %H:%M:%S'
+    time = datetime.datetime.now().strftime(f)
+
+    cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
+    if cur.fetchone():
+        cur.execute("UPDATE SessionData SET Timestamp=%s, Response=%s, p21=%s, p22=%s, p25=%s, p80=%s, p139=%s WHERE ip=%s", (time, resp, p21,p22,p25,p80,p139, ip)
+    else:
+        #inserting the values into the table
+        cur.execute("INSERT INTO SessionData (ip, Timestamp, Response, p21, p22, p25, p80, p139) VALUES (%s, %d, %d, %d, %d, %d)", (ip, time, resp, p21,p22,p25,p80,p139))
+
+    #closing the Database connection
+    db.close()
+
+def updatetimestamp(ip):
     #connecting to Database
     db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
 	
@@ -32,25 +54,21 @@ def updateSession(ip,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
     f = '%Y-%m-%d %H:%M:%S'
     time = datetime.datetime.now().strftime(f)
 
-    #inserting the values into the table
-    cur.execute("INSERT INTO SessionData (Timestamp, ip, p21, p22, p25, p80, p139) VALUES (%s, %d, %d, %d, %d, %d)", time, ip, p21,p22,p25,p80,p139)
+    cur.execute("UPDATE SessionData SET Timestamp=%s WHERE ip=%s", (time, ip)
 
     #closing the Database connection
     db.close()
 
-def logSession(ip,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
+def retrievesession(ip):
     #connecting to Database
-    db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
+    db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
 	
     #for interacting with the Database
     cur = db.cursor()
 
     ip = db.escape_string(ip)
-    f = '%Y-%m-%d %H:%M:%S'
-    time = datetime.datetime.now().strftime(f)
 
-    #inserting the values into the table
-    cur.execute("INSERT INTO SessionData (Timestamp, ip, p21, p22, p25, p80, p139) VALUES (%s, %d, %d, %d, %d, %d)", time, ip, p21,p22,p25,p80,p139)
-
-    #closing the Database connection
+    cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
+    session = cur.fetchone()
     db.close()
+    return session
