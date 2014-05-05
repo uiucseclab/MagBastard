@@ -39,10 +39,12 @@ def updateSession(ip,resp,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
 
     cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
     if cur.fetchone():
-        cur.execute("UPDATE SessionData SET Timestamp=%s, Response=%s, P21=%s, P22=%s, P25=%s, P80=%s, P139=%s WHERE IP=%s", (time, resp, p21,p22,p25,p80,p139, ip))
+	query = "UPDATE SessionData SET Timestamp='%s', Response='%s', P21=%d, P22=%d, P25=%d, P80=%d, P139=%d WHERE IP='%s'" % (time, resp, p21,p22,p25,p80,p139, ip)
+        cur.execute(query)
     else:
         #inserting the values into the table
-        cur.execute("INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', %d, %d, %d, %d, %d)", (ip, time, resp, p21,p22,p25,p80,p139))
+	query = "INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', %d, %d, %d, %d, %d)" % (ip, time, resp, p21,p22,p25,p80,p139)
+        cur.execute(query)
 
     #closing the Database connection
     db.close()
