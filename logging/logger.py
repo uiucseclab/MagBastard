@@ -50,9 +50,9 @@ def updateSession(ip,resp,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
     db.commit()
     db.close()
 
-def updatetimestamp(ip):
+def updateTimestamp(ip):
     #connecting to Database
-    db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
+    db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
 	
     #for interacting with the Database
     cur = db.cursor()
@@ -64,11 +64,12 @@ def updatetimestamp(ip):
     cur.execute("UPDATE SessionData SET Timestamp=%s WHERE IP=%s", (time, ip))
 
     #closing the Database connection
+    db.commit()
     db.close()
 
-def retrievesession(ip):
+def retrieveSession(ip):
     #connecting to Database
-    db = MySQLdb.connect(host="localhost", user="root", passwd="akash", db="logs")
+    db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
 	
     #for interacting with the Database
     cur = db.cursor()
