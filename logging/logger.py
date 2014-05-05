@@ -16,8 +16,12 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     time = datetime.datetime.now().strftime(f)
 
     #inserting the values into the table
-    cur.execute("INSERT INTO LogData (Timestamp, Dest IP, Dest Port, Source IP, Source Port, Content) VALUES (%s, %s, %d, %s, %d, %s)", (time, destIP, destPort, srcIP, srcPort, content))
-
+   
+    query = "INSERT INTO LogData (Timestamp, DestIP, DestPort, SourceIP, SourcePort, Content) VALUES ('%s', '%s', %d, '%s', %d, '%s')" % (time, destIP, destPort, srcIP, srcPort, content)
+   
+    cur.execute(query)
+    db.commit()
+   
     #closing the Database connection
     db.close()
 
@@ -35,10 +39,10 @@ def updateSession(ip,resp,p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
 
     cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
     if cur.fetchone():
-        cur.execute("UPDATE SessionData SET Timestamp=%s, Response=%s, p21=%s, p22=%s, p25=%s, p80=%s, p139=%s WHERE ip=%s", (time, resp, p21,p22,p25,p80,p139, ip)
+        cur.execute("UPDATE SessionData SET Timestamp=%s, Response=%s, P21=%s, P22=%s, P25=%s, P80=%s, P139=%s WHERE IP=%s", (time, resp, p21,p22,p25,p80,p139, ip))
     else:
         #inserting the values into the table
-        cur.execute("INSERT INTO SessionData (ip, Timestamp, Response, p21, p22, p25, p80, p139) VALUES (%s, %d, %d, %d, %d, %d)", (ip, time, resp, p21,p22,p25,p80,p139))
+        cur.execute("INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES (%s, %d, %d, %d, %d, %d)", (ip, time, resp, p21,p22,p25,p80,p139))
 
     #closing the Database connection
     db.close()
@@ -54,7 +58,7 @@ def updatetimestamp(ip):
     f = '%Y-%m-%d %H:%M:%S'
     time = datetime.datetime.now().strftime(f)
 
-    cur.execute("UPDATE SessionData SET Timestamp=%s WHERE ip=%s", (time, ip)
+    cur.execute("UPDATE SessionData SET Timestamp=%s WHERE IP=%s", (time, ip))
 
     #closing the Database connection
     db.close()
@@ -68,7 +72,7 @@ def retrievesession(ip):
 
     ip = db.escape_string(ip)
 
-    cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
+    cur.execute("SELECT * FROM SessionData WHERE IP=%s", (ip,))
     session = cur.fetchone()
     db.close()
     return session
