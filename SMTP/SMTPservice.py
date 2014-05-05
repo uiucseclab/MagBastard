@@ -4,7 +4,7 @@ import urlparse
 
 # Constants
 sendRate = 1000
-listenAddress = "172.16.200.240" 
+listenAddress = "localhost" 
 
 if len(sys.argv) > 1:
     def randint(a, b):

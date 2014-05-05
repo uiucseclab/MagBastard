@@ -1,9 +1,9 @@
-HTTP/1.1 #statuscode
-Server: #server
-Date: #date
-Content-Type: #contenttype
-Content-Length: #contentlength
-Last-Modified: #lastmodified
-Connection: close
-Accept-Ranges: bytes
-
+HTTP/1.1 #statuscode
+Server: #server
+Date: #date
+Content-Type: #contenttype
+Content-Length: #contentlength
+Last-Modified: #lastmodified
+Connection: close
+Accept-Ranges: bytes
+

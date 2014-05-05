@@ -1,10 +1,10 @@
-HTTP/1.1 #statuscode
-Content-Type: #contenttype
-Last-Modified: #lastmodified
-Accept-Ranges: bytes
-Server: #server
-X-Powered-By: ASP.NET
-Date: #date
-Connection: close
-Content-Length: #contentlength
-
+HTTP/1.1 #statuscode
+Content-Type: #contenttype
+Last-Modified: #lastmodified
+Accept-Ranges: bytes
+Server: #server
+X-Powered-By: ASP.NET
+Date: #date
+Connection: close
+Content-Length: #contentlength
+
