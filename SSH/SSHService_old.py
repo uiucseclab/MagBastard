@@ -14,7 +14,7 @@ else:
 
 def selectServer():
     # Read list of supported servers from file
-    file = open("servers.config", "r")
+    file = open("SSHservers.config", "r")
     servers = eval(file.read())
     file.close()
 
@@ -47,22 +47,20 @@ def getMessage(skt):
         return None
 
 def sendResponse(skt, msg, flags=0):
-    skt.send(msg)
+    try: 
+    	skt.send(msg)
+    except:
+	print("Connection reset!")
 
 def __main__():
     server = selectServer()
-    print("Chose NetBIOS server %s" % server["Name"])
-    listener = createListenerSocket(listenAddress, 139)
+    print("Chose SSH server %s" % server["Name"])
+    listener = createListenerSocket(listenAddress, 22)
     while 1 == 1:
         (s, details) = listener.accept()
         print("Got a connection!")
-
-        request = getMessage(s)
-        if request != None and request == '\0\0\0\xa4\xff\x53\x4d\x42\x72\0\0\0\0\x08\x01\x40\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x40\x06\0\0\x01\0\0\x81\0\x02PC NETWORK PROGRAM 1.0\0\x02MICROSOFT NETWORKS 1.03\0\x02MICROSOFT NETWORKS 3.0\0\x02LANMAN1.0\0\x02LM1.2X002\0\x02Samba\0\x02NT LANMAN 1.0\0\x02NT LM 0.12\0':
-#        if request != None:
-            print(request)
-            response = server["Response"]
-            sendResponse(s, response)
+        response = server["Response"]
+        sendResponse(s, response)
         s.close()
 
 __main__()

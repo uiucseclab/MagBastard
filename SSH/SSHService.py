@@ -1,66 +1,44 @@
-import time, uuid, sys, re
+from resources import ServiceListener
 import socket
-import urlparse
+import threading
 
-# Constants
-sendRate = 1000
-listenAddress = "localhost"
+kippoaddr = 'localhost'
+kippoport = 2222
 
-if len(sys.argv) > 1:
-    def randint(a, b):
-        return int(sys.argv[1])
-else:
-    from random import randint
+def sshHandler(s, server):
+    # Connect to Kippo; forward traffic
+    kippo = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    kippo.connect((kippoaddr, kippoport))
+    kippostr = kippo.recv(65535)
+    print("From kippo: '%s', %d %d" % (kippostr, ord(kippostr[-2]), ord(kippostr[-1])))
 
-def selectServer():
-    # Read list of supported servers from file
-    file = open("SSHservers.config", "r")
-    servers = eval(file.read())
-    file.close()
+    # Send selected version string as response
+    isOpen = True
+    s.send(server["Version"] + "\r\n")
+    ###skt.send(kippostr)
 
-    # Choose the server version
-    return servers[randint(0, len(servers) - 1)]
+    def sendTo():
+        data = 'blah'
+        while data != None and data != '':
+            data = s.recv(65535)
+            ###print ("--->: %s..." % data[:70])
+            ###if (len(data) > 2):
+            ###    print ('Data ended with %d %d.' % (ord(data[-2]), ord(data[-1])))
+            kippo.send(data)
 
-def createListenerSocket(host, port):
-    listener = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    listener.bind((host, port))
-    listener.listen(10)
-    return listener
+    def sendFrom():
+        data = 'blah'
+        while data != None and data != '':
+            data = kippo.recv(65535)
+            ###if (len(data) > 2):
+            ###    print ('Data ended with %d %d.' % (ord(data[-2]), ord(data[-1])))
+            ###print ("<---: %s..." % data[:70])
+            s.send(data)
 
+    sender = threading.Thread(target=sendTo)
+    sender.start()
+    th = threading.Thread(target=sendFrom)
+    th.daemon = True
+    th.start()
 
-def getMessage(skt):
-    skt.setblocking(1)
-    try:
-        message = skt.recv(1)
-    
-        if (len(message) < 1):
-            return None
-        skt.setblocking(0)
-        while True:
-            try:
-                message += skt.recv(100)
-            except socket.error:
-                break;
-        skt.setblocking(1)
-        return message
-    except:
-        return None
-
-def sendResponse(skt, msg, flags=0):
-    try: 
-    	skt.send(msg)
-    except:
-	print("Connection reset!")
-
-def __main__():
-    server = selectServer()
-    print("Chose SSH server %s" % server["Name"])
-    listener = createListenerSocket(listenAddress, 22)
-    while 1 == 1:
-        (s, details) = listener.accept()
-        print("Got a connection!")
-        response = server["Response"]
-        sendResponse(s, response)
-        s.close()
-
-__main__()
+    sender.join()

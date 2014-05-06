@@ -55,11 +55,16 @@ def startListener(requestHandler, port, configFilename):
     try:
         while True:
             (s, details) = listener.accept()
-            print("Got a connection!")
+            print("Got a connection from %s:%d!" % details)
             
             # Check if we have an existing session
-            #logger.retrievesession(
-            server = selectServer(configFilename=configFilename)
+            #session = logger.retrievesession(details[0])
+            #if session == None:
+            #    index = None:
+            #else:
+            #    index = session.versions[port]
+            server = selectServer(configFilename=configFilename, index=None)#index)
+            
             print("Chose server %s" % server["Name"])
             requestHandler(s, server)
     except (KeyboardInterrupt, SystemExit):
