@@ -64,12 +64,12 @@ def startListener(requestHandler, port, configFilename):
             print("Got a connection from %s:%d!" % details)
             
             # Check if we have an existing session
-            #session = logger.retrievesession(details[0])
-            #if session == None:
-            #    index = None:
-            #else:
-            #    index = session.versions[port]
-            server = selectServer(configFilename=configFilename, index=None)#index)
+            session = logger.retrieveSession(details[0])
+            if session == None:
+                index = None:
+            else:
+                index = session.versions[port]
+            server = selectServer(configFilename=configFilename, index)
             
             print("Chose server %s" % server["Name"])
             requestHandler(s, server)

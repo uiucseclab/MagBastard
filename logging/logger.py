@@ -1,22 +1,23 @@
 import MySQLdb
 import datetime
 
+timeout = 300 # seconds
+
 class Session:
-    def __init__(self, ip='', ts=datetime.datetime.now(), resp='',p21=-1,p22=-1,p25=-1,p80=-1,p139=-1,pts={}):
+    def __init__(self, ip='', ts=datetime.datetime.now(), p21=-1,p22=-1,p25=-1,p80=-1,p139=-1,pts={}):
         self.IP = ip
         self.Timestamp = ts
-        self.Response = resp
         self.Ports = pts
-        if not p21 == -1:
-            self.Ports['P21'] = p21
-        if not p22 == -1:
-            self.Ports['P22'] = p22
-        if not p25 == -1:
-            self.Ports['P25'] = p25
-        if not p80 == -1:
-            self.Ports['P80'] = p80
-        if not p139 == -1:
-            self.Ports['P139'] = p139
+        if p21 != -1:
+            self.Ports[21] = p21
+        if p22 != -1:
+            self.Ports[22] = p22
+        if p25 != -1:
+            self.Ports[25] = p25
+        if p80 != -1:
+            self.Ports[80] = p80
+        if p139 != -1:
+            self.Ports[139] = p139
         
 
 def logEvent(destIP, destPort, srcIP, srcPort, content):
@@ -43,29 +44,17 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     #closing the Database connection
     db.close()
 
-def updateSession(ip='',session=None,resp='',p21=-1,p22=-1,p25=-1,p80=-1,p139=-1):
-    if session:
-        if not ip:
-            ip = session.IP
-        if not resp:
-            resp = session.Response
-        if p21==-1:
-            if 'P21' in session.Ports:
-                p21 = session.Ports['P21']
-        if p22==-1:
-            if 'P22' in session.Ports:
-                p22 = session.Ports['P22']
-        if p25==-1:
-            if 'P25' in session.Ports:
-                p25 = session.Ports['P25']
-        if p80==-1:
-            if 'P80' in session.Ports:
-                p80 = session.Ports['P80']
-        if p139==-1:
-            if 'P139' in session.Ports:
-                p139 = session.Ports['P139']
+def updateSession(ip='',session=None):
+    if session and not ip:
+        ip = session.IP
     if not ip:
         return
+    p21 = session.Ports[21] if (session and 21 in session.Ports) else -1
+    p22 = session.Ports[22] if (session and 22 in session.Ports) else -1
+    p25 = session.Ports[25] if (session and 25 in session.Ports) else -1
+    p80 = session.Ports[80] if (session and 80 in session.Ports) else -1
+    p139 = session.Ports[139] if (session and 139 in session.Ports) else -1
+
     #connecting to Database
     db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
 	
@@ -82,11 +71,11 @@ def updateSession(ip='',session=None,resp='',p21=-1,p22=-1,p25=-1,p80=-1,p139=-1
 
     cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
     if cur.fetchone():
-	query = "UPDATE SessionData SET Timestamp='%s', Response='%s', P21=%d, P22=%d, P25=%d, P80=%d, P139=%d WHERE IP='%s'" % (time, resp, p21,p22,p25,p80,p139, ip)
+	query = "UPDATE SessionData SET Timestamp='%s', Response='%s', P21=%d, P22=%d, P25=%d, P80=%d, P139=%d WHERE IP='%s'" % (time, '', p21,p22,p25,p80,p139, ip)
         cur.execute(query)
     else:
         #inserting the values into the table
-	query = "INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', '%s', '%s', %d, %d, %d, %d, %d)" % (ip, time, resp, p21,p22,p25,p80,p139)
+	query = "INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', '%s', '%s', %d, %d, %d, %d, %d)" % (ip, time, '', p21,p22,p25,p80,p139)
         cur.execute(query)
 
     #closing the Database connection
@@ -137,8 +126,8 @@ def retrieveSession(ip):
     timestamp = session[1]
     elapsed = datetime.datetime.now() - timestamp
 
-    if(elapsed.seconds > 300):
+    if(elapsed.seconds > timeout):
         return None
 
-    ses = new Session(ip=session[0],ts=session[1],resp=session[2],p21=session[3],p22=session[4],p25=session[5],p80=session[6],p139=session[7])
+    ses = Session(ip=session[0],ts=session[1],resp=None,p21=int(session[3]),p22=int(session[4]),p25=int(session[5]),p80=int(session[6]),p139=int(session[7]))
     return ses
