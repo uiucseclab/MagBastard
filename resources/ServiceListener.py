@@ -13,6 +13,14 @@ from random import randint
 sendRate = 1000
 listenAddress = "localhost"
 
+serviceMappings = {
+    21: 'ftp',
+    22: 'ssh',
+    25: 'smtp',
+    80: 'http',
+    139: 'samba'
+}
+
 def selectServer(configFilename="servers.config", index=None):
     # Read list of supported servers from file
     file = open(configFilename, "r")
@@ -68,7 +76,8 @@ def startListener(requestHandler, port, configFilename):
             if session == None:
                 index = None:
             else:
-                index = session.versions[port]
+                
+                index = session.Ports[serviceName[port]]
             server = selectServer(configFilename=configFilename, index)
             
             print("Chose server %s" % server["Name"])

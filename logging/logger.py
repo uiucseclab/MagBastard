@@ -2,22 +2,23 @@ import MySQLdb
 import datetime
 
 timeout = 300 # seconds
+timestampFormatString = '%Y-%m-%d %H:%M:%S.%f'
 
 class Session:
-    def __init__(self, ip='', ts=datetime.datetime.now(), p21=-1,p22=-1,p25=-1,p80=-1,p139=-1,pts={}):
+    def __init__(self, ip='', ts=datetime.datetime.now(), ftp=-1,ssh=-1,smtp=-1,http=-1,samba=-1,pts={}):
         self.IP = ip
         self.Timestamp = ts
         self.Ports = pts
-        if p21 != -1:
-            self.Ports[21] = p21
-        if p22 != -1:
-            self.Ports[22] = p22
-        if p25 != -1:
-            self.Ports[25] = p25
-        if p80 != -1:
-            self.Ports[80] = p80
-        if p139 != -1:
-            self.Ports[139] = p139
+        if ftp != -1:
+            self.Ports['ftp'] = ftp
+        if ssh != -1:
+            self.Ports['ssh'] = ssh
+        if smtp != -1:
+            self.Ports['smtp'] = smtp
+        if http != -1:
+            self.Ports['http'] = http
+        if samba != -1:
+            self.Ports['samba'] = samba
         
 
 def logEvent(destIP, destPort, srcIP, srcPort, content):
@@ -31,7 +32,7 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     destIP = db.escape_string(destIP)
     srcIP = db.escape_string(srcIP)
     content = db.escape_string(content)
-    f = '%Y-%m-%d %H:%M:%S'
+    f = timestampFormatString
     time = datetime.datetime.now().strftime(f)
 
     #inserting the values into the table
@@ -44,16 +45,16 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     #closing the Database connection
     db.close()
 
-def updateSession(ip='',session=None):
+def updateSession(ip,session=None):
     if session and not ip:
         ip = session.IP
     if not ip:
         return
-    p21 = session.Ports[21] if (session and 21 in session.Ports) else -1
-    p22 = session.Ports[22] if (session and 22 in session.Ports) else -1
-    p25 = session.Ports[25] if (session and 25 in session.Ports) else -1
-    p80 = session.Ports[80] if (session and 80 in session.Ports) else -1
-    p139 = session.Ports[139] if (session and 139 in session.Ports) else -1
+    p21 = session.Ports['ftp'] if (session and 'ftp' in session.Ports) else -1
+    p22 = session.Ports['ssh'] if (session and 'ssh' in session.Ports) else -1
+    p25 = session.Ports['smtp'] if (session and 'smtp' in session.Ports) else -1
+    p80 = session.Ports['http'] if (session and 'http' in session.Ports) else -1
+    p139 = session.Ports['samba'] if (session and 'samba' in session.Ports) else -1
 
     #connecting to Database
     db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
@@ -63,7 +64,7 @@ def updateSession(ip='',session=None):
 
     ip = db.escape_string(ip)
     resp = db.escape_string(resp)
-    f = '%Y-%m-%d %H:%M:%S'
+    f = timestampFormatString
     time = datetime.datetime.now()
     if session:
         session.Timestamp = time
@@ -95,13 +96,16 @@ def updateTimestamp(ip=None,session=None):
     cur = db.cursor()
 
     ip = db.escape_string(ip)
-    f = '%Y-%m-%d %H:%M:%S'
+    f = timestampFormatString
     time = datetime.datetime.now()
     if session:
         session.Timestamp = time
     time = time.strftime(f)
 
     cur.execute("UPDATE SessionData SET Timestamp=%s WHERE IP=%s", (time, ip))
+    response = cur.fetchone()
+    if response:
+        print(response)
 
     #closing the Database connection
     db.commit()
@@ -129,5 +133,5 @@ def retrieveSession(ip):
     if(elapsed.seconds > timeout):
         return None
 
-    ses = Session(ip=session[0],ts=session[1],resp=None,p21=int(session[3]),p22=int(session[4]),p25=int(session[5]),p80=int(session[6]),p139=int(session[7]))
+    ses = Session(ip=session[0],ts=session[1],resp=None,ftp=int(session[3]),ssh=int(session[4]),smtp=int(session[5]),http=int(session[6]),samba=int(session[7]))
     return ses

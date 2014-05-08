@@ -4,8 +4,14 @@ import threading
 
 kippoaddr = 'localhost'
 kippoport = 2222
+kippoVerStrFile = "/home/magbastard/kippo.ip"
 
 def sshHandler(s, server):
+    # Provide kippo with the version string to use
+    f = open(kippoVerStrFile, "w")
+    f.write(server["Version"])
+    f.close()
+
     # Connect to Kippo; forward traffic
     kippo = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     kippo.connect((kippoaddr, kippoport))
@@ -13,7 +19,6 @@ def sshHandler(s, server):
     print("From kippo: '%s', %d %d" % (kippostr, ord(kippostr[-2]), ord(kippostr[-1])))
 
     # Send selected version string as response
-    isOpen = True
     s.send(server["Version"] + "\r\n")
     ###skt.send(kippostr)
 
