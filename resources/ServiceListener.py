@@ -48,9 +48,12 @@ def getMessage(skt):
         return None
 
 def sendResponse(skt, msg, flags=0):
-    for i in range(0, len(msg) - sendRate, sendRate):
-        skt.send(msg[i:i+sendRate])
-    skt.send(msg[len(msg)//sendRate*sendRate:], flags)
+    try:
+        for i in range(0, len(msg) - sendRate, sendRate):
+            skt.send(msg[i:i+sendRate])
+        skt.send(msg[len(msg)//sendRate*sendRate:], flags)
+    except:
+        print("Connection reset by client!")
 
 def startListener(requestHandler, port, configFilename):
     listener = createListenerSocket(listenAddress, port)
