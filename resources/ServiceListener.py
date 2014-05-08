@@ -32,17 +32,20 @@ def createListenerSocket(host, port):
 
 def getMessage(skt):
     skt.setblocking(1)
-    message = skt.recv(1)
-    if (len(message) < 1):
+    try:
+        message = skt.recv(1)
+        if (len(message) < 1):
+            return None
+        skt.setblocking(0)
+        while True:
+            try:
+                message += skt.recv(100)
+            except socket.error:
+                break;
+        skt.setblocking(1)
+        return message
+    except:
         return None
-    skt.setblocking(0)
-    while True:
-        try:
-            message += skt.recv(100)
-        except socket.error:
-            break;
-    skt.setblocking(1)
-    return message
 
 def sendResponse(skt, msg, flags=0):
     for i in range(0, len(msg) - sendRate, sendRate):
