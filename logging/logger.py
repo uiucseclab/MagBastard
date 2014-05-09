@@ -66,6 +66,12 @@ def updateSession(session):
     p80R = session.Responses['http'] if (session and 'http' in session.Responses) else ''
     p139 = session.Ports['samba'] if (session and 'samba' in session.Ports) else -1
     p139R = session.Responses['samba'] if (session and 'samba' in session.Responses) else ''
+    
+    p21R = '' if p21R == None
+    p22R = '' if p22R == None
+    p25R = '' if p25R == None
+    p80R = '' if p80R == None
+    p139R = '' if p139R == None
 
     #connecting to Database
     db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
@@ -82,11 +88,11 @@ def updateSession(session):
 
     cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
     if cur.fetchone():
-	query = "UPDATE SessionData SET Timestamp='%s', Response='%s', FTP=%d, SSH=%d, SMTP=%d, HTTP=%d, SAMBA=%d, FTPResponse = '%s', SSHResponse = '%s', SMTPResponse = '%s', HTTPResponse = '%s', SAMBAResponse = '%s' WHERE IP='%s'" % (time, '', p21,p22,p25,p80,p139,p21R,p22R,p25R,p80R,p139R, ip)
+	query = "UPDATE SessionData SET Timestamp='%s', FTP=%d, SSH=%d, SMTP=%d, HTTP=%d, SAMBA=%d, FTPResponse = '%s', SSHResponse = '%s', SMTPResponse = '%s', HTTPResponse = '%s', SAMBAResponse = '%s' WHERE IP='%s'" % (time, p21,p22,p25,p80,p139,p21R,p22R,p25R,p80R,p139R, ip)
         cur.execute(query)
     else:
         #inserting the values into the table
-	query = "INSERT INTO SessionData (IP, Timestamp, Response, FTP, SSH, SMTP, HTTP, SAMBA, FTPResponse, SSHResponse, SMTPResponse, HTTPResponse, SAMBAResponse) VALUES ('%s', '%s', '%s', %d, %d, %d, %d, %d, '%s', '%s', '%s', '%s', '%s')" % (ip, time, '', p21,p22,p25,p80,p139,p21R,p22R,p25R,p80R,p139R)
+	query = "INSERT INTO SessionData (IP, Timestamp, FTP, SSH, SMTP, HTTP, SAMBA, FTPResponse, SSHResponse, SMTPResponse, HTTPResponse, SAMBAResponse) VALUES ('%s', '%s', %d, %d, %d, %d, %d, '%s', '%s', '%s', '%s', '%s')" % (ip, time, p21,p22,p25,p80,p139,p21R,p22R,p25R,p80R,p139R)
         cur.execute(query)
 
     #closing the Database connection
