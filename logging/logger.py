@@ -68,7 +68,7 @@ def updateSession(ip,session=None):
     time = datetime.datetime.now()
     if session:
         session.Timestamp = time
-    time = datetime.strftime(f)
+    time = time.strftime(f)
 
     cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
     if cur.fetchone():
@@ -100,7 +100,7 @@ def updateTimestamp(ip=None,session=None):
     time = datetime.datetime.now()
     if session:
         session.Timestamp = time
-    time = datetime.strftime(f)
+    time = time.strftime(f)
 
     cur.execute("UPDATE SessionData SET Timestamp=%s WHERE IP=%s", (time, ip))
     response = cur.fetchone()
