@@ -1,5 +1,5 @@
 import socket
-#from logging import logger
+from logging import logger
 
 ###import sys
 ###
@@ -14,11 +14,11 @@ sendRate = 1000
 listenAddress = "localhost"
 
 serviceMappings = {
-    21: 'ftp',
-    22: 'ssh',
-    25: 'smtp',
-    80: 'http',
-    139: 'samba'
+    10021: 'ftp',
+    10022: 'ssh',
+    10025: 'smtp',
+    10080: 'http',
+    10139: 'samba'
 }
 
 def selectServer(configFilename="servers.config", index=None):
@@ -75,11 +75,10 @@ def startListener(requestHandler, port, configFilename):
             # Check if we have an existing session
             session = logger.retrieveSession(details[0])
             if session == None:
-                index = None:
+                index = None
             else:
-                
-                index = session.Ports[serviceName[port]]
-            server = selectServer(configFilename=configFilename, index)
+                index = session.Ports[serviceMappings[port]]
+            server = selectServer(configFilename=configFilename, index=index)
             
             print("Chose server %s" % server["Name"])
             requestHandler(s, server, details)
