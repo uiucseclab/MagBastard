@@ -846,3 +846,35 @@
 2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] starting service ssh-userauth
 2014-05-09 02:00:28+0000 [SSHService ssh-userauth on HoneyPotTransport,8,127.0.0.1] bambi trying auth none
 2014-05-09 02:00:28+0000 [SSHService ssh-userauth on HoneyPotTransport,8,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:10:32+0000 [HoneyPotTransport,1,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,2,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,3,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,4,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,5,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,6,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,7,127.0.0.1] connection lost
+2014-05-09 02:10:32+0000 [HoneyPotTransport,8,127.0.0.1] connection lost
+2014-05-09 02:19:14+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35715 (127.0.0.1:2222) [session: 9]
+2014-05-09 02:19:14+0000 [HoneyPotTransport,9,127.0.0.1] connection lost
+2014-05-09 02:19:15+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:36333 (127.0.0.1:2222) [session: 10]
+2014-05-09 02:19:15+0000 [HoneyPotTransport,10,127.0.0.1] connection lost
+2014-05-09 02:26:09+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:36741 (127.0.0.1:2222) [session: 11]
+2014-05-09 02:26:09+0000 [HoneyPotTransport,11,127.0.0.1] connection lost
+2014-05-09 02:26:11+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:37355 (127.0.0.1:2222) [session: 12]
+2014-05-09 02:26:11+0000 [HoneyPotTransport,12,127.0.0.1] connection lost
+2014-05-09 02:26:19+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:38130 (127.0.0.1:2222) [session: 13]
+2014-05-09 02:26:19+0000 [HoneyPotTransport,13,127.0.0.1] connection lost
+2014-05-09 02:26:20+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:38361 (127.0.0.1:2222) [session: 14]
+2014-05-09 02:26:21+0000 [HoneyPotTransport,14,127.0.0.1] connection lost
+2014-05-09 02:27:56+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:38472 (127.0.0.1:2222) [session: 15]
+2014-05-09 02:27:56+0000 [HoneyPotTransport,15,127.0.0.1] connection lost
+2014-05-09 02:27:57+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:39371 (127.0.0.1:2222) [session: 16]
+2014-05-09 02:27:57+0000 [HoneyPotTransport,16,127.0.0.1] connection lost
+2014-05-09 02:31:00+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:39400 (127.0.0.1:2222) [session: 17]
+2014-05-09 02:31:00+0000 [HoneyPotTransport,17,127.0.0.1] connection lost
+2014-05-09 02:35:04+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:39436 (127.0.0.1:2222) [session: 18]
+2014-05-09 02:35:04+0000 [HoneyPotTransport,18,127.0.0.1] connection lost
+2014-05-09 02:45:37+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:39893 (127.0.0.1:2222) [session: 19]
+2014-05-09 02:45:37+0000 [HoneyPotTransport,19,127.0.0.1] connection lost
+2014-05-09 02:45:39+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40557 (127.0.0.1:2222) [session: 20]
+2014-05-09 02:45:39+0000 [HoneyPotTransport,20,127.0.0.1] connection lost
