@@ -1,6 +1,7 @@
 import urlparse
 import time, uuid, sys, re
 from resources import ServiceListener
+from logging import logger
 
 def httpResponse(server, StatusCode="200 OK", ContentType="text/html", filename="HTTP/generic.header", body="HTTP/no_wai.html"):
     # Construct the time strings for the response
@@ -34,9 +35,11 @@ def httpResponse(server, StatusCode="200 OK", ContentType="text/html", filename=
     response = response + Body
     return response
 
-def httpHandler(s, server):
+def httpHandler(s, server, details):
     request = ServiceListener.getMessage(s)
+    logger.updateTimestamp(details[0])
     if request != None:
+        logger.logEvent(details[2], details[3], details[0], details[1], request)
         print(request)
         properRequest = (request.find("\r\n\r\n") != -1)
         # Chain of messages to support
@@ -62,6 +65,7 @@ def httpHandler(s, server):
             ###if server["GET"]["FIN_w_response"]:
             ###    flags = 0
             ServiceListener.sendResponse(s, response, flags)
+            logger.logEvent(details[2], details[3], details[0], details[1], response)
         elif (request.startswith("OPTIONS ") and "RTSP" in request and properRequest):
             response = httpResponse(server, filename="HTTP/"+server["OPTIONS_RTSP"]["Filename"], body="HTTP/nobody.html")
             ServiceListener.sendResponse(s, response)
