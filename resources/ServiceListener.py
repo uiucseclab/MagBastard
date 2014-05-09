@@ -30,7 +30,7 @@ def selectServer(configFilename="servers.config", index=None):
     # Choose the server version
     if index == None:
         index = randint(0, len(servers) - 1)
-    return servers[index]
+    return (servers[index], index)
 
 def createListenerSocket(host, port):
     listener = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -81,7 +81,7 @@ def startListener(requestHandler, port, configFilename):
             else:
                 if serviceName in session.Ports:
                     index = session.Ports[serviceName]
-            server = selectServer(configFilename=configFilename, index=index)
+            server, index = selectServer(configFilename=configFilename, index=index)
             
             responseType = "ACCEPT" if randint(0, 1000) >= 500 else "REJECT"
             if serviceName in session.Responses and session.Responses[serviceName] != None:
@@ -89,7 +89,7 @@ def startListener(requestHandler, port, configFilename):
                 
             # If we didn't have a version string before, add it now
             if index == None:
-                session.Ports[serviceMappings[port]] = server["Version"]
+                session.Ports[serviceMappings[port]] = index
                 session.Responses[serviceMappings[port]] = responseType
                 logger.updateSession(session)
             
