@@ -45,7 +45,7 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     #closing the Database connection
     db.close()
 
-def updateSession(ip,session=None):
+def updateSession(ip=None,session=None):
     if session and not ip:
         ip = session.IP
     if not ip:
@@ -63,7 +63,6 @@ def updateSession(ip,session=None):
     cur = db.cursor()
 
     ip = db.escape_string(ip)
-    resp = db.escape_string(resp)
     f = timestampFormatString
     time = datetime.datetime.now()
     if session:
