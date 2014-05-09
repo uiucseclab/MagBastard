@@ -1,0 +1,848 @@
+2014-05-09 01:23:11+0000 [-] Log opened.
+2014-05-09 01:23:11+0000 [-] twistd 11.1.0 (/usr/bin/python 2.7.3) starting up.
+2014-05-09 01:23:11+0000 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2014-05-09 01:23:11+0000 [-] HoneyPotSSHFactory starting on 2222
+2014-05-09 01:23:11+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x22cbab8>
+2014-05-09 01:24:23+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33068 (127.0.0.1:2222) [session: 0]
+2014-05-09 01:24:23+0000 [HoneyPotTransport,0,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:23+0000 [HoneyPotTransport,0,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:23+0000 [HoneyPotTransport,0,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:23+0000 [HoneyPotTransport,0,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:23+0000 [HoneyPotTransport,0,127.0.0.1] NEW KEYS
+2014-05-09 01:24:23+0000 [HoneyPotTransport,0,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:23+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] root trying auth none
+2014-05-09 01:24:23+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:29+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33071 (127.0.0.1:2222) [session: 1]
+2014-05-09 01:24:29+0000 [HoneyPotTransport,1,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:29+0000 [HoneyPotTransport,1,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:29+0000 [HoneyPotTransport,1,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:29+0000 [HoneyPotTransport,1,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:29+0000 [HoneyPotTransport,1,127.0.0.1] NEW KEYS
+2014-05-09 01:24:29+0000 [HoneyPotTransport,1,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:29+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root trying auth none
+2014-05-09 01:24:29+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:31+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33073 (127.0.0.1:2222) [session: 2]
+2014-05-09 01:24:31+0000 [HoneyPotTransport,2,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:31+0000 [HoneyPotTransport,2,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:31+0000 [HoneyPotTransport,2,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:31+0000 [HoneyPotTransport,2,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:31+0000 [HoneyPotTransport,2,127.0.0.1] NEW KEYS
+2014-05-09 01:24:31+0000 [HoneyPotTransport,2,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:31+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] root trying auth none
+2014-05-09 01:24:31+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:33+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33075 (127.0.0.1:2222) [session: 3]
+2014-05-09 01:24:33+0000 [HoneyPotTransport,3,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:33+0000 [HoneyPotTransport,3,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:33+0000 [HoneyPotTransport,3,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:33+0000 [HoneyPotTransport,3,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:33+0000 [HoneyPotTransport,3,127.0.0.1] NEW KEYS
+2014-05-09 01:24:33+0000 [HoneyPotTransport,3,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:33+0000 [SSHService ssh-userauth on HoneyPotTransport,3,127.0.0.1] root trying auth none
+2014-05-09 01:24:33+0000 [SSHService ssh-userauth on HoneyPotTransport,3,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:35+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33077 (127.0.0.1:2222) [session: 4]
+2014-05-09 01:24:35+0000 [HoneyPotTransport,4,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:35+0000 [HoneyPotTransport,4,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:35+0000 [HoneyPotTransport,4,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:35+0000 [HoneyPotTransport,4,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:35+0000 [HoneyPotTransport,4,127.0.0.1] NEW KEYS
+2014-05-09 01:24:35+0000 [HoneyPotTransport,4,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:35+0000 [SSHService ssh-userauth on HoneyPotTransport,4,127.0.0.1] root trying auth none
+2014-05-09 01:24:35+0000 [SSHService ssh-userauth on HoneyPotTransport,4,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:37+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33079 (127.0.0.1:2222) [session: 5]
+2014-05-09 01:24:37+0000 [HoneyPotTransport,5,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:37+0000 [HoneyPotTransport,5,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:37+0000 [HoneyPotTransport,5,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:37+0000 [HoneyPotTransport,5,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:37+0000 [HoneyPotTransport,5,127.0.0.1] NEW KEYS
+2014-05-09 01:24:37+0000 [HoneyPotTransport,5,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:37+0000 [SSHService ssh-userauth on HoneyPotTransport,5,127.0.0.1] root trying auth none
+2014-05-09 01:24:37+0000 [SSHService ssh-userauth on HoneyPotTransport,5,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:43+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33081 (127.0.0.1:2222) [session: 6]
+2014-05-09 01:24:43+0000 [HoneyPotTransport,6,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:43+0000 [HoneyPotTransport,6,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:43+0000 [HoneyPotTransport,6,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:43+0000 [HoneyPotTransport,6,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:43+0000 [HoneyPotTransport,6,127.0.0.1] NEW KEYS
+2014-05-09 01:24:43+0000 [HoneyPotTransport,6,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:43+0000 [SSHService ssh-userauth on HoneyPotTransport,6,127.0.0.1] root trying auth none
+2014-05-09 01:24:43+0000 [SSHService ssh-userauth on HoneyPotTransport,6,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:45+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33083 (127.0.0.1:2222) [session: 7]
+2014-05-09 01:24:45+0000 [HoneyPotTransport,7,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:45+0000 [HoneyPotTransport,7,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:45+0000 [HoneyPotTransport,7,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:45+0000 [HoneyPotTransport,7,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:45+0000 [HoneyPotTransport,7,127.0.0.1] NEW KEYS
+2014-05-09 01:24:45+0000 [HoneyPotTransport,7,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:45+0000 [SSHService ssh-userauth on HoneyPotTransport,7,127.0.0.1] root trying auth none
+2014-05-09 01:24:45+0000 [SSHService ssh-userauth on HoneyPotTransport,7,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:47+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33085 (127.0.0.1:2222) [session: 8]
+2014-05-09 01:24:47+0000 [HoneyPotTransport,8,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:47+0000 [HoneyPotTransport,8,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:47+0000 [HoneyPotTransport,8,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:47+0000 [HoneyPotTransport,8,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:47+0000 [HoneyPotTransport,8,127.0.0.1] NEW KEYS
+2014-05-09 01:24:47+0000 [HoneyPotTransport,8,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:47+0000 [SSHService ssh-userauth on HoneyPotTransport,8,127.0.0.1] root trying auth none
+2014-05-09 01:24:47+0000 [SSHService ssh-userauth on HoneyPotTransport,8,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:49+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33087 (127.0.0.1:2222) [session: 9]
+2014-05-09 01:24:49+0000 [HoneyPotTransport,9,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:49+0000 [HoneyPotTransport,9,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:49+0000 [HoneyPotTransport,9,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:49+0000 [HoneyPotTransport,9,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:49+0000 [HoneyPotTransport,9,127.0.0.1] NEW KEYS
+2014-05-09 01:24:49+0000 [HoneyPotTransport,9,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:49+0000 [SSHService ssh-userauth on HoneyPotTransport,9,127.0.0.1] root trying auth none
+2014-05-09 01:24:49+0000 [SSHService ssh-userauth on HoneyPotTransport,9,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:50+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33089 (127.0.0.1:2222) [session: 10]
+2014-05-09 01:24:50+0000 [HoneyPotTransport,10,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:50+0000 [HoneyPotTransport,10,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:50+0000 [HoneyPotTransport,10,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:50+0000 [HoneyPotTransport,10,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:50+0000 [HoneyPotTransport,10,127.0.0.1] NEW KEYS
+2014-05-09 01:24:50+0000 [HoneyPotTransport,10,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:50+0000 [SSHService ssh-userauth on HoneyPotTransport,10,127.0.0.1] root trying auth none
+2014-05-09 01:24:50+0000 [SSHService ssh-userauth on HoneyPotTransport,10,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:51+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33091 (127.0.0.1:2222) [session: 11]
+2014-05-09 01:24:51+0000 [HoneyPotTransport,11,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:51+0000 [HoneyPotTransport,11,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:51+0000 [HoneyPotTransport,11,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:51+0000 [HoneyPotTransport,11,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:51+0000 [HoneyPotTransport,11,127.0.0.1] NEW KEYS
+2014-05-09 01:24:51+0000 [HoneyPotTransport,11,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:51+0000 [SSHService ssh-userauth on HoneyPotTransport,11,127.0.0.1] root trying auth none
+2014-05-09 01:24:51+0000 [SSHService ssh-userauth on HoneyPotTransport,11,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:53+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33093 (127.0.0.1:2222) [session: 12]
+2014-05-09 01:24:53+0000 [HoneyPotTransport,12,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:53+0000 [HoneyPotTransport,12,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:53+0000 [HoneyPotTransport,12,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:53+0000 [HoneyPotTransport,12,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:53+0000 [HoneyPotTransport,12,127.0.0.1] NEW KEYS
+2014-05-09 01:24:53+0000 [HoneyPotTransport,12,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:53+0000 [SSHService ssh-userauth on HoneyPotTransport,12,127.0.0.1] root trying auth none
+2014-05-09 01:24:53+0000 [SSHService ssh-userauth on HoneyPotTransport,12,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:54+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33096 (127.0.0.1:2222) [session: 13]
+2014-05-09 01:24:54+0000 [HoneyPotTransport,13,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:54+0000 [HoneyPotTransport,13,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:54+0000 [HoneyPotTransport,13,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:54+0000 [HoneyPotTransport,13,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:54+0000 [HoneyPotTransport,13,127.0.0.1] NEW KEYS
+2014-05-09 01:24:54+0000 [HoneyPotTransport,13,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:54+0000 [SSHService ssh-userauth on HoneyPotTransport,13,127.0.0.1] root trying auth none
+2014-05-09 01:24:54+0000 [SSHService ssh-userauth on HoneyPotTransport,13,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:55+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33098 (127.0.0.1:2222) [session: 14]
+2014-05-09 01:24:55+0000 [HoneyPotTransport,14,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:55+0000 [HoneyPotTransport,14,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:55+0000 [HoneyPotTransport,14,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:55+0000 [HoneyPotTransport,14,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:55+0000 [HoneyPotTransport,14,127.0.0.1] NEW KEYS
+2014-05-09 01:24:55+0000 [HoneyPotTransport,14,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:55+0000 [SSHService ssh-userauth on HoneyPotTransport,14,127.0.0.1] root trying auth none
+2014-05-09 01:24:55+0000 [SSHService ssh-userauth on HoneyPotTransport,14,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:56+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33100 (127.0.0.1:2222) [session: 15]
+2014-05-09 01:24:56+0000 [HoneyPotTransport,15,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:56+0000 [HoneyPotTransport,15,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:56+0000 [HoneyPotTransport,15,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:56+0000 [HoneyPotTransport,15,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:56+0000 [HoneyPotTransport,15,127.0.0.1] NEW KEYS
+2014-05-09 01:24:56+0000 [HoneyPotTransport,15,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:56+0000 [SSHService ssh-userauth on HoneyPotTransport,15,127.0.0.1] root trying auth none
+2014-05-09 01:24:56+0000 [SSHService ssh-userauth on HoneyPotTransport,15,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:57+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33102 (127.0.0.1:2222) [session: 16]
+2014-05-09 01:24:57+0000 [HoneyPotTransport,16,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:57+0000 [HoneyPotTransport,16,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:57+0000 [HoneyPotTransport,16,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:57+0000 [HoneyPotTransport,16,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:57+0000 [HoneyPotTransport,16,127.0.0.1] NEW KEYS
+2014-05-09 01:24:57+0000 [HoneyPotTransport,16,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:57+0000 [SSHService ssh-userauth on HoneyPotTransport,16,127.0.0.1] root trying auth none
+2014-05-09 01:24:57+0000 [SSHService ssh-userauth on HoneyPotTransport,16,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:58+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33104 (127.0.0.1:2222) [session: 17]
+2014-05-09 01:24:58+0000 [HoneyPotTransport,17,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:58+0000 [HoneyPotTransport,17,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:58+0000 [HoneyPotTransport,17,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:58+0000 [HoneyPotTransport,17,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:58+0000 [HoneyPotTransport,17,127.0.0.1] NEW KEYS
+2014-05-09 01:24:58+0000 [HoneyPotTransport,17,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:58+0000 [SSHService ssh-userauth on HoneyPotTransport,17,127.0.0.1] root trying auth none
+2014-05-09 01:24:58+0000 [SSHService ssh-userauth on HoneyPotTransport,17,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:58+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33106 (127.0.0.1:2222) [session: 18]
+2014-05-09 01:24:58+0000 [HoneyPotTransport,18,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:58+0000 [HoneyPotTransport,18,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:58+0000 [HoneyPotTransport,18,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:58+0000 [HoneyPotTransport,18,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:58+0000 [HoneyPotTransport,18,127.0.0.1] NEW KEYS
+2014-05-09 01:24:59+0000 [HoneyPotTransport,18,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:59+0000 [SSHService ssh-userauth on HoneyPotTransport,18,127.0.0.1] root trying auth none
+2014-05-09 01:24:59+0000 [SSHService ssh-userauth on HoneyPotTransport,18,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:24:59+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33108 (127.0.0.1:2222) [session: 19]
+2014-05-09 01:24:59+0000 [HoneyPotTransport,19,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:24:59+0000 [HoneyPotTransport,19,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:24:59+0000 [HoneyPotTransport,19,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:24:59+0000 [HoneyPotTransport,19,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:24:59+0000 [HoneyPotTransport,19,127.0.0.1] NEW KEYS
+2014-05-09 01:24:59+0000 [HoneyPotTransport,19,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:24:59+0000 [SSHService ssh-userauth on HoneyPotTransport,19,127.0.0.1] root trying auth none
+2014-05-09 01:24:59+0000 [SSHService ssh-userauth on HoneyPotTransport,19,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:25:00+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33110 (127.0.0.1:2222) [session: 20]
+2014-05-09 01:25:00+0000 [HoneyPotTransport,20,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:25:00+0000 [HoneyPotTransport,20,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:25:00+0000 [HoneyPotTransport,20,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:25:00+0000 [HoneyPotTransport,20,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:25:00+0000 [HoneyPotTransport,20,127.0.0.1] NEW KEYS
+2014-05-09 01:25:00+0000 [HoneyPotTransport,20,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:25:00+0000 [SSHService ssh-userauth on HoneyPotTransport,20,127.0.0.1] root trying auth none
+2014-05-09 01:25:00+0000 [SSHService ssh-userauth on HoneyPotTransport,20,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:25:01+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33112 (127.0.0.1:2222) [session: 21]
+2014-05-09 01:25:01+0000 [HoneyPotTransport,21,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:25:01+0000 [HoneyPotTransport,21,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:25:01+0000 [HoneyPotTransport,21,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:25:01+0000 [HoneyPotTransport,21,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:25:01+0000 [HoneyPotTransport,21,127.0.0.1] NEW KEYS
+2014-05-09 01:25:01+0000 [HoneyPotTransport,21,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:25:01+0000 [SSHService ssh-userauth on HoneyPotTransport,21,127.0.0.1] root trying auth none
+2014-05-09 01:25:01+0000 [SSHService ssh-userauth on HoneyPotTransport,21,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:25:02+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33114 (127.0.0.1:2222) [session: 22]
+2014-05-09 01:25:02+0000 [HoneyPotTransport,22,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:25:02+0000 [HoneyPotTransport,22,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:25:02+0000 [HoneyPotTransport,22,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:25:02+0000 [HoneyPotTransport,22,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:25:02+0000 [HoneyPotTransport,22,127.0.0.1] NEW KEYS
+2014-05-09 01:25:02+0000 [HoneyPotTransport,22,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:25:02+0000 [SSHService ssh-userauth on HoneyPotTransport,22,127.0.0.1] root trying auth none
+2014-05-09 01:25:02+0000 [SSHService ssh-userauth on HoneyPotTransport,22,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:25:05+0000 [SSHService ssh-userauth on HoneyPotTransport,22,127.0.0.1] login attempt [root/123456] succeeded
+2014-05-09 01:25:05+0000 [SSHService ssh-userauth on HoneyPotTransport,22,127.0.0.1] root authenticated with keyboard-interactive
+2014-05-09 01:25:05+0000 [SSHService ssh-userauth on HoneyPotTransport,22,127.0.0.1] starting service ssh-connection
+2014-05-09 01:25:05+0000 [SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] got channel session request
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] channel open
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] pty request: xterm (24, 80, 0, 0)
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Terminal size: 24 80
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] getting shell
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Opening TTY log: log/tty/20140509-012505-7924.log
+2014-05-09 01:25:05+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] /etc/motd resolved into /etc/motd
+2014-05-09 01:25:09+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] CMD: ls
+2014-05-09 01:25:09+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Command found: ls
+2014-05-09 01:25:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] CMD: wget www.google.com
+2014-05-09 01:25:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Command found: wget www.google.com
+2014-05-09 01:25:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Starting factory <HTTPProgressDownloader: http://www.google.com>
+2014-05-09 01:25:18+0000 [HTTPPageDownloader,client] Saving URL (http://www.google.com) to dl/20140509012517_http___www_google_com
+2014-05-09 01:25:18+0000 [HTTPPageDownloader,client] Updating realfile to dl/20140509012517_http___www_google_com
+2014-05-09 01:25:18+0000 [HTTPPageDownloader,client] Stopping factory <HTTPProgressDownloader: http://www.google.es/?gfe_rd=cr&ei=by5sU_OYMYLP8gfZlYDQBA>
+2014-05-09 01:25:19+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] CMD: ls
+2014-05-09 01:25:19+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Command found: ls
+2014-05-09 01:25:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] CMD: exit
+2014-05-09 01:25:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Command found: exit
+2014-05-09 01:25:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] CMD: eixt
+2014-05-09 01:25:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Command not found: eixt
+2014-05-09 01:25:26+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] CMD: exit
+2014-05-09 01:25:26+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Command found: exit
+2014-05-09 01:25:29+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Received unhandled keyID: '\x01'
+2014-05-09 01:25:29+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,22,127.0.0.1] Received unhandled keyID: '\x01'
+2014-05-09 01:26:25+0000 [HoneyPotTransport,0,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,1,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,2,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,3,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,4,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,5,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,6,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,7,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,8,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,9,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,10,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,11,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,12,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,13,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,14,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,15,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,16,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,17,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,18,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,19,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,20,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,21,127.0.0.1] connection lost
+2014-05-09 01:26:25+0000 [HoneyPotTransport,22,127.0.0.1] connection lost
+2014-05-09 01:37:30+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:33187 (127.0.0.1:2222) [session: 23]
+2014-05-09 01:37:30+0000 [HoneyPotTransport,23,127.0.0.1] connection lost
+2014-05-09 01:37:31+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34159 (127.0.0.1:2222) [session: 24]
+2014-05-09 01:37:31+0000 [HoneyPotTransport,24,127.0.0.1] connection lost
+2014-05-09 01:38:33+0000 [-] Received SIGTERM, shutting down.
+2014-05-09 01:38:33+0000 [-] (TCP Port 2222 Closed)
+2014-05-09 01:38:33+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x22cbab8>
+2014-05-09 01:38:33+0000 [-] Main loop terminated.
+2014-05-09 01:38:33+0000 [-] Server Shut Down.
+2014-05-09 01:44:30+0000 [-] Log opened.
+2014-05-09 01:44:30+0000 [-] twistd 11.1.0 (/usr/bin/python 2.7.3) starting up.
+2014-05-09 01:44:30+0000 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2014-05-09 01:44:30+0000 [-] HoneyPotSSHFactory starting on 2222
+2014-05-09 01:44:30+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x25a8b00>
+2014-05-09 01:44:53+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34186 (127.0.0.1:2222) [session: 0]
+2014-05-09 01:44:53+0000 [HoneyPotTransport,0,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:44:53+0000 [HoneyPotTransport,0,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:44:53+0000 [HoneyPotTransport,0,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:44:53+0000 [HoneyPotTransport,0,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:44:53+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:44:53+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 66, in createSessionWhenever
+	    'SELECT `id` FROM `sensors` WHERE `ip` = %s', (sensorname,))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 445, in _runInteraction
+	    conn = self.connectionFactory(self)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 38, in __init__
+	    self.reconnect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 75, in reconnect
+	    self._connection = self._pool.connect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 414, in connect
+	    conn = self.dbapi.connect(*self.connargs, **self.connkw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+	    return Connection(*args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+	    super(Connection, self).__init__(*args, **kwargs2)
+	_mysql_exceptions.OperationalError: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+	
+2014-05-09 01:44:53+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:44:53+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 130, in handleClientVersion
+	    (args['version'],))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 445, in _runInteraction
+	    conn = self.connectionFactory(self)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 38, in __init__
+	    self.reconnect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 75, in reconnect
+	    self._connection = self._pool.connect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 414, in connect
+	    conn = self.dbapi.connect(*self.connargs, **self.connkw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+	    return Connection(*args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+	    super(Connection, self).__init__(*args, **kwargs2)
+	_mysql_exceptions.OperationalError: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+	
+2014-05-09 01:44:54+0000 [HoneyPotTransport,0,127.0.0.1] NEW KEYS
+2014-05-09 01:44:54+0000 [HoneyPotTransport,0,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:44:54+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] magbastard trying auth none
+2014-05-09 01:44:54+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] magbastard trying auth keyboard-interactive
+2014-05-09 01:44:57+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] login attempt [magbastard/1234556] failed
+2014-05-09 01:44:57+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] magbastard failed auth keyboard-interactive
+2014-05-09 01:44:57+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] unauthorized login: 
+2014-05-09 01:44:57+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:44:57+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] magbastard trying auth keyboard-interactive
+2014-05-09 01:44:59+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] login attempt [magbastard/123456] failed
+2014-05-09 01:44:59+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] magbastard failed auth keyboard-interactive
+2014-05-09 01:44:59+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] unauthorized login: 
+2014-05-09 01:44:59+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:44:59+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] magbastard trying auth keyboard-interactive
+2014-05-09 01:45:03+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34188 (127.0.0.1:2222) [session: 1]
+2014-05-09 01:45:03+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:45:03+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 66, in createSessionWhenever
+	    'SELECT `id` FROM `sensors` WHERE `ip` = %s', (sensorname,))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 445, in _runInteraction
+	    conn = self.connectionFactory(self)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 38, in __init__
+	    self.reconnect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 75, in reconnect
+	    self._connection = self._pool.connect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 414, in connect
+	    conn = self.dbapi.connect(*self.connargs, **self.connkw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+	    return Connection(*args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+	    super(Connection, self).__init__(*args, **kwargs2)
+	_mysql_exceptions.OperationalError: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+	
+2014-05-09 01:45:03+0000 [HoneyPotTransport,1,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:45:03+0000 [HoneyPotTransport,1,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:45:03+0000 [HoneyPotTransport,1,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:45:03+0000 [HoneyPotTransport,1,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:45:03+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:45:03+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 130, in handleClientVersion
+	    (args['version'],))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 445, in _runInteraction
+	    conn = self.connectionFactory(self)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 38, in __init__
+	    self.reconnect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 75, in reconnect
+	    self._connection = self._pool.connect()
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 414, in connect
+	    conn = self.dbapi.connect(*self.connargs, **self.connkw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+	    return Connection(*args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+	    super(Connection, self).__init__(*args, **kwargs2)
+	_mysql_exceptions.OperationalError: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+	
+2014-05-09 01:45:03+0000 [HoneyPotTransport,1,127.0.0.1] NEW KEYS
+2014-05-09 01:45:04+0000 [HoneyPotTransport,1,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:45:04+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root trying auth none
+2014-05-09 01:45:04+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:45:06+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] login attempt [root/123456] succeeded
+2014-05-09 01:45:06+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root authenticated with keyboard-interactive
+2014-05-09 01:45:06+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] starting service ssh-connection
+2014-05-09 01:45:06+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:06+0000 [SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] got channel session request
+2014-05-09 01:45:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] channel open
+2014-05-09 01:45:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] pty request: xterm (24, 80, 0, 0)
+2014-05-09 01:45:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Terminal size: 24 80
+2014-05-09 01:45:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2014-05-09 01:45:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] getting shell
+2014-05-09 01:45:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Opening TTY log: log/tty/20140509-014506-1280.log
+2014-05-09 01:45:07+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] /etc/motd resolved into /etc/motd
+2014-05-09 01:45:07+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:10+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: w
+2014-05-09 01:45:10+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: w
+2014-05-09 01:45:10+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:12+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: who
+2014-05-09 01:45:12+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: who
+2014-05-09 01:45:12+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:14+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2014-05-09 01:45:14+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2014-05-09 01:45:14+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:15+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2014-05-09 01:45:15+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2014-05-09 01:45:15+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2014-05-09 01:45:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2014-05-09 01:45:17+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2014-05-09 01:45:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2014-05-09 01:45:17+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: quit
+2014-05-09 01:45:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command not found: quit
+2014-05-09 01:45:25+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:26+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2014-05-09 01:45:26+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2014-05-09 01:45:26+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:45:37+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2014-05-09 01:45:37+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2014-05-09 01:45:37+0000 [-] SQL Error: (1044, "Access denied for user 'magbastard'@'localhost' to database 'kippo'")
+2014-05-09 01:47:12+0000 [-] Received SIGTERM, shutting down.
+2014-05-09 01:47:12+0000 [-] (TCP Port 2222 Closed)
+2014-05-09 01:47:12+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x25a8b00>
+2014-05-09 01:47:12+0000 [HoneyPotTransport,1,127.0.0.1] connection lost
+2014-05-09 01:47:12+0000 [HoneyPotTransport,0,127.0.0.1] connection lost
+2014-05-09 01:47:12+0000 [-] Main loop terminated.
+2014-05-09 01:47:12+0000 [-] Server Shut Down.
+2014-05-09 01:47:19+0000 [-] Log opened.
+2014-05-09 01:47:19+0000 [-] twistd 11.1.0 (/usr/bin/python 2.7.3) starting up.
+2014-05-09 01:47:19+0000 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2014-05-09 01:47:19+0000 [-] HoneyPotSSHFactory starting on 2222
+2014-05-09 01:47:19+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x2976b00>
+2014-05-09 01:47:23+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34194 (127.0.0.1:2222) [session: 0]
+2014-05-09 01:47:23+0000 [HoneyPotTransport,0,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:47:23+0000 [HoneyPotTransport,0,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:47:23+0000 [HoneyPotTransport,0,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:47:23+0000 [HoneyPotTransport,0,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:47:23+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:47:23+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 66, in createSessionWhenever
+	    'SELECT `id` FROM `sensors` WHERE `ip` = %s', (sensorname,))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.sensors' doesn't exist")
+	
+2014-05-09 01:47:23+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:47:23+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 130, in handleClientVersion
+	    (args['version'],))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.clients' doesn't exist")
+	
+2014-05-09 01:47:23+0000 [HoneyPotTransport,0,127.0.0.1] NEW KEYS
+2014-05-09 01:47:23+0000 [HoneyPotTransport,0,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:47:23+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] root trying auth none
+2014-05-09 01:47:23+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:47:25+0000 [HoneyPotTransport,0,127.0.0.1] connection lost
+2014-05-09 01:47:25+0000 [-] SQL Error: (1146, "Table 'MagBastard.sessions' doesn't exist")
+2014-05-09 01:47:26+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34195 (127.0.0.1:2222) [session: 1]
+2014-05-09 01:47:26+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:47:26+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 66, in createSessionWhenever
+	    'SELECT `id` FROM `sensors` WHERE `ip` = %s', (sensorname,))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.sensors' doesn't exist")
+	
+2014-05-09 01:47:26+0000 [HoneyPotTransport,1,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:47:26+0000 [HoneyPotTransport,1,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:47:26+0000 [HoneyPotTransport,1,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:47:26+0000 [HoneyPotTransport,1,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:47:26+0000 [-] Unhandled error in Deferred:
+2014-05-09 01:47:26+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 391, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 458, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 545, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1095, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1037, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 382, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 130, in handleClientVersion
+	    (args['version'],))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 207, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/magbastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.clients' doesn't exist")
+	
+2014-05-09 01:47:27+0000 [HoneyPotTransport,1,127.0.0.1] NEW KEYS
+2014-05-09 01:47:27+0000 [HoneyPotTransport,1,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:47:27+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root trying auth none
+2014-05-09 01:47:27+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root trying auth keyboard-interactive
+2014-05-09 01:47:28+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] login attempt [root/123456] succeeded
+2014-05-09 01:47:28+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] root authenticated with keyboard-interactive
+2014-05-09 01:47:28+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] starting service ssh-connection
+2014-05-09 01:47:28+0000 [-] SQL Error: (1146, "Table 'MagBastard.auth' doesn't exist")
+2014-05-09 01:47:28+0000 [SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] got channel session request
+2014-05-09 01:47:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] channel open
+2014-05-09 01:47:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] pty request: xterm (24, 80, 0, 0)
+2014-05-09 01:47:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Terminal size: 24 80
+2014-05-09 01:47:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2014-05-09 01:47:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] getting shell
+2014-05-09 01:47:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Opening TTY log: log/tty/20140509-014728-7525.log
+2014-05-09 01:47:29+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] /etc/motd resolved into /etc/motd
+2014-05-09 01:47:29+0000 [-] SQL Error: (1146, "Table 'MagBastard.sessions' doesn't exist")
+2014-05-09 01:47:30+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: aksdjf
+2014-05-09 01:47:30+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command not found: aksdjf
+2014-05-09 01:47:30+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2014-05-09 01:47:30+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: sdfkjsdf
+2014-05-09 01:47:30+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command not found: sdfkjsdf
+2014-05-09 01:47:30+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2014-05-09 01:47:31+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: skdfsd
+2014-05-09 01:47:31+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command not found: skdfsd
+2014-05-09 01:47:31+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2014-05-09 01:52:20+0000 [-] Received SIGTERM, shutting down.
+2014-05-09 01:52:20+0000 [-] (TCP Port 2222 Closed)
+2014-05-09 01:52:20+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x2976b00>
+2014-05-09 01:52:20+0000 [HoneyPotTransport,1,127.0.0.1] connection lost
+2014-05-09 01:52:20+0000 [-] Main loop terminated.
+2014-05-09 01:52:20+0000 [-] Server Shut Down.
+2014-05-09 01:52:25+0000 [-] Log opened.
+2014-05-09 01:52:25+0000 [-] twistd 11.1.0 (/usr/bin/python 2.7.3) starting up.
+2014-05-09 01:52:25+0000 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2014-05-09 01:52:25+0000 [-] HoneyPotSSHFactory starting on 2222
+2014-05-09 01:52:25+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x170eb00>
+2014-05-09 01:52:39+0000 [-] Received SIGTERM, shutting down.
+2014-05-09 01:52:39+0000 [-] (TCP Port 2222 Closed)
+2014-05-09 01:52:39+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x170eb00>
+2014-05-09 01:52:39+0000 [-] Main loop terminated.
+2014-05-09 01:52:39+0000 [-] Server Shut Down.
+2014-05-09 01:53:24+0000 [-] Log opened.
+2014-05-09 01:53:24+0000 [-] twistd 11.1.0 (/usr/bin/python 2.7.3) starting up.
+2014-05-09 01:53:24+0000 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2014-05-09 01:53:24+0000 [-] HoneyPotSSHFactory starting on 2222
+2014-05-09 01:53:24+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x1ebbb00>
+2014-05-09 01:53:32+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34211 (127.0.0.1:2222) [session: 0]
+2014-05-09 01:53:32+0000 [HoneyPotTransport,0,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:53:32+0000 [HoneyPotTransport,0,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:53:32+0000 [HoneyPotTransport,0,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:53:32+0000 [HoneyPotTransport,0,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:53:32+0000 [HoneyPotTransport,0,127.0.0.1] NEW KEYS
+2014-05-09 01:53:32+0000 [HoneyPotTransport,0,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:53:32+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi trying auth none
+2014-05-09 01:53:32+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 01:53:36+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] login attempt [bambi/notbambi] succeeded
+2014-05-09 01:53:36+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi authenticated with keyboard-interactive
+2014-05-09 01:53:36+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] starting service ssh-connection
+2014-05-09 01:53:36+0000 [SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] got channel session request
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] channel open
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] pty request: xterm (24, 80, 0, 0)
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] Terminal size: 24 80
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] getting shell
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] Opening TTY log: log/tty/20140509-015336-876.log
+2014-05-09 01:53:36+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] /etc/motd resolved into /etc/motd
+2014-05-09 01:53:39+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] CMD: ls
+2014-05-09 01:53:39+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] Command found: ls
+2014-05-09 01:53:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] CMD: slkdfjsd
+2014-05-09 01:53:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] Command not found: slkdfjsd
+2014-05-09 01:55:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] CMD: exit
+2014-05-09 01:55:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] Command found: exit
+2014-05-09 01:57:14+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:34584 (127.0.0.1:2222) [session: 1]
+2014-05-09 01:57:14+0000 [HoneyPotTransport,1,127.0.0.1] connection lost
+2014-05-09 01:57:15+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35231 (127.0.0.1:2222) [session: 2]
+2014-05-09 01:57:15+0000 [HoneyPotTransport,2,127.0.0.1] connection lost
+2014-05-09 01:58:41+0000 [-] Received SIGTERM, shutting down.
+2014-05-09 01:58:41+0000 [-] (TCP Port 2222 Closed)
+2014-05-09 01:58:41+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x1ebbb00>
+2014-05-09 01:58:41+0000 [HoneyPotTransport,0,127.0.0.1] connection lost
+2014-05-09 01:58:41+0000 [-] Main loop terminated.
+2014-05-09 01:58:41+0000 [-] Server Shut Down.
+2014-05-09 01:58:58+0000 [-] Log opened.
+2014-05-09 01:58:58+0000 [-] twistd 11.1.0 (/usr/bin/python 2.7.3) starting up.
+2014-05-09 01:58:58+0000 [-] reactor class: twisted.internet.pollreactor.PollReactor.
+2014-05-09 01:58:58+0000 [-] HoneyPotSSHFactory starting on 2222
+2014-05-09 01:58:58+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x1dddbd8>
+2014-05-09 01:59:02+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35245 (127.0.0.1:2222) [session: 0]
+2014-05-09 01:59:02+0000 [HoneyPotTransport,0,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 01:59:02+0000 [HoneyPotTransport,0,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 01:59:02+0000 [HoneyPotTransport,0,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 01:59:02+0000 [HoneyPotTransport,0,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 01:59:02+0000 [HoneyPotTransport,0,127.0.0.1] NEW KEYS
+2014-05-09 01:59:02+0000 [HoneyPotTransport,0,127.0.0.1] starting service ssh-userauth
+2014-05-09 01:59:02+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi trying auth none
+2014-05-09 01:59:02+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 01:59:06+0000 [HoneyPotTransport,0,127.0.0.1] connection lost
+2014-05-09 02:00:13+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35253 (127.0.0.1:2222) [session: 1]
+2014-05-09 02:00:13+0000 [HoneyPotTransport,1,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:13+0000 [HoneyPotTransport,1,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:13+0000 [HoneyPotTransport,1,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:13+0000 [HoneyPotTransport,1,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:13+0000 [HoneyPotTransport,1,127.0.0.1] NEW KEYS
+2014-05-09 02:00:13+0000 [HoneyPotTransport,1,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:13+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:13+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:18+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35255 (127.0.0.1:2222) [session: 2]
+2014-05-09 02:00:18+0000 [HoneyPotTransport,2,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:18+0000 [HoneyPotTransport,2,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:18+0000 [HoneyPotTransport,2,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:18+0000 [HoneyPotTransport,2,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:18+0000 [HoneyPotTransport,2,127.0.0.1] NEW KEYS
+2014-05-09 02:00:18+0000 [HoneyPotTransport,2,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:18+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:18+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:19+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35257 (127.0.0.1:2222) [session: 3]
+2014-05-09 02:00:19+0000 [HoneyPotTransport,3,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:19+0000 [HoneyPotTransport,3,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:19+0000 [HoneyPotTransport,3,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:19+0000 [HoneyPotTransport,3,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:19+0000 [HoneyPotTransport,3,127.0.0.1] NEW KEYS
+2014-05-09 02:00:19+0000 [HoneyPotTransport,3,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:19+0000 [SSHService ssh-userauth on HoneyPotTransport,3,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:19+0000 [SSHService ssh-userauth on HoneyPotTransport,3,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:21+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35259 (127.0.0.1:2222) [session: 4]
+2014-05-09 02:00:21+0000 [HoneyPotTransport,4,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:21+0000 [HoneyPotTransport,4,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:21+0000 [HoneyPotTransport,4,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:21+0000 [HoneyPotTransport,4,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:21+0000 [HoneyPotTransport,4,127.0.0.1] NEW KEYS
+2014-05-09 02:00:21+0000 [HoneyPotTransport,4,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:21+0000 [SSHService ssh-userauth on HoneyPotTransport,4,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:21+0000 [SSHService ssh-userauth on HoneyPotTransport,4,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:23+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35261 (127.0.0.1:2222) [session: 5]
+2014-05-09 02:00:23+0000 [HoneyPotTransport,5,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:23+0000 [HoneyPotTransport,5,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:23+0000 [HoneyPotTransport,5,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:23+0000 [HoneyPotTransport,5,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:23+0000 [HoneyPotTransport,5,127.0.0.1] NEW KEYS
+2014-05-09 02:00:23+0000 [HoneyPotTransport,5,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:23+0000 [SSHService ssh-userauth on HoneyPotTransport,5,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:23+0000 [SSHService ssh-userauth on HoneyPotTransport,5,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:24+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35263 (127.0.0.1:2222) [session: 6]
+2014-05-09 02:00:24+0000 [HoneyPotTransport,6,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:24+0000 [HoneyPotTransport,6,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:24+0000 [HoneyPotTransport,6,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:24+0000 [HoneyPotTransport,6,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:24+0000 [HoneyPotTransport,6,127.0.0.1] NEW KEYS
+2014-05-09 02:00:24+0000 [HoneyPotTransport,6,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:24+0000 [SSHService ssh-userauth on HoneyPotTransport,6,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:24+0000 [SSHService ssh-userauth on HoneyPotTransport,6,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:26+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35265 (127.0.0.1:2222) [session: 7]
+2014-05-09 02:00:26+0000 [HoneyPotTransport,7,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:26+0000 [HoneyPotTransport,7,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:26+0000 [HoneyPotTransport,7,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:26+0000 [HoneyPotTransport,7,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:26+0000 [HoneyPotTransport,7,127.0.0.1] NEW KEYS
+2014-05-09 02:00:26+0000 [HoneyPotTransport,7,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:26+0000 [SSHService ssh-userauth on HoneyPotTransport,7,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:26+0000 [SSHService ssh-userauth on HoneyPotTransport,7,127.0.0.1] bambi trying auth keyboard-interactive
+2014-05-09 02:00:28+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:35268 (127.0.0.1:2222) [session: 8]
+2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1.3
+2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] NEW KEYS
+2014-05-09 02:00:28+0000 [HoneyPotTransport,8,127.0.0.1] starting service ssh-userauth
+2014-05-09 02:00:28+0000 [SSHService ssh-userauth on HoneyPotTransport,8,127.0.0.1] bambi trying auth none
+2014-05-09 02:00:28+0000 [SSHService ssh-userauth on HoneyPotTransport,8,127.0.0.1] bambi trying auth keyboard-interactive
