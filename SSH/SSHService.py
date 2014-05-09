@@ -6,7 +6,7 @@ kippoaddr = 'localhost'
 kippoport = 2222
 kippoVerStrFile = "/home/magbastard/kippo.ip"
 
-def sshHandler(s, server):
+def sshHandler(s, server, details):
     # Provide kippo with the version string to use
     f = open(kippoVerStrFile, "w")
     f.write(server["Version"])
