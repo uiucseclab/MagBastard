@@ -74,14 +74,19 @@ def startListener(requestHandler, port, configFilename):
             
             # Check if we have an existing session
             session = logger.retrieveSession(details[0])
+            serviceName = serviceMappings[port]
             if session == None:
                 index = None
                 session = logger.Session(listenAddress)
             else:
-                index = session.Ports[serviceMappings[port]]
+                if serviceName in session.Ports:
+                    index = session.Ports[serviceName]
             server = selectServer(configFilename=configFilename, index=index)
+            
             responseType = "ACCEPT" if randint(0, 1000) >= 500 else "REJECT"
-            responseType = session.Responses[serviceMappings[port]] if serviceMappings[port] in session.Responses else responseType
+            if serviceName in session.Responses and session.Responses[serviceName] != None:
+                responseType = session.Responses[serviceName]
+                
             # If we didn't have a version string before, add it now
             if index == None:
                 session.Ports[serviceMappings[port]] = server["Version"]
@@ -91,9 +96,9 @@ def startListener(requestHandler, port, configFilename):
             print("Chose server %s" % server["Name"])
             
             print("Chose to %s the connection." % responseType)
-            if responseType == "ACCEPT":
+            if responseType.upper() == "ACCEPT":
                 requestHandler(s, server, details)
-            else
+            else:
                 s.close()
     except (KeyboardInterrupt, SystemExit):
         listener.close()
