@@ -1,7 +1,7 @@
 --To create first table
 
 CREATE TABLE `LogData` (
-  `Timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `Timestamp` varchar(45) NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `DestIP` varchar(45) DEFAULT NULL,
   `DestPort` int(11) DEFAULT NULL,
   `SourceIP` varchar(45) DEFAULT NULL,
@@ -14,12 +14,17 @@ CREATE TABLE `LogData` (
 
 CREATE TABLE `SessionData` (
   `IP` int(11) DEFAULT NULL,
-  `Timestamp` timestamp NULL DEFAULT NULL,
-  `P21` int(11) DEFAULT NULL,
-  `P22` int(11) DEFAULT NULL,
-  `P25` int(11) DEFAULT NULL,
-  `P80` int(11) DEFAULT NULL,
-  `P139` int(11) DEFAULT NULL
+  `Timestamp` varchar(45) NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `FTP` int(11) DEFAULT NULL,
+  `FTPResponse` varchar(10) DEFAULT NULL,
+  `SSH` int(11) DEFAULT NULL,
+  `SSHResponse` varchar(10) DEFAULT NULL,
+  `SMTP` int(11) DEFAULT NULL,
+  `SMTPResponse` varchar(10) DEFAULT NULL,
+  `HTTP` int(11) DEFAULT NULL,
+  `HTTPResponse` varchar(10) DEFAULT NULL,
+  `SAMBA` int(11) DEFAULT NULL
+  `SAMBAResponse` varchar(10) DEFAULT NULL
 )
 
 ALTER TABLE SessionData MODIFY IP VARCHAR(45)

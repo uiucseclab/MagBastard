@@ -5,20 +5,26 @@ timeout = 300 # seconds
 timestampFormatString = '%Y-%m-%d %H:%M:%S.%f'
 
 class Session:
-    def __init__(self, ip='', ts=datetime.datetime.now(), ftp=-1,ssh=-1,smtp=-1,http=-1,samba=-1,pts={}):
+    def __init__(self, ip='', ts=datetime.datetime.now(), ftp=-1,ssh=-1,smtp=-1,http=-1,samba=-1,ftpResponse=None,sshResponse=None,smtpResponse=None,httpResponse=None,sambaResponse=None):
         self.IP = ip
         self.Timestamp = ts
-        self.Ports = pts
+        self.Ports = {}
+        self.Responses = {}
         if ftp != -1:
             self.Ports['ftp'] = ftp
+            self.Responses['ftp'] = ftpResponse
         if ssh != -1:
             self.Ports['ssh'] = ssh
+            self.Responses['ssh'] = sshResponse
         if smtp != -1:
             self.Ports['smtp'] = smtp
+            self.Responses['smtp'] = smtpResponse
         if http != -1:
             self.Ports['http'] = http
+            self.Responses['http'] = httpResponse
         if samba != -1:
             self.Ports['samba'] = samba
+            self.Responses['samba'] = sambaResponse
         
 
 def logEvent(destIP, destPort, srcIP, srcPort, content):
@@ -45,16 +51,21 @@ def logEvent(destIP, destPort, srcIP, srcPort, content):
     #closing the Database connection
     db.close()
 
-def updateSession(ip=None,session=None):
-    if session and not ip:
-        ip = session.IP
-    if not ip:
+def updateSession(session):
+    if not session or not session.IP:
         return
+
+    ip = session.IP
     p21 = session.Ports['ftp'] if (session and 'ftp' in session.Ports) else -1
+    p21R = session.Responses['ftp'] if (session and 'ftp' in session.Responses) else ''
     p22 = session.Ports['ssh'] if (session and 'ssh' in session.Ports) else -1
+    p22R = session.Responses['ssh'] if (session and 'ssh' in session.Responses) else ''
     p25 = session.Ports['smtp'] if (session and 'smtp' in session.Ports) else -1
+    p25R = session.Responses['smtp'] if (session and 'smtp' in session.Responses) else ''
     p80 = session.Ports['http'] if (session and 'http' in session.Ports) else -1
+    p80R = session.Responses['http'] if (session and 'http' in session.Responses) else ''
     p139 = session.Ports['samba'] if (session and 'samba' in session.Ports) else -1
+    p139R = session.Responses['samba'] if (session and 'samba' in session.Responses) else ''
 
     #connecting to Database
     db = MySQLdb.connect(host="localhost", user="magbastard", passwd="MagnanimousBastard@CS460", db="MagBastard")
@@ -71,11 +82,11 @@ def updateSession(ip=None,session=None):
 
     cur.execute("SELECT * FROM SessionData WHERE ip=%s", (ip,))
     if cur.fetchone():
-	query = "UPDATE SessionData SET Timestamp='%s', Response='%s', P21=%d, P22=%d, P25=%d, P80=%d, P139=%d WHERE IP='%s'" % (time, '', p21,p22,p25,p80,p139, ip)
+	query = "UPDATE SessionData SET Timestamp='%s', Response='%s', FTP=%d, SSH=%d, SMTP=%d, HTTP=%d, SAMBA=%d, FTPResponse = '%s', SSHResponse = '%s', SMTPResponse = '%s', HTTPResponse = '%s', SAMBAResponse = '%s' WHERE IP='%s'" % (time, '', p21,p22,p25,p80,p139,p21R,p22R,p25R,p80R,p139R, ip)
         cur.execute(query)
     else:
         #inserting the values into the table
-	query = "INSERT INTO SessionData (IP, Timestamp, Response, P21, P22, P25, P80, P139) VALUES ('%s', '%s', '%s', %d, %d, %d, %d, %d)" % (ip, time, '', p21,p22,p25,p80,p139)
+	query = "INSERT INTO SessionData (IP, Timestamp, Response, FTP, SSH, SMTP, HTTP, SAMBA, FTPResponse, SSHResponse, SMTPResponse, HTTPResponse, SAMBAResponse) VALUES ('%s', '%s', '%s', %d, %d, %d, %d, %d, '%s', '%s', '%s', '%s', '%s')" % (ip, time, '', p21,p22,p25,p80,p139,p21R,p22R,p25R,p80R,p139R)
         cur.execute(query)
 
     #closing the Database connection
@@ -132,5 +143,5 @@ def retrieveSession(ip):
     if(elapsed.seconds > timeout):
         return None
 
-    ses = Session(ip=session[0],ts=session[1],resp=None,ftp=int(session[3]),ssh=int(session[4]),smtp=int(session[5]),http=int(session[6]),samba=int(session[7]))
+    ses = Session(ip=session[0],ts=session[1],ftp=int(session[2]),ftpResponse=session[3],ssh=int(session[4]),sshResponse=session[5],smtp=int(session[6]),smtpResponse=session[7],http=int(session[8]),httpResponse=session[9],samba=int(session[10]),sambaResponse=session[11])
     return ses
