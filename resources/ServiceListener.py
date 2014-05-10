@@ -1,5 +1,6 @@
 import socket
 from logging import logger
+from ConfigParser import ConfigParser
 
 ###import sys
 ###
@@ -9,16 +10,18 @@ from logging import logger
 ###else:
 from random import randint
 
-# Constants
-sendRate = 1000
-listenAddress = "localhost"
+config = ConfigParser()
+config.read("magbastard.cfg")
+
+sendRate = int(config.get("default", "sendRate"))
+listenAddress = config.get("default", "listenAddress")
 
 serviceMappings = {
-    10021: 'ftp',
-    10022: 'ssh',
-    10025: 'smtp',
-    10080: 'http',
-    10139: 'samba'
+    int(config.get("default", "FTPPort")): 'ftp',
+    int(config.get("default", "SSHPort")): 'ssh',
+    int(config.get("default", "SMTPPort")): 'smtp',
+    int(config.get("default", "HTTPPort")): 'http',
+    int(config.get("default", "NetBIOSPort")): 'samba'
 }
 
 def selectServer(configFilename="servers.config", index=None):
@@ -77,21 +80,22 @@ def startListener(requestHandler, port, configFilename):
             serviceName = serviceMappings[port]
             if session == None:
                 index = None
-                session = logger.Session(listenAddress)
+                session = logger.Session(details[0])
             else:
-                if serviceName in session.Ports:
-                    index = session.Ports[serviceName]
+                index = session.Ports[serviceName] if serviceName in session.Ports else None
+            oldIndex = index
             server, index = selectServer(configFilename=configFilename, index=index)
             
             responseType = "ACCEPT" if randint(0, 1000) >= 500 else "REJECT"
             if serviceName in session.Responses and session.Responses[serviceName] != None:
+#                print("Before: %s; After: %s" % (responseType, session.Responses[serviceName]))
                 responseType = session.Responses[serviceName]
                 
             # If we didn't have a version string before, add it now
-            if index == None:
-                session.Ports[serviceMappings[port]] = index
-                session.Responses[serviceMappings[port]] = responseType
-                logger.updateSession(session)
+            session.Ports[serviceName] = index
+            session.Responses[serviceName] = responseType
+#            print("Updating to:\n    Ports: %s\n    Responses: %s\n" % (session.Ports, session.Responses))
+            logger.updateSession(session)
             
             print("Chose server %s" % server["Name"])
             

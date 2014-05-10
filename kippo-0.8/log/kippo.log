@@ -878,3 +878,29 @@
 2014-05-09 02:45:37+0000 [HoneyPotTransport,19,127.0.0.1] connection lost
 2014-05-09 02:45:39+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40557 (127.0.0.1:2222) [session: 20]
 2014-05-09 02:45:39+0000 [HoneyPotTransport,20,127.0.0.1] connection lost
+2014-05-09 03:00:17+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40640 (127.0.0.1:2222) [session: 21]
+2014-05-09 03:00:17+0000 [HoneyPotTransport,21,127.0.0.1] connection lost
+2014-05-09 03:06:27+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40719 (127.0.0.1:2222) [session: 22]
+2014-05-09 03:07:12+0000 [HoneyPotTransport,22,127.0.0.1] connection lost
+2014-05-09 03:09:01+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40762 (127.0.0.1:2222) [session: 23]
+2014-05-09 03:09:01+0000 [HoneyPotTransport,23,127.0.0.1] connection lost
+2014-05-09 03:14:30+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40819 (127.0.0.1:2222) [session: 24]
+2014-05-09 03:14:30+0000 [HoneyPotTransport,24,127.0.0.1] connection lost
+2014-05-09 03:16:06+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40893 (127.0.0.1:2222) [session: 25]
+2014-05-09 03:16:23+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40911 (127.0.0.1:2222) [session: 26]
+2014-05-09 03:16:35+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40921 (127.0.0.1:2222) [session: 27]
+2014-05-09 03:16:35+0000 [HoneyPotTransport,27,127.0.0.1] connection lost
+2014-05-09 03:17:20+0000 [HoneyPotTransport,25,127.0.0.1] connection lost
+2014-05-09 03:17:20+0000 [HoneyPotTransport,26,127.0.0.1] connection lost
+2014-05-09 03:30:04+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:40996 (127.0.0.1:2222) [session: 28]
+2014-05-09 03:30:18+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:41016 (127.0.0.1:2222) [session: 29]
+2014-05-09 03:30:18+0000 [HoneyPotTransport,29,127.0.0.1] connection lost
+2014-05-09 03:31:06+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:41052 (127.0.0.1:2222) [session: 30]
+2014-05-09 03:31:06+0000 [HoneyPotTransport,30,127.0.0.1] connection lost
+2014-05-09 03:31:26+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:41074 (127.0.0.1:2222) [session: 31]
+2014-05-09 03:31:26+0000 [HoneyPotTransport,31,127.0.0.1] connection lost
+2014-05-09 03:31:26+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:41078 (127.0.0.1:2222) [session: 32]
+2014-05-09 03:32:11+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:41165 (127.0.0.1:2222) [session: 33]
+2014-05-09 03:32:11+0000 [HoneyPotTransport,33,127.0.0.1] connection lost
+2014-05-09 03:33:19+0000 [HoneyPotTransport,28,127.0.0.1] connection lost
+2014-05-09 03:33:19+0000 [HoneyPotTransport,32,127.0.0.1] connection lost

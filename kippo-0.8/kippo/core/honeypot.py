@@ -16,11 +16,12 @@ import sys, os, random, pickle, time, stat, shlex, anydbm
 from kippo.core import ttylog, fs, utils
 from kippo.core.userdb import UserDB
 from kippo.core.config import config
+from kippo.core.config import magbastardconfig
 import commands
 
 import ConfigParser
 
-versionstring = "/home/magbastard/kippo.ip"
+versionstring = magbastardconfig().get('default', 'kippoVerStrFile')
 
 class HoneyPotCommand(object):
     def __init__(self, honeypot, *args):

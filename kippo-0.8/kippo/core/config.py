@@ -11,4 +11,12 @@ def config():
             return cfg
     return None
 
+def magbastardconfig():
+    cfg = ConfigParser.ConfigParser()
+    for mbcfgPath in ('../../../magbastard.cfg', '../../magbastard.cfg', '../magbastard.cfg', 'magbastard.cfg'):
+        if os.path.exists(mbcfgPath):
+            cfg.read(mbcfgPath)
+            return cfg
+    return None
+
 # vim: set sw=4 et:
