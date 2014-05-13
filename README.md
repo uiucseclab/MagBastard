@@ -32,6 +32,8 @@ Features
 	Port 139 NetBIOS
 		- Chooses one of four reponses.
 		- It should be noted that Port 139 does not allow conenctions from the outside but connecting to the public IP from interally will alow a connection.  Also nmaping will show that Samba is running
+		- 
+	We could not get Labrea working because it will not listen on the local machine.  As a result, we could not use it to listen and send its own SYNACK
 
 Things to be fixed
 	
