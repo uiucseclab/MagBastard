@@ -1,9 +1,14 @@
 CS 460 - Spring 2014
 Magnanimous Bastard
 
+Address: spring2014azure.cloudapp.net
 
 
-	Upon each connection, either a deny is made or an accept.  Sessions are enabled, so connections from an IP is kept the same for five minute intervals. 
+Features
+	
+	Upon each connection, either an accept or drop is selected.  This is done randomly by our handler code which then records this choice in our database.  For the next five minutes, any connection from this IP will result in this same response.  Due to the nature of our code and how dropping a response works, our dropping is not perfect at the moment; we cannot decide whether to drop a connection until we see it come in, at which point it is too late.  As a result we send an RST as soon as we decide we want to drop the connection.   
+	
+	Our databse is configured on the machine to log all incoming connections (time, source, destination) along with the responses made to each of these connections.  Please see /logging/sqlstatements.txt for our schemas.  Kippo also has its own logging functionality which is similarly recorded in the database.
 
 
 	Port 21 FTP 
@@ -16,23 +21,22 @@ Magnanimous Bastard
 			password: 123456
 
 			user: bambi
-			password:
+			password: notbambi
 
 	Port 25 SMTP
-		- Chooses one of two responses to send back.  Sessions apply.  
+		- Chooses one of two responses to send back.
 
 	Port 80 HTTP
 		- Chooses response packet.  Website also exists on port 80 for any visitors.
 
 	Port 139 NetBIOS
 		- Chooses one of four reponses.
+		- It should be noted that Port 139 does not allow conenctions from the outside but connecting to the public IP from interally will alow a connection.  Also nmaping will show that Samba is running
 
-	Labrea
-		- 
-		
 Things to be fixed
 	
-	Modify Kippo to be more of a mock shell.  
-	Add functionality  to allow for drops rather than denys
-	
+	- Modify Kippo to be more of a mock shell.  
+	- Add functionality  to allow for drops rather than denys
+	- Fix Samba port 139 issue
+
 
