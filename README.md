@@ -41,4 +41,9 @@ Things to be fixed
 	- Add functionality  to allow for drops rather than denys
 	- Fix Samba port 139 issue
 
+How to run
+	
+	Run python main.py in MagBastard to get start up the handler.
+	Run start.sh in MagBastard/kippo-0.8 to start kippo
+	
 
