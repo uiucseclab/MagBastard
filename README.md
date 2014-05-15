@@ -33,7 +33,7 @@ Features
 		- Chooses one of four reponses.
 		- It should be noted that Port 139 does not allow conenctions from the outside but connecting to the public IP from interally will alow a connection.  Also nmaping will show that Samba is running
 		- 
-	We could not get Labrea working because it will not listen on the local machine.  As a result, we could not use it to listen and send its own SYNACK
+	We could not get Labrea working because it will not listen on the local machine.  Labrea works perfectly for listening on the network for IPs that aren't being used since it can just sniff traffic and respond if no one else does. However, labrea does not bind to any ports on the host machine. Becaues of this, the OS will automatically send a SYNRST before labrea is able to see the packet and respond itself. Because of this, the outside world will just see the port as closed. Without changing the labrea source code, it would be impossible to get this to work. In addition, labrea does not compile from source in linux 12.04 or 14.04 so we had to use the prepackaged binary. As a result, we could not use labrea in our code.
 
 Things to be fixed
 	
