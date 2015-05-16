@@ -1,0 +1,6 @@
+avasout05 smtp smtp-proxy.plus.net 
+out.impresasemplice.it
+icp-osb-irony-out3.iinet.net.au ESMTP
+mxcm01.ad.aruba.it bizsmtp ESMTP server ready
+smtp-33.iol.local bizsmtp ESMTP server ready
+

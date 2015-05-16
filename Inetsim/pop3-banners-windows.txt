@@ -1,0 +1,7 @@
+service is ready.
+server ready H miweb010 0LvOCc-1ZJs953v8d-00ztno
+ready
+PROXY server ready
+Bigfoot v1.0 server ready
+PROXY server ready <05B2F49B0C03834CC3796255A1996019350B2DA0@loginproxy-04.iol.local>
+server ready

@@ -1,0 +1,3462 @@
+ intron.ac FTP server (Version 6.00LS) ready.
+ ftp.ox.ac FTP Server ready
+ robelle3000.ai NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (FTP de SeCyT) [delfin.secyt.gov.ar]
+ FTP server ready.
+ FTP server ready.
+ FTP Server ready
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [isildur.ci.tuwien.ac.at]
+ mips.complang.tuwien.ac.at FTP server (Digital UNIX Version 5.60) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [schnecke.cosy.sbg.ac.at]
+ ProFTPD 1.2.8 Server (ftp.gis.univie.ac.at) [ftp.gis.univie.ac.at]
+ ProFTPD 1.2.5rc1 Server (FTP GNU Mirror) [ftp.gnu.vbs.at]
+ ProFTPD 1.2.4 Server (ProFTPD Inode.Internet) [p133.inode.at]
+ slnz0004 Microsoft FTP Service (Version 5.0).
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ Welcome to obdev.at!
+ netpark FTP server ready
+ ProFTPD 1.2.4 Server (Public Netbase T0) [netbase.t0.or.at]
+ Welcome to ftp.windriver.co.at. All transfers are logged.
+ ftp.chello.at NcFTPd Server (licensed copy) ready.
+ FTP Server ready
+ crypto.mat.sbg.ac.at NcFTPd Server (free educational license) ready.
+ sunsite FTP server ready.
+ The Computer Sciences Laboratory
+ Department of Computer Science Australian National University
+ FtpServer 1.164 ready
+ aaossp FTP server ( ) ready.
+ wwwsrv Microsoft FTP Service (Version 5.0).
+ ftp.austlii.edu.au NcFTPd Server (free educational license) ready.
+ rosemary.cs.adelaide.edu.au FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.7rc1 Server (Monash CSSE) [130.194.64.32]
+ ProFTPD 1.2.7rc1 Server (Monash CSSE) [130.194.64.32]
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.0pre8 Server (ProFTPD) [eeserver.ee.uwa.edu.au]
+ scooby FTP server ready.
+ ftp.ics.mq.edu.au NcFTPd Server (free educational license) ready.
+ kurango FTP server (UNIX(r) System V Release 4.0) ready.
+ powerone Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (James Cook University Anonymous FTP server)
+ ProFTPD 1.2.8 Server ready.
+ ProFTPD 1.2.8 Server (Debian) [digital]
+ ProFTPD 1.2.5rc1 Server (My FTP server) [66.33.194.169]
+ ProFTPD 1.2.5rc1 Server (Debian) [ftp.maestro.com.au]
+ lido.maths.usyd.edu.au FTP server (Digital UNIX Version 5.60) ready.
+ ftp.ics.mq.edu.au NcFTPd Server (free educational license) ready.
+ nemeton.com.au NcFTPd Server (licensed copy) ready.
+ Welcome to 203.63.87.186.
+ ftp.newcastle.edu.au FTP server ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [ftp.iinet.net.au]
+ ProFTPD 1.2.6 Server (onthenet.com.au FTP Server) [diablo.OntheNet.com.au]
+ ProFTPD 1.2.6rc2 Server (ftp.ozemail.com.au) [203.108.7.68]
+ steamer Microsoft FTP Service (Version 5.0).
+ lennon.cisra.com.au FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.risingsoftware.com) [risingsoftware.propagation.net]
+ ProFTPD 1.2.8 Server (TPG anonymous FTP server) [203.12.160.23]
+ ftp.unimelb.edu.au NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.4 Server (UNSW Web Server) [cruise]
+ chac.its.uow.edu.au FTP server ready
+ ProFTPD 1.2.5rc1 Server (ftp.uwa.edu.au) [acheron.uwa.edu.au]
+ ProFTPD 1.2.4 Server (Pacific Internet FTP Mirror Server) [203.12.97.40]
+ gco.apana.org.au NcFTPd Server (free personal license) ready.
+ ProFTPD 1.2.7 Server (samba.org) [dp.samba.org]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ srvwww Microsoft FTP Service (Version 4.0).
+ FTP Service
+ Welcome on ftp.dice.ucl.ac.be (Mon Sep  1 01:21:41 2003) !
+ minx.ftp.be.easynet.net FTP server ready
+ Welcome on ftp.emic.ucl.ac.be (Fri Aug 29 11:38:10 2003) !
+ girvan FTP server ready.
+ astrolabe FTP server (BeroFTPD 1.3.4(1) Wed Jun 16 17:15:23 MET DST 1999) ready.
+ Tiscali.be ftp server
+ Hello, all activity on ftp.md.ucl.ac.be is logged.
+ ProFTPD 1.2.5rc1 Server (Belgacom ISP's Anonymous FTP Server) [swapping.skynet.be]
+  Server (rootshell.be FTP Server) [phenix]
+ ProFTPD 1.2.5rc1 Server (Belgacom ISP's Anonymous FTP Server) [ardan.skynet.be]
+ bill Microsoft FTP Service (Version 4.0).
+ Welcome on ftp.tele.ucl.ac.be (Fri Aug 29 13:39:38 2003) !
+ Tiscali.be ftp server
+ ProFTPD 1.2.0 Server (ProFTPD Anonymous SEGI Config) [aix1.segi.ulg.ac.be]
+ sirma_main Microsoft FTP Service (Version 4.0).
+ joint.cmg.com.br NcFTPd Server (free license) ready.
+ ProFTPD 1.2.7 Server (Conectiva Linux main ftp site) [ftp.conectiva.com.br]
+ genesis Microsoft FTP Service (Version 3.0).
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ (vsFTPd 1.1.3)
+ ftp.matrix.net.br FTP server ready.
+ spliff FTP server (PFTP 0.13) ready.
+ ProFTPD 1.2.7 Server ready.
+ omega.procergs.com.br FTP server (Version 6.00) ready.
+ ftp.pucpr.br NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.8 Server () [200.17.63.100]
+ (vsFTPd 1.1.1)
+ ProFTPD 1.2.5rc1 Server ready.
+ web Microsoft FTP Service (Version 5.0).
+ medusa FTP server (UNIX(r) System V Release 4.0) ready.
+ ProFTPD 1.2.5rc1 Server ready.
+ UOL FTP Server [Servidor FTP Anonimo]
+ ftp.visualnet.com.br NcFTPd Server (free license) ready.
+ linorg.uspnet.usp.br FTP server ready.
+ ProFTPD 1.2.9rc1 Server (Neman GLS FTP server) [neman.by]
+ alice Microsoft FTP Service (Version 4.0).
+ (vsFTPd 1.1.3)
+ mouldy FTP server ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [bumpy.braille.uwo.ca]
+ web1 Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.0rc3 Server (ProFTPD Alfred) [driftwood.ccs.carleton.ca]
+ ftp1 FTP server ready.
+ maroon FTP server (School of Computing, Queens University) ready.
+ ftp.cs.ualberta.ca FTP server ready.
+ York University Department of Computer Science FTP Server
+ ftp.cbti.net NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.2 Server (ProFTPD) [muenster.direct.ca]
+ ProFTPD 1.2.1 Server (Carleton U. Dept. of Electronics Anonymous Server) [webserver]
+ ProFTPD 1.2.8 Server (Nova Scotia Department of Education FTP Server)
+ ProFTPD 1.2.7 Server (Pebbles) [pebbles.eps.mcgill.ca]
+ ftp.mimic.ca FTP server ready
+ mouldy FTP server ready.
+ ftp.mshri.on.ca FTP server ready.
+ webserv.mta.ca FTP server (Digital UNIX Version 5.60) ready.
+ ftp.muug.mb.ca FTP server ready.
+ doctor.nl2k.ab.ca FTP server (BSDI Version 7.00LS) ready.
+ doctor.nl2k.ab.ca FTP server (BSDI Version 7.00LS) ready.
+ elminster.wiznet.ca FTP server (Version 6.00LS) ready.
+ Welcome to Physical Oceanography FTP service.
+ ProFTPD 1.2.5rc1 Server (Serveur FTP ecole Polytechnique)
+ maroon FTP server (School of Computing, Queens University) ready.
+ bond FTP server ready.
+ borg FTP server (Version 4.1 Tue Jul 25 12:39:11 CDT 2000) ready.
+ FTP Server
+ shell1.sentex.ca FTP server (Version 6.00LS) ready.
+ Please use mirrors as they have much better bandwidth than us
+ axis Microsoft FTP Service (Version 5.0).
+ thunder.stmarys.ca FTP server (Compaq Tru64 UNIX Version 5.60) ready.
+ ftp.stuff.ca FTP server ready.
+ string FTP server (Version 5.60) ready.
+ picasso Microsoft FTP Service (Version 5.0).
+ ftp.umontreal.ca NcFTPd Server (free educational license) ready.
+ herakles FTP server (SunOS 5.7) ready.
+ www FTP server ready.
+ io FTP server (SunOS 5.8) ready.
+ juliet.its.uwo.ca FTP server ready.
+ peryton.ccs.yorku.ca FTP server ready.
+ ProFTPD 1.2.2rc3 Server (ProFTPD) [Kairos.dsa.uqam.ca]
+ plg2.math FTP server (SunOS 5.8) ready.
+ Welcome to tetra.mech.ubc.ca (serving the GRUMMP unstructured meshing package)
+ watserv1 FTP server (SunOS 5.8) ready.
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ webserver Microsoft FTP Service (Version 4.0).
+ home2 Microsoft FTP Service (Version 4.0).
+ wwc.astro.com FTP server ready.
+ websrv01 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.7 Server (FTP Server at ceag.ch) [80.74.142.10]
+ ftp.fastnet.ch X2 WS_FTP Server 1.0.3 (1960395466)
+ 152.96.37.21 FTP server ready.
+ melanzana.idsia.ch FTP server ready.
+ ftp.ifi.unizh.ch FTP server ready.
+ ProFTPD 1.2.8 Server (Teleport FTP Server) [server1.teleport.ch]
+ ProFTPD 1.2.5 Server (ProFTPD for ftp.inf.ethz.ch) [dump]
+ ProFTPD 1.2.0rc3 Server (ETHZ Biophysics Group FTP Server) [gandalf]
+ ProFTPD 1.2.8 Server (Hathi) [hathi.ket]
+ dmz.pmodwrc.ch FTP server ready.
+ ProFTPD 1.2.4 Server (ProfZone FTP) [212.101.6.244]
+ ProFTPD 1.2.8 Server (CABLE&WIRELESS [SPAN] ARCHIVE SERVER) [ftp]
+ Welcome to Sunrise!
+ ftp.switch.ch FTP server ready.
+ Please note: THIS SERVER ALLOWS ANONYMOUS CONNECTIONS ONLY
+ un2sun1 FTP server (Version 2.1WU(3) Wed May 19 19:05:23 MET DST 1993) ready.
+ Welcome to the FTP Server of the University of Zuerich, Switzerland.
+ FTP server ready.
+ Welcome to ROOT FTP service.
+ spawn.attla.cl FTP server ready.
+ sunsite.dcc.uchile.cl FTP server ready.
+ "Welcome to Netglobalis Public FTP service This is a public service please don't
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.6 Server (FTP WEBSTONE) [mta01.webstone.cl]
+ spawn.attla.cl FTP server ready.
+ FTP SERVICE
+ ProFTPD 1.2.4 Server (UTFSM FTP Server) [hoth]
+ »¶Ó·ÃÎÊ³É¶¼Àí¹¤´óÑ§FTP·þÎñÆ÷
+ ProFTPD 1.2.8 Server (CoSoft.org.cn FTP site 1) [www.cosoft.org.cn]
+ ecscn Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.6 Server (01 Communique Laboratory Inc.) [01ftp.01com.com]
+ Welcome to 3dftp.com!
+ ADESKFTP02 Microsoft FTP Service (Version 5.0).
+ agora.rdrop.com FTP server (Version 6.00LS) ready.
+ caieftp2 Microsoft FTP Service (Version 5.0).
+ northisland.lhhost.com FTP server ready.
+ certsrv Microsoft FTP Service (Version 5.0).
+ Welcome to catcode.com!
+ ProFTPD 1.2.0rc3 Server (checksoftware.com) [209.239.36.165]
+ Welcome to CRL FTP service.
+ ProFTPD 1.2.4 Server (CFDRC FTP Server) [www.cfdrc.com]
+ ProFTPD 1.2.6 Server (dickey.his.com) [216.194.228.25]
+ ProFTPD 1.2.5rc1 Server (Debian) [mocha.dolphinsim.com]
+ ProFTPD 1.2.4 Server (download.freeverse.com) [dev.freeverse.com]
+ ftpwa.newaol.com FTP server (SunOS 5.8) ready.
+ SJEQNXFTP4 Microsoft FTP Service (Version 5.0).
+ 198.63.208.141 FTP server (Version 6.00LS) ready.
+ SJEQNXFTP2 Microsoft FTP Service (Version 5.0).
+ KrashFTPD 1.2.93 running on BeOS 5 Personal Edition
+ drivers Microsoft FTP Service (Version 5.0).
+ FTP Server Ready
+ ProFTPD 1.2.4 Server (Flanders OGL Server) [flanders.worldogl.com]
+ Welcome at JackXXL.
+ 
+ Welcome to 3dftp.com!
+ tasha FTP server (Version 1.7.212.3 Wed Jul 14 10:24:05 GMT 1999) ready.
+ Hi there.  Anonymous uploads have been disabled. 
+ ProFTPD 1.2.7 Server (ftp.4arrow.com) [216.127.70.171]
+ 4dftp Microsoft FTP Service (Version 5.0).
+ abraF01.ftp.abracadata.com FTP server ready.
+ FTP Server ready.
+ announcer.academ.com FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (FTP Server) [web.hypersurf.com]
+ ProFTPD 1.2.0pre4 Server (ProFTPD) [knife.viawest.net]
+ ftp Microsoft FTP Service (Version 3.0).
+ camelus.ostrichesonline.com FTP server (Version 6.00LS) ready.
+ FTP Server ready.
+ carafe.activestate.com FTP server ready.
+ adahome.com NcFTPd Server (licensed copy) ready.
+ ns1 FTP server ready.
+ ProFTPD 1.2.0rc3 Server (advancedforce.com) [64.176.42.203]
+ Sun Microsystems Inc.   SunOS 5.9       Generic  May 2002
+ ftp.agilent.com FTP server ready.
+ palantir Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.0pre10 Server (Agora Online FTP Server) [tao.agoron.com]
+ FTP server ready.
+ ftp11.pair.com NcFTPd Server (licensed copy) ready.
+ Welcome to FTP4!
+ ftp.alap.com FTP server (Version 6.00LS) ready.
+ asgwww Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5 Server (ProFTPD) [213.253.30.134]
+ ftp Microsoft FTP Service (Version 4.0).
+ alliedt2 Microsoft FTP Service (Version 5.0).
+ bree.webengr.com FTP server (Version 6.5/OpenBSD) ready.
+ Welcome to ALT Linux (http://www.altlinux.ru/) FTP service.
+ FTP server ready.
+ w2k704 Microsoft FTP Service (Version 5.0).
+ ezusa02 Microsoft FTP Service (Version 5.0).
+ Welcome to amnin.com!
+ ProFTPD FTP Server ready.
+ andromeda.com FTP server ready
+ ftp.angoss.com NcFTPd Server (licensed copy) ready.
+ waterbuck Microsoft FTP Service (Version 5.0).
+ Welcome to Trend Micro Moonlight FTP Server
+ anvilstudio.com FTP server ready.
+ ProFTPD 1.2.8 Server (ftp.anything3d.com) [bigpower.anything3d.com]
+ ********************************************************************
+ aoaftp Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (FTP) [vps.pcunix.com]
+ ProFTPD 1.2.8 Server (Asimov Apple ][ Archive) [198.202.148.6]
+ ProFTPD 1.2.8 Server (Apple Anonymous FTP Server) [ftp02.apple.com]
+ walker.aquest.com FTP server (Version 6.00LS) ready.
+ castle.dreaming.org FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (Aracnet Internet's FTP Server) [ftp.aracnet.com]
+ hetman.aranei.com FTP server (Version 6.00LS) ready.
+ ftp.arboretum.com NcFTPd Server (licensed copy) ready.
+ aphrodite Microsoft FTP Service (Version 5.0).
+ patras.noc.areti.net FTP server ready
+ FTP Server ready.
+ Arkeia.com FTP server
+ deepthought.armory.com FTP server ready.
+  Unauthorized use prohibited.
+ FTP Service
+ orchid Microsoft FTP Service (Version 3.0).
+ ProFTPD 1.2.5rc1 Server (Debian) [64.105.51.157]
+ ftp.astron.com FTP server ready
+ ProFTPD 1.2.0pre10 Server (The ATM Forum) [209.133.56.207]
+ ProFTPD 1.2.8 Server (ftp.atrex2.com) [64.91.230.159]
+ aurelitec.com NcFTPd Server (licensed copy) ready.
+ ADESKFTP02 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5 Server (ProFTPD) [gt001213.local.net]
+ Welcome to avaccess.com!
+              WARNING NOTICE                            
+ mtfuji Microsoft FTP Service (Version 4.0).
+ saswh019 FTP server ready.
+ 165.193.130.133 FTP server ready.
+ 165.193.130.133 FTP server ready.
+ ProFTPD 1.2.5rc1 Server (ftp.axis.se) [malle.se.axis.com]
+ ProFTPD 1.2.5rc1 Server (ftp.axis.se) [malle.se.axis.com]
+ ayukov.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.7rc3 Server (ProFTPD Anonymous Server) [mail.scooter.com.pl]
+ 64.40.97.37 FTP server ready.
+ ProFTPD 1.2.8 Server (ftp.beyondftp.com) [63.111.83.26]
+ sullivan.realtime.net FTP server (Version 6.00LS) ready.
+ demo.billmax.com FTP server (Version 6.00) ready.
+ ts Microsoft FTP Service (Version 4.0).
+ ftp.cyberpunkz.org Atlanta, GA.
+ ProFTPD 1.2.8 Server (BitDefender FTP Server) [ns.bitdefender.com]
+ bitenbyte.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (NTKO) [bitmover.com]
+ apollo Microsoft FTP Service (Version 4.0).
+ ftp.bizsystems.net
+ srv1 Microsoft FTP Service (Version 5.0).
+ blackcatsystems.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.4 Server (Blackened Industries FTP Server) [ignite.tus.blackened.com]
+ ftp.sierra.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0rc3 Server (blacksmith.com) [208.56.12.152]
+ ProFTPD 1.2.6 Server (Bluebyte FTP Server) [216.98.50.9]
+ ProFTPD 1.2.2rc2 Server (Raw Bandwidth Communications) [shell.rawbw.com]
+ ftp.bmtmicro.com NcFTPd Server (licensed copy) ready.
+ ftp.bocaresearch.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ ftp1.borland.com NcFTPd Server (licensed copy) ready.
+ ftp.boxtopsoft.com FTP Server ready
+ ProFTPD 1.2.8 Server (ftp.thewebsiteguys.com) [66.227.65.138]
+ Welcome to BPS Reprographics FTP service.
+ ftp.bpsoft.com FTP server ready.
+ FTP Server ready
+ FTP Server Ready
+ 
+ ProFTPD 1.2.6 Server (ProFTPD) [users.buoy.com]
+ ProFTPD 1.2.8 Server (ftp.byterapers.com) [byterapers.com]
+ ftp.ca.com NcFTPd Server (licensed copy) ready.
+ ftp.cablelabs.com FTP server ready.
+ gtfw1 FTP server (Version FTPDP(1) Wed Dec 5 11:26:30 EST 2001) ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ftp.calweb.com NcFTPd Server (licensed copy) ready.
+ mail.pcnet.com NcFTPd Server (licensed copy) ready.
+ AQUILA Microsoft FTP Service (Version 5.0).
+ AQUILA Microsoft FTP Service (Version 5.0).
+ ftp66.pair.com NcFTPd Server (licensed copy) ready.
+ carracho.com FTP server ready
+ ftp.catalyst.com FTP server ready.
+ FTP Service
+ ftp.cdip.com NcFTPd Server (licensed copy) ready.
+ drftp.digitalriver.com NcFTPd Server (licensed copy) ready.
+ ftp.cerious.com FTP server ready.
+ ProFTPD 1.2.4 Server (CFDRC FTP Server) [www.cfdrc.com]
+ Welcome to the cfos.de and cfos.com FTP site!
+ cheats2000.com NcFTPd Server (licensed copy) ready.
+ cacodlonsw2.conxion.com NcFTPd Server (licensed copy) ready.
+ chronosnet.com FTP server ready
+ Welcome to ftp.circuitcellar.com
+    Welcome to Citicom Online Communication Services Internet FTP Server!
+ server1.clanbase.com FTP server ready
+ FTP Server Ready
+ ProFTPD 1.2.8 Server (Welcome to cmpnet FTP Server) [ftp.cmpnet.com]
+ Welcome to Cooperate Developement Inc FTP service!
+ CMHQ FTP Server (vftpd 1.31) ready.
+ Welcome to tx.altair.com's ftp server.  All access is logged.
+ FTP server ready.
+ ProFTPD 1.2.0rc3 Server (ftp.compulotto.com) [64.70.158.45]
+ comtrendeurope.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (CONNECTnet FTP Server) [cn6.connectnet.com]
+ Welcome to the Connect Tech  Inc ftp site
+ ftp.stansell.org ready.
+ newcopris Microsoft FTP Service (Version 4.0).
+ ftp1 FTP server ready.
+ icecat FTP server (UNIX(r) System V Release 4.0) ready.
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ courtesan.cs.colorado.edu FTP server (Version 6.5/OpenBSD) ready.
+ cowon Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (Cray Inc.) [ftp]
+ primary Microsoft FTP Service (Version 5.0).
+ Welcome to CRL FTP service.
+ crystallineconcepts.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ FTP server ready. (lair)
+ ProFTPD 1.2.8 Server (Welcome to our FTP Server) [ftp.cuj.com]
+ Welcome to CyberComm Online Services
+ ProFTPD FTP Server ready.
+ Welcome to CyberKare!
+ ProFTPD 1.2.6 Server (FTP.CYBERVERSE.COM) [brionne.cyberverse.com]
+ ProFTPD 1.2.5rc1 Server (ProFTPD Default Installation) [dantz2]
+ intranet Microsoft FTP Service (Version 5.0).
+ fsftpfi01 ready
+ Welcome to Dataflight Software, Inc. FTP Services.
+ intranet Microsoft FTP Service (Version 5.0).
+ FTP Service
+ dbasegold Microsoft FTP Service (Version 5.0).
+ ftp.ddj.com FTP server (BSDI Version 7.00LS) ready.
+ 4dftp Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.2rc2 Server (ftp.demailly.com) [198.144.193.92]
+ netmachine Microsoft FTP Service (Version 5.0).
+ ftp.deshaw.com is ready
+ ProFTPD 1.2.2rc1 Server (Devolution FTP Server) [twomix.devolution.com]
+ FTP server ready.
+ didcircle.com NcFTPd Server (licensed copy) ready.
+ diegotek.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0pre6 Server (Digi International FTP) [gw3k]
+ ProFTPD 1.2.4 Server (Digital Workshop FTP Server) [ftp.digitalworkshop.com]
+ Welcome to Digitool FTP Server!
+ planiverse ftpd
+ ftp Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5 Server (Download Center) [mulatiere.infogrames.com]
+ dreamlan.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.7rc1 Server (max.drigon.com) [max]
+ ProFTPD 1.2.4 Server (EAW FTP Server) [InternetOne.eaw.com]
+ ProFTPD 1.2.8 Server (EdisonTel S.p.A.) [ftp.edisontel.com]
+ editplus.com NcFTPd Server (licensed copy) ready.
+ berkeley.eiffel.com FTP server (Version 6.00LS) ready.
+ FTP Service ready (Version: 1.2.0)
+ DI4524 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (Welcome to our FTP Server) [ftp.embedded.com]
+ ProFTPD 1.2.5rc1 Server (EMS FTP Server) [ems.ems.ru]
+ www.emulex.com NcFTPd Server (licensed copy) ready.
+ webserver Microsoft FTP Service (Version 5.0).
+ ftp.engelschall.com FTP Server (ProFTPD) ready.
+ ftp120.pair.com NcFTPd Server (licensed copy) ready.
+ ftp Microsoft FTP Service (Version 5.0).
+ spine Microsoft FTP Service (Version 4.0).
+ ftp.eskimo.com FTP server ready.
+ ProFTPD 1.2.4 Server (ProFTPD Default Installation)
+ atlsvrftpxxx002 Microsoft FTP Service (Version 5.0).
+ ftp.ethereal.com FTP server ready.
+ ftp.etteam.com FTP Server ready
+ bserver21.digital.co.uk FTP server ready.
+ fsftpfi01 ready
+ ZyXEL Europe FTP Server ready.
+ NL000NT11 Microsoft FTP Service (Version 5.0).
+ ET01 Microsoft FTP Service (Version 5.0).
+ Sun Microsystems Inc.   SunOS 5.9       Generic  May 2002
+ voyager Microsoft FTP Service (Version 4.0).
+ extrabit.com NcFTPd Server (licensed copy) ready.
+ atlsvrftpxxx002 Microsoft FTP Service (Version 5.0).
+ fsftpfi02 ready
+ ProFTPD 1.2.6 Server (Debian) [think.faceprint.com]
+ ProFTPD 1.2.5rc1 Server (FalkenBBS dot COM ftp Server) [falkenbbs.com]
+ famcal.com NcFTPd Server (licensed copy) ready.
+ Brooks Automation FTP Server
+ 2morrow Microsoft FTP Service (Version 4.0).
+ fastio.com FTP server ready
+ ProFTPD 1.2.0pre10 Server (Faximum Software FTP Server) [206.12.31.61]
+ ProFTPD 1.2.6 Server (ProFTPD Anonymous Server) [febo.com]
+ beppo.feral.com FTP server (Version 6.00LS) ready.
+ whale Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+  Fillmore Labs GmbH  FTP service
+ ProFTPD 1.2.8 Server (ftp.filmshooting.com) [malibu.wideroe.net]
+ fineware.com NcFTPd Server (licensed copy) ready.
+ mixer.visi.com NcFTPd Server (licensed copy) ready.
+ Welcome to fkware.com!
+ flail.com NcFTPd Server (licensed copy) ready.
+ Welcome to leo FTP Server!
+ flaterco.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.4 Server (Flexus) [216.193.128.101]
+ www.flightsim.com FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.5 Server (FluidStudios) [www.fluidstudios.com]
+ ProFTPD 1.2.5rc1 Server (FishNet FTP Server) [bulgy.fni.com]
+ ProFTPD 1.2.5rc1 Server (ftp.foolabs.com) [foolabs.com]
+ ftp.forteinc.com NcFTPd Server (licensed copy) ready.
+  FORTH INC ANONYMOUS FTP SERVER
+ ProFTPD 1.2.5 Server (ftp.foxchange.com) [66.159.16.208]
+ www.fpoint.com FTP server ready
+ ProFTPD 1.2.8 Server (Front Range Internet, Inc.) [pasiphae02.frii.com]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ WIN20466 Microsoft FTP Service (Version 5.0).
+ ftp.ftpplanet.com X2 WS_FTP Server 4.0.0 (46971513)
+ ns Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.2rc2 Server (ProFTPD Default Installation) [talvez.fullsystem.com]
+ ProFTPD 1.2.6 Server (Funcom Server) [ftp.funcom.com]
+ Sun Microsystems Inc.   SunOS 5.9       Generic  May 2002
+ FTP Service
+ ftp.gamesarefun.com FTP Server ready
+ ftp.gamesdomain.co.uk NcFTPd Server (licensed copy) ready.
+ gamesforone.com FTP server ready
+ ProFTPD 1.2.6 Server (Gcom, Inc.) [email.gcom.com]
+ gdmag.com NcFTPd Server (licensed copy) ready.
+ ftp.genicom.com X2 WS_FTP Server 3.1.3 (865476254)
+ deepspace9 Microsoft FTP Service (Version 5.0).
+ apollo Microsoft FTP Service (Version 4.0).
+ ftp.globalvillage.com NcFTPd Server (licensed copy) ready.
+ www2 Microsoft FTP Service (Version 5.0).
+ web1 Microsoft FTP Service (Version 4.0).
+ goof.com FTP server (Version 6.00LS) ready.
+ ftp.greatcircle.com FTP server ready.
+ 63.74.121.136 FTP server (BSDI Version 7.00LS) ready.
+ doulos FTP server ready.
+ ProFTPD 1.2.6 Server (Guillemot FTP Server) [216.98.50.17]
+ ftp.gw.com FTP server ready
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ProFTPD 1.2.2rc1 Server (Handmade Software, Inc. FTP Server) [desmo]
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ Hard Data Ltd. FTP service.
+ FTP server ready.
+ epsilon FTP server ready.
+ daisy Microsoft FTP Service (Version 5.0).
+ FTP Server ready.
+ ProFTPD 1.2.6 Server (Hercules FTP Server) [216.98.50.18]
+ hcserv2 Microsoft FTP Service (Version 5.0).
+ Hilgraeve Inc.
+ ProFTPD 1.2.4 Server (ftp.avocetsystems.com) [66.54.219.227]
+ FTP Service
+ hpat996.external.hp.com FTP server (hp.com version whp02) ready.
+ hpvelotechnik.com NcFTPd Server (licensed copy) ready.
+             ** HERRIN SOFTWARE DEVELOPMENT, INC. **
+ luisa.hte.com FTP server ready
+ ftp.HToC.com NcFTPd Server (licensed copy) ready.
+ terror.hungry.com FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.1 Server (Hurrah FTP Server) [lyra.hurrah.com]
+ Hialeah Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5rc1 Server (FTP Server) [web.hypersurf.com]
+ ProFTPD 1.2.5rc1 Server (ProFTPD Default Installation) [horse.idknet.com]
+ ftp.idmcomp.com FTP Server ready
+ tom.iecc.com FTP server (BSDI Version 7.00LS) ready.
+ FTP server ready.
+ luna.imagiware.com FTP server ready.
+ impweb Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5 Server (ftp.indigostar.com) [69.0.211.82]
+ 204.144.142.3 FTP server (BSDI Version 7.00LS) ready.
+ black01 Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.0rc3 Server (infoexchg.com) [65.108.75.46]
+ rook.innercite.com FTP server ready.
+ Welcome to InnerVoid.com FTP service.
+ earth Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ ftp.intergraph.com FTP server ready.
+ biff Microsoft FTP Service (Version 5.0).
+ download.iomega.com FTP server ready.
+ ftp6.ipswitch.com X2 WS_FTP Server 4.0.0 (47873716)
+ ProFTPD 1.2.0rc3 Server (ircle.com) [64.176.136.188]
+ ProFTPD FTP Server ready.
+ Welcome to Isec, Inc FTP archive.
+ Welcome to iSilo.com!
+ Welcome to the IT Resource Center ftp server
+ secure.ivex.com FTP server (Version 6.00LS) ready.
+ jarte.com NcFTPd Server (licensed copy) ready.
+ ftp Microsoft FTP Service (Version 4.0).
+ FTP server ready.
+ jclark.com FTP server ready
+ phoebe.jcmax.com FTP server ready.
+ JetAudio FTP Server ready
+ ftp.joshie.com X2 WS_FTP Server 4.0.0 (3759010077)
+ jpsoft.net FTP server ready
+ jwwalker.com NcFTPd Server (licensed copy) ready.
+ ftp.kascope.com NcFTPd Server (licensed copy) ready.
+ yertle.int.kciLink.com FTP server (Version 6.00LS) ready.
+ mailhost.kconline.com FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ diana.hh.kew.com FTP server (Version 6.00LS) ready.
+ quack.kfu.com FTP server (Version 6.00LS) ready.
+ pub Microsoft FTP Service (Version 4.0).
+ Welcome to the Kofax Images Products Technical Support FTP archive
+ arrakis FTP server (Version 1.7.212.2 Tue Apr 21 12:14:46 GMT 1998) ready.
+ ProFTPD 1.2.2rc1 Server (FTP) [ktinet.com]
+ ProFTPD 1.2.0rc3 Server (kvaleberg.com) [65.108.188.246]
+ Welcome to LAN.COM FTP service.
+ 66.114.78.56 FTP server ready.
+ FTP server (NeverMind 1.1(1) Thu Nov 29 14:42:35 EST 2001) ready.
+ echunga.lemis.com FTP server (Version 6.00LS) ready.
+ grant Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (Liant Software Corporation) [www.liant.com]
+ ProFTPD 1.2.8 Server (ftp.lightband.com) [www.lightband.com]
+ ProFTPD 1.2.5rc1 Server (ProFTPD Server) [www.linbox.com]
+ ProFTPD 1.2.8 Server (ftp.lincolnbeach.com) [209.50.244.239]
+ ProFTPD 1.2.4 Server (celltrade) [rescuecd.org]
+ ProFTPD 1.2.7 Server ready.
+ carafe.activestate.com FTP server ready.
+ ProFTPD 1.2.2rc2 Server (powered by SuSE Linux) [tammy.croftj.net]
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.5rc1 Server (gman.infinex.com) [64.147.166.3]
+ ftp.lith.com X2 WS_FTP Server 4.0.0 (4150645209)
+ kumr.lns.com FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ Stenstad.net FTP Services "Give him an evasive answer."
+ FTP server ready.
+ sahara Microsoft FTP Service (Version 4.0).
+ WNT Microsoft FTP Service (Version 5.0).
+ Welcome to LynuxWorks FTP service.
+ ProFTPD 1.2.6 Server (Lyris Technologies) [www.lyris.net]
+ macast.com NcFTPd Server (licensed copy) ready.
+ hilbert Microsoft FTP Service (Version 5.0).
+ ftp.madgoat.com HGFTP server V3.1 ready.
+ FTP server ready.
+ world Microsoft FTP Service (Version 4.0).
+ hermix.markv.com FTP server (Version 1.7.212.5 Wed May 30 12:19:42 GMT 2001) ready.
+ ProFTPD 1.2.4 Server (ProFTPD) [206.166.235.8]
+ ftp.mathworks.com NcFTPd Server (licensed copy) ready.
+ ftp.matrox.com NcFTPd Server (licensed copy) ready.
+ our.ftp.server FTP server (NeverMind 1.1(1) Thu Nov 29 14:42:35 EST 2001) ready.
+ ProFTPD 1.2.8rc2 Server (ftp.mcneel.com) [ftp.mcneel.com]
+ ProFTPD 1.2.4 Server (ProFTPD) [www.mediacy.com]
+ atl_web Microsoft FTP Service (Version 4.0).
+ us.mirror.menandmice.com FTP server ready
+ ProFTPD 1.2.7rc2 Server (ftp.merl.com) [shadow.merl.com]
+ ProFTPD 1.2.8 Server (ftp.metacard.com) [66.227.69.253]
+ metbul Microsoft FTP Service (Version 4.0).
+ mononoke.mhost.com FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.0 Server (Pop4 Networking) [sharon.pop4.net]
+ www Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.6 Server (Microlite FTP Server) [outside.microlite.com]
+ Welcome to ftp.microprose.com
+ Microsoft FTP Service
+ Welcome to microworldsystems.com!
+ FTP server ready.
+ midnightblue.com NcFTPd Server (licensed copy) ready.
+ FTP server ready
+ ProFTPD 1.2.5rc1 Server (Ftp Mightygames) [aragorn.planetactive.com]
+ web02 Microsoft FTP Service (Version 4.0).
+ vulcan Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ mx2 FTP server (ftp.mips.com) ready.
+ ProFTPD 1.2.5 Server (ProFTPD) [66.38.247.73]
+ ProFTPD 1.2.4 Server (ftp.mitsumi.com) [209.137.130.230]
+ Mizi OS FTP Account Server ready ..
+ Sun Microsystems Inc.   SunOS 5.9       Generic  May 2002
+ ftp.harcourt.com NcFTPd Server (licensed copy) ready.
+ ftp.mm.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ segfault.monkeys.com FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.monoform.com) [207.228.247.244]
+ ProFTPD 1.2.2rc3 Server (ftp.moraff.com) [gemini.moraffsworld.com]
+ Welcome to ftp.mostang.com!
+ ftp.mstay.com NcFTPd Server (licensed copy) ready.
+ Welcome!
+ ProFTPD 1.2.5rc1 Server ready.
+ multimediaware.com NcFTPd Server (licensed copy) ready.
+ eidolon.muppetlabs.com FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ mustek4 Microsoft FTP Service (Version 4.0).
+ PCDWEB01 Microsoft FTP Service (Version 5.0).
+ dalwebftp3 Microsoft FTP Service (Version 5.0).
+  Welcome to ftp.nas.com...
+ RPNQTRW01 Microsoft FTP Service (Version 5.0).
+ NASA Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ ProFTPD 1.2.5 Server (Network Computing Devices, Inc. FTP Server)
+ ncftpd.com NcFTPd Server (licensed copy) ready.
+ ncftpd.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ ProFTPD 1.2.8 Server (ftp.neospectrum.com) [216.67.236.245]
+ Welcome to FTP service.
+ netcent.com NcFTPd Server (licensed copy) ready.
+ lance.netdoor.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.4 Server (Netmanage FTP Server) [156.27.8.3]
+ This is the NETouch Communications, Inc. FTP archive
+ netscantools.com FTP server ready
+ chinook.fishbone.com FTP server (BSDI Version 7.00LS) ready.
+ ftp.netsys.com NcFTPd Server (licensed copy) ready.
+ neuber.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ ftp FTP server (SunOS 5.8) ready.
+ othin.ninehells.com FTP server (Version 6.5/OpenBSD) ready.
+ nitehawk.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.6 Server (Nival Interactive FTP service) [web2.nival.com]
+ ProFTPD 1.2.4 Server (New Mexico Internet Access) [neitzche.nmia.com]
+ ns.noge.com FTP server ready.
+ Nominum FTP server ready
+ FTPNL Microsoft FTP Service (Version 5.0).
+ www1 Microsoft FTP Service (Version 5.0).
+ ftp.novell.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0rc3 Server (nwpsw.com) [216.147.12.242]
+ thunk.obtuse.com FTP server (Version 6.5/OpenBSD) ready.
+ Unauthorized access prohibited.  All connections are logged.
+ ftp.omnigroup.com ready.
+ FTP server ready.
+ FTP Server ready
+ opensysmon.com FTP server ready
+ SciTech FTP Server ready.
+ pub2.opera.com FTP server ready.
+ ProFTPD 1.2.8 Server (ftp.oreilly.com) [ftp.ora.com]
+ agerelinux.orinocowireless.com FTP server ready
+ ProFTPD 1.2.0 Server ready.
+                   O s t e r m a n  A s s o c i a t e s
+ ProFTPD 1.2.8 Server (Old Time Radio Library) [mail.otrlibrary.com]
+ chinook Microsoft FTP Service (Version 5.0).
+ atm.owt.com NcFTPd Server (licensed copy) ready.
+ Welcome to oxixares.com FTP service.
+ WFTPD 3.2 service (by Texas Imperial Software) ready for new user
+ blackbox Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8rc2 Server (FTP support site of NEC Computers International)
+ foce Microsoft FTP Service (Version 5.0).
+ loki Microsoft FTP Service (Version 4.0).
+ PG FTP server
+ FTP Service
+ ecsftp Microsoft FTP Service (Version 5.0).
+ PCDWEB01 Microsoft FTP Service (Version 5.0).
+ atlsvrftpxxx002 Microsoft FTP Service (Version 5.0).
+ mail.pcnet.com NcFTPd Server (licensed copy) ready.
+ daa21266iml001 Microsoft FTP Service (Version 5.0).
+ peda.com NcFTPd Server (licensed copy) ready.
+ pegasus.temp.veriohosting.com FTP server ready
+ pegasus.temp.veriohosting.com FTP server ready
+ "Perens.com FTP server."
+ wayward.perforce.com FTP server (Version 6.00LS) ready.
+ winserver Microsoft FTP Service (Version 5.0).
+ ausftp2 Microsoft FTP Service (Version 5.0).
+ Welcome to ftp.pgroup.com.  Please report any problems to
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [binkie.photodex.com]
+ FTP server ready.
+ pegasusi.temp.veriohosting.com FTP server ready
+ Welcome to pixelan.com!
+ ProFTPD 1.2.6rc1 Server (ftp.pkware.com) [207.250.4.5]
+ ProFTPD 1.2.8 Server (Main FTP Server) [web5.worldispnetwork.com]
+ wsw30 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (ProFTPD) [otto]
+ ProFTPD 1.2.0rc3 Server (poccosoftware.com) [64.176.50.3]
+ ProFTPD 1.2.4 Server (ProFTPD) [209.236.236.160]
+ partners.polaroid.com FTP server ready.
+ ProFTPD 1.2.4 Server (Welcome to Popflux NYC) [proffer]
+ DEDA87 Microsoft FTP Service (Version 5.0).
+ webserver Microsoft FTP Service (Version 5.0).
+ psweb Microsoft FTP Service (Version 5.0).
+ ftpserver1 Microsoft FTP Service (Version 5.0).
+ 165.193.130.131 FTP server ready.
+ ProFTPD 1.2.4 Server (Procplace FTP) [bubbles.procplace.com]
+ archive.progeny.com FTP server ready.
+ Progress Software FTP server ready
+ nonamec Microsoft FTP Service (Version 5.0).
+ proteron.com FTP server (Version 6.00LS) ready.
+ psg.com FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (ProFTPD) [schizo.psychosis.com]
+ ftp FTP server (SunOS 5.7) ready.
+ FTP Service
+ FTP server ready.
+ qosient.com NcFTPd Server (licensed copy) ready.
+ ftp.qrz.com FTP server ready.
+ FTP server ready.
+ Quark, Inc. ftp server
+ merrick2 Microsoft FTP Service (Version 5.0).
+ ftp.quicksilver.com NcFTPd Server (licensed copy) ready.
+ quiknet3.quiknet.com FTP server ready.
+ FTP server ready.
+ ProFTPD 1.2.8 Server (ProFTPD Installation) [www.rarlab.com]
+ ProFTPD 1.2.8 Server (ProFTPD Installation) [www.rarlab.com]
+ ftp.rational.com NcFTPd Server (licensed copy) ready.
+ www.ravantivirus.com FTP server ready
+ ProFTPD 1.2.2rc2 Server (Raw Bandwidth Communications) [shell.rawbw.com]
+ demobox Microsoft FTP Service (Version 3.0).
+ ProFTPD 1.2.4 Server (ProFTPD) [ftp.rbrowser.com]
+ agora.rdrop.com FTP server (Version 6.00LS) ready.
+ Welcome to redlinelabs.com!
+ ProFTPD 1.2.8 Server (ftp.redpt.com) [64.235.234.167]
+ ares Microsoft FTP Service (Version 4.0).
+ trinity Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (ftp.relmax.com) [205.214.66.66]
+ reportlab.com NcFTPd Server (licensed copy) ready.
+ ftp.revelar.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8rc2 Server (ftp.mcneel.com) [ftp.mcneel.com]
+ ProFTPD 1.2.5 Server (ProFTPD) [62.116.5.74]
+ 198.63.208.135 FTP server (Version 6.00LS) ready.
+ Welcome to venus FTP Server!
+ node10 FTP server ready
+ robelle3000.ai NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0rc3 Server (robertk.com) [216.147.113.135]
+ ftp.rockliffe.com X2 WS_FTP Server 4.0.0 (4257941543)
+ ProFTPD 1.2.6 Server (Rocksoft FTP Server) [ftp.rocksoft.com]
+ ProFTPD 1.2.1 Server (RSA Security Inc. ftp server) [ftp]
+ ProFTPD 1.2.1 Server (RSA Security Inc. ftp server) [ftp]
+ ftp1 FTP server ready.
+ rssoftlab.com FTP server (Version 6.00LS) ready.
+ FTP Service
+ arthur.runestig.com FTP server (Version 6.5/OpenBSD TLS) ready.
+ ProFTPD 1.2.0 Server (Sailnet Ftp Server) [mail.sailnet.com]
+ No unauthorised access allowed to this server
+ ProFTPD 1.2.8 Server (Samurai FTP) [quirk.samurai.com]
+ pub Microsoft FTP Service (Version 4.0).
+ main1 Microsoft FTP Service (Version 4.0).
+ ftp.sap.com FTP server ready.
+ FTP server ready.
+ ProFTPD 1.2.1 Server (Sausage Software FTP Server) [raroaw]
+ 80.67.176.162 FTP server ready.
+ FTP Service
+ ftp1 Microsoft FTP Service (Version 4.0).
+               Welcome to Schrodinger, Inc.
+ SciTech FTP Server ready.
+ Welcome to SCM Microsystems FTP site, all traffic is logged.
+ Welcome, archive user!  This is the SCN Research FTP server.
+ ProFTPD 1.2.5 Server (ProFTPD) [206.71.168.27]
+ Welcome to libra FTP Server!
+ FTP Server Ready (kona 3/20/2001)
+ Welcome to the Scyld FTP service
+ ftp.sdtcorp.com FTP server (NcFTPd 2.2.0) ready.
+ WIN20246 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (putini.seanet.com) [ftp.seanet.com]
+ FTP Service
+ pub.seastrom.com FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.1 Server (RSA Security Inc. ftp server) [ftp]
+ ftp.semware.com FTP Server ready
+ seraline.com NcFTPd Server (licensed copy) ready.
+ shensoft.com NcFTPd Server (licensed copy) ready.
+ shopkeeper.com NcFTPd Server (licensed copy) ready.
+ ftp.shuttle.com FTP server (Version 6.00LS) ready.
+ ftp.sierra.com NcFTPd Server (licensed copy) ready.
+ Sports Interactive FTP Server
+ ftp2.sigmadesigns.com FTP server ready.
+ www.sigmasoft.com FTP server (Version 6.5/OpenBSD) ready.
+ ftp.silverplatter.com NcFTPd Server (licensed copy) ready.
+ calipso Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (ftp.sistina.com) [bender.sistina.com]
+ jenny Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.7 Server (Skali Downloads FTP Server) [arnab.skali.com]
+ sleepy.vwh.net FTP server ready
+ smartcode.com NcFTPd Server (licensed copy) ready.
+ ftp.smarts.com FTP server ready.
+ ftp.smoovenet.com FTP Server ready
+ www.smsc.com FTP server ready.
+ Service ready for new user.
+ snobol4.com NcFTPd Server (licensed copy) ready.
+ softcad.com FTP server ready
+ softcircuits.com NcFTPd Server (licensed copy) ready.
+ sciweb02 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server ready.
+ TKO0WEB00 Microsoft FTP Service (Version 5.0).
+ Sonork2 Microsoft FTP Service (Version 5.0).
+ OUTER1 Microsoft FTP Service (Version 5.0).
+ (vsFTPd 1.1.3)
+ ftp.shuttle.com FTP server (Version 6.00LS) ready.
+ speechpro.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0pre10 Server (Debian) [blue.mediaglobe.com]
+ w3svc Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.6 Server ready.
+ Welcome to spiderwebsw.com!
+ ProFTPD 1.2.6 Server ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ pita.ag.ssesco.com FTP server (Version 6.5/OpenBSD) ready.
+ ftp.ssh.com FTP server ready.
+         ***  You have reached the FTP site of ftp.sstar.com  ***
+ You are connected to our server, please note that
+ ProFTPD 1.2.0pre9 Server (ProFTPD) [www.stalker.com]
+ standalone.com FTP server ready
+ starnet.pair.com NcFTPd Server (licensed copy) ready.
+ Welcome to stayatplay.com!
+ stclairsoft.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ qualitas.com FTP server ready
+ webserver Microsoft FTP Service (Version 5.0).
+ Welcome to the supportfiles.sun.com FTP server.
+ ftp.sunfreeware.com FTP server ready.
+ FTP Service
+ ftp1.support.compaq.com FTP server (Digital UNIX Version 4.104 Fri Jul 6 10:02:59
+         Welcome to SureFire Verification's FTP site.
+ "Welcome to the SuSE ftp server: Please login as user 'ftp'"
+ www1 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [palomar]
+ Service ready for new user.
+ Welcome to the Talonsoft FTP Server
+ tamos.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.2rc1 Server (ProFTPD) [www.taygeta.com]
+ challenge.tcel.com FTP server (TCEL) ready.
+ ProFTPD 1.2.8 Server (ProFTPD) [tdl.com]
+ ProFTPD 1.2.7 Server (Team17 FTP server) [rapture.team17.com]
+ Microsoft FTP Service
+ techsoftpl.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0rc3 Server (ftp.teknowhore.com) [64.70.246.54]
+ webserver1 Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.8rc2 Server (ftp.telebit.com) [216.162.64.159]
+ ns4.telecharger.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server ready.
+ WFTPD 3.2 service (by Texas Imperial Software) ready for new user
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [millennium]
+ ProFTPD 1.2.4 Server (gate.tfb.com) [gate.tfb.com]
+ ftp.tfm.com FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.6 Server (TGS FTP server) [etgs]
+ ftp.thecpl.com NcFTPd Server (licensed copy) ready.
+ ftp.theporch.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.7 (The Written Word) [ftp.thewrittenword.com]
+ ProFTPD 1.2.8 Server (ProFTPD) [loxinfo.thaiwebserver.net]
+ ProFTPD 1.2.6 Server (Thrustmaster FTP Server) [216.98.50.14]
+ ProFTPD 1.2.8 Server (ProFTPD) [192.94.93.1]
+ tibcom.com NcFTPd Server (licensed copy) ready.
+ FTP server ready
+ Welcome to ftp.toggle.com
+ ftp.tomshardware.com NcFTPd Server (licensed copy) ready.
+ PorFTPd Account Server ready ..
+ wahn FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.8 Server (ftp.torpedosoftware.com) [216.22.5.248]
+ marsa.trawna.com FTP server (Version 6.00LS) ready.
+ trevorrow.com NcFTPd Server (licensed copy) ready.
+ Welcome to trilon.com!
+ Welcome to Triticom FTP service.
+ troi.com NcFTPd Server (licensed copy) ready.
+ jimbo.trustix.com FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ ProFTPD 1.2.2rc2 Server (Raw Bandwidth Communications) [shell.rawbw.com]
+ ProFTPD 1.2.7 Server (Tummy.com ftp server) [dev.tummy.com]
+ Turbolinux FTP Service
+ ProFTPD 1.2.8 Server (The Turing Group ProFTPD Server) [glide.turing.com]
+ ftp Microsoft FTP Service (Version 5.0).
+ r4h Microsoft FTP Service (Version 5.0).
+ TZO FTP Server (MT) 1.0 ready
+ ProFTPD 1.2.6 Server (Ubisoft.com FTP1 Server) [216.98.50.10]
+ carcass.eng.cam.ac.uk FTP server ready.
+ ftp1sun FTP server (SunOS 5.8) ready.
+ Microsoft FTP Service
+ FTP5 Microsoft FTP Service (Version 5.0).
+ ftp.us.emtec.com NcFTPd Server (licensed copy) ready.
+ ns2.v6.hknet.com FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ SIC Vector FTP Server
+ ProFTPD 1.2.0pre4 Server (ProFTPD) [vector.vectorkiev.com]
+ content.iserver.net FTP server ready
+ Welcome to the anonymous FTP server at VeriSign, Inc.
+ ftp
+ ftp.vgaplanets.com NcFTPd Server (licensed copy) ready.
+ drivers Microsoft FTP Service (Version 5.0).
+ puredigital Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (PIXIL.ORG) [ftp]
+ ProFTPD 1.2.5rc1 Server (ftp.virata.com) [ftp.virata.com]
+ mixer.visi.com NcFTPd Server (licensed copy) ready.
+ win10115 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.6 Server (Vivier Technologies FTP Server) [viviertechnologie]
+  This is FTP.VIX.COM.  Please be gentle.
+ ProFTPD 1.2.2rc1 Server (portos.volftp.mondadori.com) [portos]
+ ftp49.pair.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.7 Server (VTHD Public FTP Server) [wstli83b.inria.fr]
+ ftp.sierra.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (ftp.vusic.com) [209.61.170.114]
+ ProFTPD 1.2.0pre9 Server (VVM Internet Services FTP Server) [ns2.vvm.com]
+ WACOM_NT3 Microsoft FTP Service (Version 4.0).
+ FTPUS1 Microsoft FTP Service (Version 5.0).
+ ftp.wara.com FTP Server ready
+ above.warped.net FTP server (lukemftpd 1.2 beta 2) ready.
+ agerelinux.orinocowireless.com FTP server ready
+ FTP Service
+ ProFTPD 1.2.5 Server (WCLV FTP Server...wipe your feet!) [fafner.wclv.com]
+ ProFTPD 1.2.8 Server (Welcome to our FTP Server) [ftp.wdj.com]
+ ProFTPD 1.2.8 Server (Welcome to our FTP Server) [ftp.wdj.com]
+ webopt.com NcFTPd Server (licensed copy) ready.
+ Welcome to the WebTrek FTP server.
+ You are connected to ftpd@most.weird.com
+ Welcome to the WESTEND GmbH FTP Server, Aachen, Germany.
+ ProFTPD 1.2.0rc3 Server (ftp.whocares.com) [64.70.217.99]
+ whpress.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.4 Server (ftp.whtech.com) [64.125.72.3]
+ wilma.widomaker.com FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ dns1.windowware.com FTP server (Version 6.00LS) ready.
+ VisNetic FTPServer 2.01.99 Ready.
+ ftp.winguides.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (ftp.winimage.com) [66.246.41.210]
+ PorFTPd Account Server ready ..
+ Akamai Content Storage FTP Server (193.108.93.51)
+ Welcome to ftp.wizworks.com
+ ice.wonderworks.com FTP server (Version 6.00LS) ready.
+ Computer Wunsch GmbH
+ xat.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (ftp.xatech.com) [64.247.37.217]
+ bolo FTP server (WARNING: Authorized use only) ready.
+ ftp.xensei.com FTP server (NcFTPd 2.0.6, registered copy) ready.
+ FTP server ready.
+ (vsFTPd 1.1.3)
+ ftp.xmission.com NcFTPd Server (licensed copy) ready.
+ ftp.xprogramming.com X2 WS_FTP Server 4.0.0 (4275174262)
+ ftp.xright.com FTP Server ready
+ ProFTPD Server (Bring it on...)
+ FTP server ready
+ ProFTPD 1.2.0rc3 Server (yourspeed.com) [64.176.205.152]
+ ftp245.pair.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5 Server ready.
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [serveurlagrange.zegrange.com]
+ ProFTPD 1.2.4 Server ready.
+ ProFTPD 1.2.8 Server (ftp.zipstore.com) [209.50.244.126]
+ www Microsoft FTP Service (Version 4.0).
+ FTP server ready.
+ peanut002 Microsoft FTP Service (Version 5.0).
+ ftp1.ipswitch.com X2 WS_FTP Server 4.0.0 (3912848637)
+ ProFTPD 1.2.2rc1 Server (athos.volftp.mondadori.com) [athos]
+ ftp13.pair.com NcFTPd Server (licensed copy) ready.
+ ftp189.pair.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.1 Server (Arturia FTP Server) [picaros.arturia.completel]
+ server112 Microsoft FTP Service (Version 5.0).
+ ftp2 FTP server ready.
+ ProFTPD 1.2.5 Server (Helix FTP Server) [helixtech.com]
+ ftp2.ipswitch.com X2 WS_FTP Server 3.00 (667641394)
+ cybercentral Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5 Server (ProFTPD) [62.116.5.74]
+ ftp.sierra.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ ProFTPD 1.2.2rc1 Server (portos.volftp.mondadori.com) [portos]
+ ProFTPD 1.2.1 Server (ftp10.deerfield.com) [ftp10.deerfield.com]
+ WIN20272 Microsoft FTP Service (Version 5.0).
+ ftp3.novell.com NcFTPd Server (licensed copy) ready.
+ Q4web Microsoft FTP Service (Version 5.0).
+ ftp.sierra.com NcFTPd Server (licensed copy) ready.
+ Microsoft FTP Service
+ ftp2.novell.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.1 Server (ftp10.deerfield.com) [ftp10.deerfield.com]
+ ftp6.ipswitch.com X2 WS_FTP Server 4.0.0 (47873826)
+ ntserver.webfarm.esat.net X2 WS_FTP Server 4.0.0 (742461872)
+ ftp.cdprojekt.com
+ granite.netnation.com FTP server ready.
+ gate.railway FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [test]
+ Welcome to capricornus FTP Server!
+ ***********************************************************
+ ipdwhw0304atl2 Microsoft FTP Service (Version 5.0).
+ webserver Microsoft FTP Service (Version 5.0).
+ Welcome to maxlevel.com!
+ ProFTPD 1.2.5 Server (ProFTPD) [192.168.1.99]
+ ProFTPD 1.2.5 Server (ProFTPD) [65.59.243.73]
+ smithers.shmoo.com FTP server (Version 6.00LS) ready.
+ nsb.sovam.com FTP server (Version 6.00) ready.
+ speedy.comstyle.com FTP server (Version 6.5/OpenBSD) ready.
+ www2.support.compaq.com FTP server (Compaq Tru64 UNIX Version 5.60) ready.
+ ftp.pixelparadox.com FTP Server ready
+ ProFTPD 1.2.2rc1 Server (Wavefire Technologies Corp: PostgreSQL mirror)
+ psg.com FTP server (Version 6.00LS) ready.
+ qosient.com NcFTPd Server (licensed copy) ready.
+ Welcome to softwest.com!
+ FTP server ready.
+ ProFTPD 1.2.5 Server (ProFTPD) [65.103.148.125]
+ sustworks.com NcFTPd Server (licensed copy) ready.
+ taipei FTP server (Version 6.00LS) ready.
+ FTP Server Ready (kona 3/20/2001)
+ towaco Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5 Server (ProFTPD) [216.194.66.22]
+ ProFTPD 1.2.0rc3 Server (ProFTPD) [216.180.2.84]
+ waves.apple.com FTP server (Version 6.00LS) ready.
+ www.ravantivirus.com FTP server ready
+ Welcome to the Axialis Anonymous FTP Archive!
+ ProFTPD 1.2.0rc3 Server (ftp.blueboxsw.com) [216.110.151.130]
+ uis Microsoft FTP Service (Version 4.0).
+ MATRIX Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (ProFTPD) [10.1.245.2]
+ graphcat.com NcFTPd Server (licensed copy) ready.
+ Welcome to internetmuslim.com!
+ ProFTPD 1.2.0rc3 Server (kenkirkpatrick.com) [64.177.242.239]
+ ProFTPD 1.2.7 Server (ftp.kksoft.com) [207.178.249.29]
+ Motorola FTP Server Ready.
+ Welcome to nancynalley.com!
+ Welcome to nigels.com!
+ FTP Server ready
+ pageville.com FTP server ready
+ www1 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [mantra.ulatina.ac.cr]
+ ProFTPD 1.2.5rc1 Server (Atrey) [atrey.karlin.mff.cuni.cz]
+ www Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.6 Server (ftp.cesnet.cz) [ftp.cesnet.cz]
+ ProFTPD 1.2.6 Server (Faculty of Informatics) [ftp.cstug.cz]
+ ProFTPD 1.2.5rc1 Server (Czilla FTP server) [ftp.czilla.cz]
+   Welcome to the anonymous FTP service of the EUnet Czech Republic.
+ ProFTPD 1.2.8 Server (ftp.cvut.cz :: CTU Prague central FTP server) [147.32.160.19]
+ clustera Microsoft FTP Service (Version 5.0).
+ Welcome to GRISOFT FTP server
+   Welcome to the anonymous FTP service of the EUnet Czech Republic.
+ clustera Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.0pre10 Server ready.
+ (vsFTPd 1.1.3)
+ webserver Microsoft FTP Service (Version 5.0).
+ Welcome to ftp.math.muni.cz
+ ProFTPD 1.2.0 Server (Mikroservis Semily) [mikros.mikroservis.cz]
+ ProFTPD 1.2.5rc1 Server (Debian) [romeo.pf.jcu.cz]
+ Welcome to SiLiCON HiLL FTP ARCHiVE
+ ProFTPD 1.2.5rc1 Server (Sophics) [www.sophics.cz]
+ ProFTPD 1.2.5rc1 Server (UCW) [jabberwock.ucw.cz]
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ftp.vabo.cz FTP server ready.
+ (vsFTPd 1.2.0)
+ ProFTPD 1.2.8 Server (Debian) [titan.zcu.cz]
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [taurus.zf.jcu.cz]
+ ProFTPD 1.2.8 Server (Klokan) [klokan.sh.cvut.cz]
+ ProFTPD 1.2.8 Server (Mandrake.contactel.cz ftp server) [mandrake.contactel.cz]
+ novell FTP Server for NW 3.1x, 4.xx  (v1.10), (c) 1994 HellSoft.
+ ProFTPD 1.2.8 Server (Software602) [ns1.software602.cz]
+ (vsFTPd 1.2.0)
+ ProFTPD 1.2.5rc1 Server (Debian) [alice]
+ (vsFTPd 1.1.3)
+ elib FTP server (SunOS 5.7) ready.
+ FaRa FTP Service
+ beat me, break me! vsftpd, yeah baby!
+ FTP Service
+ FTP Server ready.
+ ftp.bieringer.de
+ AntiVir FTP service
+ aoeftp Microsoft FTP Service (Version 5.0).
+ ftp.webmonster.de FTP server (machstdukrassentransferd 0.1) ready.
+ kadewe FTP server ready.
+ ProFTPD 1.2.2rc3 Server (ProFTPD on AUBI's sunsite) [imhotep]
+ AVM FTP Server
+ ftp.belwue.de NcFTPd Server (licensed copy) ready.
+ BenQ Germany FTP Server
+ ProFTPD 0.0.0 Server (Berkom FTP Server) [mailer.berkom.de]
+ ProFTPD 1.2.2 Server (BerliOS) [snake.berlios.de]
+ ftp.bieringer.de
+ ProFTPD 1.2.2 Server (BinTec anonymous ftp server) [sol07]
+ FTP Server ready
+ ProFTPD 1.2.0pre10 Server (ftp.boerde.de) [relay.boerde.de]
+ FTP Server ready.
+ anderersites.de FTP server ready
+ aragorn.bredex.de FTP server ready
+ FTP Server der Hochschulbibliothek der RWTH Aachen ist bereit
+ FTP Server ready.
+ Welcome to Wiesbaden University Dept. Business Administration  FTP service.
+ waprod2.bluewin.ch FTP server ready.
+ FTP Service
+ Welcome to the cfos.de and cfos.com FTP site!
+ Welcome to the FTP Archive at the Institute for Computational Linguistics
+ bitsign Microsoft FTP Service (Version 5.0).
+ Cornelsen FTP Server ready...
+ ProFTPD 1.2.8 Server (FTP des Institus fuer Informatik, Universitaet
+ tpol.daemon.de FTP server ready.
+ All transfer will be logged.
+ ProFTPD 1.2.5rc1 Server (Buergernetz Deggendorf e. V. FTP Server) [chilli.degnet.de]
+ ProFTPD 1.2.8 Server (SpaceNet AG) [www.denx.de]
+ ProFTPD 1.2.2 Server (ecos FTP Server) [ftp.dev.ecos.de]
+ Welcome to Disc4You FTP service.
+ Welcome to Munich University of Applied Sciences/Dept. Electrical Engineering and
+ Welcome to the FTP service of Cable & Wireless Deutschland.
+ Eidos European FTP Server
+ (vsFTPd 1.1.3)
+ ProFTPD 3.2 Server (FGAN FKIE/KOM FTP Server) [haltern.fkie.fgan.de]
+ ProFTPD 1.2.8 Server (ProFTPD Server der FH Furtwangen)
+ ProFTPD 1.2.7 Server (ProFTPD Default Installation) [rzserv2]
+ datserv FTP server (SunOS 5.8) ready.
+ FTP Server FH Schmalkalden ready.
+  You have reached  *** ftp.fhg.de ***
+ Welcome to Fido.DE FTP service.
+ www.first.fraunhofer.de FTP server (Version 6.00LS) ready.
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ You have reached ftp.FOKUS.FRAUNHOFER.de.
+ You have reached ftp.FOKUS.FRAUNHOFER.de.
+ ProFTPD 1.2.8 Server (KNF ftp Server) [ilsa.franken.de]
+ FTP Server ready.
+ You are user number 3 of 20 allowed.
+ FTP Server ready.
+ FTP Server ready.
+ ProFTPD 1.2.0 Server (Institut für Geophysik, Universität Stuttgart)
+ pollux FTP server (Version 16.2 Fri Apr 26 18:20:43 GMT 1991) ready.
+ Welcome to the official FTP server of the GMD, the
+ FTP Service
+ Welcome to Polynorm Grau.
+ eis1 Microsoft FTP Service (Version 5.0).
+ >>>   Welcome to DLR / GSOC, a service of the German Space   <<<
+ (vsFTPd 1.1.3)
+ Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH Goettingen
+ ProFTPD 1.2.5rc1 Server (virtual.haitec.de) [virtual.haitec.de]
+ Hi there! This is anonftpd.
+ ProFTPD 1.2.0pre10 Server (ProFTPD Default Installation) [kogge.Hanse.DE]
+ ProFTPD 1.2.5rc1 Server (Debian) [dev.heimat.de]
+ ftp.hh.schule.de FTP server ready.
+ ProFTPD 1.2.2 Server (ftp.hirschmann.de) [www3.hirschmann.de]
+ FTP Service
+ Hello,
+     Hallo!
+ ProFTPD 1.2.5rc1 Server (FTPServer) [141.55.192.56]
+ Welcome to ICS GmbH
+ ProFTPD 1.2.7 Server ready.
+ hamilton FTP server (SunOS 5.6) ready.
+ ProFTPD 1.2.0pre10 Server (ProFTPD Anonymous Server) [nikolausharnoncourt]
+ Welcome at the FTP archive of IKS GmbH Jena, Germany.
+ Welcome to the FTP server of the Individual Network Berlin e.V.
+ ProFTPD 1.2.5rc1 Server (FTP server, faculty of CS, TU Dresden, Germany)
+            Humboldt University Berlin
+ sun1 FTP server (SunOS 5.8) ready.
+ welcome to the anonymous FTP service of the Dept. of Computer Science,
+ co2 FTP server (Version 5.60+x2.2) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [www]
+ (vsFTPd 1.1.3)
+ (vsFTPd 1.1.3)
+ FTP server ready.
+ FTP Server ready
+ Willkommen auf Hermes!
+ FTP Server ready
+ ns1.knipp.de FTP server (Version 1.1.214.4(PHNE_27765) Wed Sep  4 05:59:34 GMT
+ FTP server ready
+ ldvwww FTP server (Version 1.7.212.5 Wed May 30 12:19:42 GMT 2001) ready.
+ FTP Service
+ ProFTPD 1.2.5rc1 Server (PackMan) [pluto.schiffbauer.net]
+ FTP Service
+ ftp.lrz.de FTP server ready.
+ calipso Microsoft FTP Service (Version 5.0).
+ NBTS01 FTP server (SunOS 5.7) ready.
+ Hello archive user!  You are connected to the FTP server at
+          __ _                                           _
+ MMEDVNT9 Microsoft FTP Service (Version 5.0).
+ FileServ1 FTP server (SunOS 4.1) ready.
+ ProFTPD 1.2.8 Server (DegNet e.V. FTP Mirror) [ns2.degnet.de]
+ anon FTP server () ready.
+                                     o ooooo
+ ProFTPD 1.2.8 Server (SnipSnap) [tanis.first.fraunhofer.de]
+ ProFTPD 1.2.2rc1 Server (MuPAD FTP Server) [ftp.mupad.de]
+ 27
+ 
+ FTP server ready.
+ ProFTPD 1.2.8 Server (SpaceNet AG) [www.oldenbourg.de]
+ FTP Server ready.
+ FTP Server ready.
+ nora.oreilly.de FTP server (Version 6.5/OpenBSD, linux port 0.3.2) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [bosko.orgatech.de]
+ nacho FTP server (SunOS 5.8) ready.
+ FTP Service
+ ftp.prolink.de NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0pre10 Server (provided by SysTeam) [ftp.psion.de]
+ Quark, Inc. European FTP server
+ Red Hat FTP server ready. All transfers are logged.
+ rsj.de NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.6 Server (RZ FHTW Berlin) [ftp]
+ FTP Server ready.
+ "Welcome to RZ CAU Kiel FTP service."
+ 134.96.7.27 FTP Server (Anonymous FTP) Ready.
+ sr216n02 FTP server (UNIX(r) System V Release 4.0) ready.
+ sr216n02 FTP server (UNIX(r) System V Release 4.0) ready.
+ FTP Service
+ science+computing ag  FTP Server
+     Willkommen auf ftp.sharewarecenter.de
+ ProFTPD 1.2.5rc1 Server (ftp.snafu.de) [castor]
+ FTP Service
+ ftp Microsoft FTP Service (Version 4.0).
+ Welcome at ftp.stardiv.de,
+ helena FTP server ready.
+ Welcome to ftp.suse.de.
+   You reached ftp.swb.de, a _private_ site in Germany.
+ FTP Server ready.
+ ftp.terratec.de
+ flux.thing.de NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.6 Server ready.
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.7 Server (PANDEMONIUM) [pandemonium]
+ greta FTP server (Version 4.1 Tue May 29 11:57:21 CDT 2001) ready.
+ Welcome to TU Chemnitz FTP service (rsync).
+ Welcome to the FTP service of tz.fal.de.
+ sparc FTP server (UNIX(r) System V Release 4.0) ready.
+ Welcome to UB Marburg (Germany) FTP service.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [tonic]
+ ProFTPD 1.2.0pre9 Server (University Hospital Hamburg Eppendorf)
+                         Hallole!
+ immissionsdaten.de FTP server ready
+ ProFTPD 1.2.8 Server (FTP des Institus fuer Informatik, Universitaet
+ ***********************************************************
+ (vsFTPd 1.2.0)
+ FTP Service
+ ProFTPD (UNItopia) ready.
+ Welcome ftp user!
+ FTP Service
+ FTP Service
+ UNIVERSITY OF MANNHEIM / GERMANY
+ web2 Microsoft FTP Service (Version 5.0).
+ elib FTP server (SunOS 5.7) ready.
+ Institute for Process Control and Robotics (IPR)
+ Welcome to IPD Goos, University of Karlsruhe, Germany. This is an anonymous only
+ ProFTPD 1.2.2 Server (BerliOS) [kingfisher.berlios.de]
+ ProFTPD 1.2.4 Server (vmware.bcc.de (jerry)) [jerry]
+ sun1 FTP server (SunOS 5.8) ready.
+ Welcome to the FTP service.
+ Welcome to the WESTEND GmbH FTP Server, Aachen, Germany.
+ ProFTPD 1.2.9rc1 Server (XOLON FTP Server) [xolon.citykom.de]
+ FTP server ready.
+ FTP server ready.
+ spider.deepcore.dk FTP server (Version 6.00LS) ready.
+ ftp.diku.dk NcFTPd Server (free educational license) ready.
+ dirac.dina.kvl.dk FTP server ready.
+ FtpServer 1.16 ready
+ ProFTPD 1.2.5rc1 Server (ProFTPD Default Installation) [odin]
+ hugin.dk FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.8 Server (ProFTPD) [telephus]
+ lirs04.ifa.au.dk FTP server ready.
+ ftp129.pair.com NcFTPd Server (licensed copy) ready.
+ ARHWEB01 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.1 Server (ftp.netcetera.dk) [ymer.netcetera.dk]
+ thor Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5rc1 Server (Museum Tusculanum) [www.mtp.dk]
+ bentley.socsci.auc.dk NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.7 Server (ftp.sslug.dk) [www.sslug.dk]
+ ZyXEL Europe FTP Server ready.
+ ftp.cs.uiuc.edu FTP server ready.
+ ada.pair.com NcFTPd Server (licensed copy) ready.
+ alien FTP server () ready.
+ andrsn.stanford.edu FTP server (Version 6.00LS) ready.
+ epsilon3.cs.caltech.edu NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (ftp.egr.msu.edu) [ike.egr.msu.edu]
+ ftp.nws.orst.edu FTP server ready
+ ftp.astro NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.0pre10 Server (Astronomy and Astrophysics) [astro.uchicago.edu]
+ boombox FTP server (Version 6.00) ready.
+ boulder.Colorado.EDU FTP server ready.
+ The Department of Computer Science at Williams College.
+           Welcome to the Computer Research Laboratory Anonymous FTP
+ ftp.cerias.purdue.edu NcFTPd Server (free educational license) ready.
+ goosie.cogsci.indiana.edu NcFTPd Server (free educational license) ready.
+ cs.nyu.edu NcFTPd Server (free educational license) ready.
+ altair.cs.oswego.edu FTP server ready.
+ Welcome to Smith CS FTP service.
+ University of Tennessee CS Department FTP Server
+ church FTP server (UNIX(r) System V Release 4.0) ready.
+ csus FTP server ready.
+ ProFTPD 1.2.8 Server (CUDLUG Public FTP Server) [cudlug.cudenver.edu]
+ ProFTPD 1.2.5rc1 Server (Debian) [debian.lcs.mit.edu]
+ (vsFTPd 1.1.3)
+ eceserv0 FTP server (SunOS 5.8) ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ProFTPD Server (Bring it on...)
+ ProFTPD 1.2.7 Server (ProFTPD on www.ent.temple.edu) [flower.aud.temple.edu]
+ ftp.unc.edu anonymous only FTP server ready.
+ ftp.engin.umich.edu FTP server (Version 4.162 Tue Nov 1 10:50:37 PST 1988) ready.
+ manilla.cso.uiuc.edu anonymous FTP service
+ The local time is: Fri Aug 29 06:57:43 2003
+ betamax FTP server ready.
+ ais1 Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ web1 FTP server (SunOS 5.6) ready.
+ Welcome to Duke Biology's FTP service.
+ ftpserv Microsoft FTP Service (Version 3.0).
+ ProFTPD 1.2.8 Server (BU FTP server) [128.197.27.121]
+ sol.unet.maine.edu FTP server (Version 4.1 Tue May 15 16:38:46 CDT 2001) ready.
+ yasu FTP server (Version 5.60) ready.
+ ftp.cc.utah.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.8 Server (UMIACS/CFAR Ftp Server) [benreilly.umiacs.umd.edu]
+ hooko.cfht.hawaii.edu NcFTPd Server (free educational license) ready.
+ peabody.che.utexas.edu FTP server (Digital UNIX Version 5.60) ready.
+ ProFTPD 1.2.0pre10 Server (UF Chemistry FTPD) [chem.ufl.edu]
+ Welcome fair traveller!
+ ftp.cis.ksu.edu FTP Server (ProFTPD) ready.
+ juniper FTP server (Version 5.60) ready.
+ FTP server ready.
+ commedia.cnds.jhu.edu FTP server (Version 6.00LS) ready.
+ locust.cns.vt.edu FTP server ready
+ ProFTPD 1.2.8 Server (ftp.coda.cs.cmu.edu) [telemann.coda.cs.cmu.edu]
+ Welcome to the Princeton University Cognitive Science Laboratory
+ ftp.Colorado.EDU FTP server ready.
+ yasu FTP server (Version 5.60) ready.
+ broomstick.cs.albany.edu NcFTPd Server (free educational license) ready.
+ ftp.cs.caltech.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.5rc1 Server (CSU Computer Science FTP Server) [faure.cs.colostate.edu]
+ ProFTPD 1.2.4 Server (sunapee.cs.dartmouth.edu) [sunapee.cs.dartmouth.edu]
+ ProFTPD 1.2.7 Server (Computer Science) [ftp.cs.iastate.edu]
+ ftp.cs.msstate.edu FTP server ready.
+ web.cs.ndsu.nodak.edu FTP server (Version 6.00LS) ready.
+ mp FTP server (SunOS 5.8) ready.
+ cs.nyu.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.5 Server (ODU CS FTP Server) [ocelot.cs.odu.edu]
+ altair.cs.oswego.edu FTP server ready.
+ ftp.cs.sunysb.edu SunOS 4.1.4
+ juno FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.7 Server (University of California Riverside Department of Computer
+ lucky.cs.uidaho.edu FTP server (Version 1.1.214.4(PHNE_23950) Tue May 22 05:49:01
+ ftp.cs.uiuc.edu FTP server ready.
+ FTP Server ready.
+ domitian.cs.umn.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [quartet.cs.unc.edu]
+ UNCA CSCI Annonymous FTP server
+ ProFTPD 1.2.9rc1 Server (Computer Science Department, University of Oregon)
+ University of Tennessee CS Department FTP Server
+ ProFTPD 1.2.8 Server (UVa CS Department FTP Server) [ares.cs.Virginia.EDU]
+ trout.cs.washington.edu FTP server (Version 6.00LS) ready.
+ zeus FTP server (SunOS 5.8) ready.
+ newcs.wpi.edu FTP server (Version 6.5/OpenBSD, linux port 0.3.2) ready.
+ ftp.csb.yale.edu FTP server ready.
+ statler.csc.calpoly.edu FTP server ready.
+ church FTP server (UNIX(r) System V Release 4.0) ready.
+ ProFTPD 1.2.7 Server (UCSC School of Engineering Public FTP) [ftp]
+ ProFTPD 1.2.8 Server (ftp.csh.rit.edu) [ftp.csh.rit.edu]
+ karpathos.csrd.uiuc.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.6 Server (ProFTPD CSU SERVER) [academic2]
+ csus FTP server ready.
+ ProFTPD 1.2.4 Server (NRAO Charlottesville FTP Server) [donar]
+ ftp.cwru.edu FTP server (BSDI Version 7.00LS) ready.
+ (vsFTPd 1.1.3)
+ FTP server ready.
+ ProFTPD 1.2.8 Server (Photography_and_Graphics_FTP_Server) [ftp.dopig.uab.edu]
+ Welcome to the DULUG ftp server.
+ www FTP server () ready.
+ epicenter.eas.purdue.edu FTP server (Version 6.00LS) ready.
+ birch.ece.ucdavis.edu FTP server (Version 1.1.214.7 Thu Aug 10 09:57:38 GMT 2000)
+ yakko FTP server (SunOS 5.8) ready.
+ eceserv0 FTP server (SunOS 5.8) ready.
+ jetty.ecn.purdue.edu FTP server ready.
+ mill.econ.duke.edu FTP server ready.
+ ProFTPD 1.2.8 Server (ECE FTP Server) [ftp.ece.gatech.edu]
+ ProFTPD 1.2.5 Server (ProFTPD) [bowser.eecs.harvard.edu]
+ juno FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.8 Server (ftp.egr.msu.edu) [ike.egr.msu.edu]
+ ftp.ems.psu.edu NcFTPd Server (free educational license) ready.
+ wilbur FTP server (Version 4.130 Sun Oct 8 17:26:47 CDT 2000) ready.
+ ftp.engin.umich.edu FTP server (Version 4.162 Tue Nov 1 10:50:37 PST 1988) ready.
+ ProFTPD 1.2.8 Server (ENS FTP Server) [ftp.ens.utulsa.edu]
+ FTP.ERC.MsState.Edu FTP server ready.
+ dicomctn FTP server (You are connected to the Electronic Radiology Laboratory (ERL)
+ ProFTPD 1.2.8 Server (ftp.georgiacenter.org) [10.10.10.16]
+ ProFTPD 1.2.7 Server (Unauthorized use prohibited. Resistance is futile.)
+ dna7.chem.ou.edu FTP server (SunOS 5.8) ready.
+ pollux FTP server (SunOS 4.1) ready.
+ Geometry Center FTP Server Ready
+ ftp.gi.alaska.edu FTP server ready.
+ ligeti.cns.vt.edu NcFTPd Server (free educational license) ready.
+ Welcome to ftp.gps.caltech.edu, the Division of Geological and
+ ProFTPD 1.2.7 Server ready.
+ graphics.Stanford.EDU NcFTPd Server (free educational license) ready.
+ panther FTP server (UNIX(r) System V Release 4.0) ready.
+ uhamail1 Microsoft FTP Service (Version 4.0).
+ web03 FTP server (Authorized Use Only) ready.
+ ProFTPD 1.2.5 Server (HCS FTP server) [hcs.harvard.edu]
+ UH Math FTP server
+ zero FTP server (UNIX(r) System V Release 4.0) ready.
+ Welcome to the ISDS public FTP server.  (vsftpd)
+ ftp.isi.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.6 Server (Debian) [bfs.itlab.musc.edu]
+ ITTC Apple IIe FTP Server ready.
+ FTP server ready.
+ Service ready for new user.
+ Kansas State University FTP ready to serve.
+ armenia.lcs.mit.edu FTP server (Version 6.00LS) ready.
+ Welcome to ftp.louisville.edu!
+ Welcome to ftp.lug.udel.edu
+ dory.dist.maricopa.edu FTP server (Digital UNIX Version 5.60) ready.
+ blue1 FTP server (SunOS 5.6) ready.
+ zeno FTP server ready.
+ FTP Server ready.
+ arachne FTP server (SunOS 5.6) ready.
+ UH Math FTP server
+ ProFTPD 1.2.4 Server (UMBC Math Department Server) [pc4.math.umbc.edu]
+ "ftp.math.umn.edu" is for anonymous access only.
+ maxwell.syr.edu FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.6 Server (McGill University, Centre for Intelligent Machines)
+ lenti.med.umn.edu NcFTPd Server (free educational license) ready.
+ boombox FTP server (Version 6.00) ready.
+ slate FTP server (Version 4.1 Sat Sep 7 14:31:53 CDT 2002) ready.
+ Monash University FTP Server. Melbourne, Australia.
+ ftp.ms.uky.edu FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ ftp.ms.uky.edu FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ ftp.nanotech.wisc.edu NcFTPd Server (free educational license) ready.
+ baker FTP server (SunOS 5.6) ready.
+ FTP server ready.
+ ProFTPD 1.2.1 Server (ftp.nerdc.ufl.edu FTP Server) [spnode39.nerdc.ufl.edu]
+ FTP server
+ server2 FTP server (Version 1.7.212.1 Sat Feb  1 01:30:15 GMT 1997) ready.
+  All activity on ftp.noao.edu is monitored and logged.
+ NetPresenz v4.1 awaits your command.
+ ProFTPD 1.2.5rc1 Server (NSCL Anonymous FTP server) [clove.nscl.msu.edu]
+ ftp.nso.edu NcFTPd Server (free educational license) ready.
+ NetPresenz v4.1 awaits your command.
+ ftp.oce.orst.edu FTP server ready.
+ ftp.nws.orst.edu FTP server ready
+ Welcome to the FTP server for the School of OR&IE, Cornell University
+ ftp.nws.orst.edu FTP server ready
+ ProFTPD 1.2.5 Server (Ohio Supercomputer Center FTP Server) [192.148.248.50]
+ Welcome to the Department of Petroleum and Geosystems Engineering
+ pepvax FTP server (SunOS 5.6) ready.
+ ProFTPD 1.2.5 Server (ProFTPD Anonymous Server) [meathead.phys.ttu.edu]
+ OSU Physics FTP server
+ ftp.physics.purdue.edu NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.4 Server (PRI Anonymous FTP Server) [germany.pop.psu.edu]
+ yuma.Princeton.EDU FTP server (Version 5.60) ready.
+ oberon.reed.edu FTP server (Version 5.60) ready.
+ ftp.rit.edu (Rochester Institute of Technology) ready.
+ chaco FTP server ready.
+ (vsFTPd 1.1.3)
+ ftp.sdsc.edu FTP server ready.
+ ProFTPD 1.2.8 Server (ProFTPD silver.sdsmt.edu) [silver.sdsmt.edu]
+                   Welcome to the GWU archive.
+ fw.sei.cmu.edu FTP server (SunOS 5.6) ready.
+ www FTP server (NcFTPd 2.1.1, free educational license) ready.
+ * UNAUTHORIZED USE PROHIBITED
+ ftp.src.uchicago.edu NcFTPd Server (free educational license) ready.
+ ftp.nso.edu NcFTPd Server (free educational license) ready.
+ The local time is: Fri Aug 29 06:57:43 2003
+  Southwest Research Institute FTP Server
+ webserver Microsoft FTP Service (Version 5.0).
+ ITTC Apple IIe FTP Server ready.
+ "Local users: consider not typing your password in the clear! use scp!"
+ zorba.admin.uaf.edu FTP server (Version 1.7.212.5 Wed May 30 12:19:42 GMT 2001)
+ vici.ucdavis.edu FTP server ready.
+ ProFTPD 1.2.4 Server (ftp.uconn.edu) [ftp1.uits.uconn.edu]
+ ftp.ucsd.edu FTP server (BSDI Version 7.00LS) ready.
+   FTP on UGCS.  Files posted under ~ftp/pub are available here to the world.
+ WARNING! By accessing and using this system you are consenting to system
+ ftp.uky.edu FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.0 Server (ProFTPD) [gandalf.umcs.maine.edu]
+ ProFTPD 1.2.8 Server (UMIACS/CFAR Ftp Server) [benreilly.umiacs.umd.edu]
+ ftp.unc.edu anonymous only FTP server ready.
+ diane.unet.brandeis.edu FTP server ready.
+ sol.unet.maine.edu FTP server (Version 4.1 Tue May 15 16:38:46 CDT 2001) ready.
+ Unauthorized access prohibited.
+ ProFTPD 1.2.1 Server (USG FTP server) [bang.usg.edu]
+ ProFTPD 1.2.4 Server (UTDallas Anon) [tangled.utdallas.edu]
+ boom.servers.uwrf.edu FTP server ready.
+ ProFTPD 1.2.8 Server ready.
+ cougar FTP server (Compaq Tru64 UNIX Version 5.60) ready.
+ fungus FTP server (SunOS 4.1) ready.
+ gadoid.ices.cmu.edu FTP server (Version 6.00LS) ready.
+ gal4.ge.uiuc.edu NcFTPd Server (free educational license) ready.
+ gee FTP server ready.
+ gloworm.Stanford.EDU FTP server (SunOS 5.7) ready.
+ gumby.it.wmich.edu FTP server (Version 5.60) ready.
+ ProFTPD 1.2.1 Server (CSE Mirror) [35.9.25.10]
+ tucana FTP server (Version 4.139 Tue Apr 17 08:19:10 MST 2001) ready.
+ jhunix.hcf.jhu.edu FTP server ready.
+ Welcome to HPCf UPR FTP server.
+ ProFTPD 1.2.8 Server (UMBC FTP Server) [mirrors.umbc.edu]
+ This system is for the use of authorized users only.
+ ringer FTP server ready.
+ epoch.CS.Berkeley.EDU NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [science.widener.edu]
+ This site is running a very verbose ftp server.  Feel free to shut it up by
+ space FTP server (SunOS 4.1) ready.
+ cslu.bme.ogi.edu FTP server (CSLU at OGI, SunOS 5.6) ready.
+ st.cs.uiuc.edu. NcFTPd Server (free educational license) ready.
+ The local time is: Fri Aug 29 06:57:43 2003
+ FTP server ready.
+ (vsFTPd 1.2.0)
+ FTP server ready.
+ epoch.CS.Berkeley.EDU NcFTPd Server (free educational license) ready.
+ Unauthorized access prohibited.
+ unix1.cc.ysu.edu
+ cool1.hot.ee FTP server ready.
+ ProFTPD 1.2.6 Server (AS Abobase Systems ftp.abs.ee) [ns.abs.ee]
+ ProFTPD 1.2.6 Server (AS Abobase Systems ftp.abs.ee) [ns.abs.ee]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ FTP server ready.
+ web Microsoft FTP Service (Version 5.0).
+ kuukala.mbp.ee FTP server (Version 6.00LS) ready.
+ mlaweb Microsoft FTP Service (Version 5.0).
+ www.ase.ee FTP server (Version 6.00) ready.
+ tech Microsoft FTP Service (Version 4.0).
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ FTP server ready
+ mail Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5rc1 Server (hagar) [hagar.nomad.ee]
+ mikroma2.temp.veriohosting.com FTP server ready
+ scizophrenia.postimees.ee FTP server ready
+ ProFTPD 1.2.5rc1 Server (hagar) [hagar.nomad.ee]
+ ProFTPD 1.2.8 Server (Eesti keele instituudi FTP server) [jabadaba.eki.ee]
+ ProFTPD 1.2.9rc1 Server ready.
+ Microsoft FTP Service
+ ProFTPD 1.2.7 Server (Elmatar's ftp server) [fritz.elmatar.ee]
+ ftp.envir.ee FTP server ready.
+ Tere tulemast kodutu serverisse!
+ felserver.feliks.ee FTP server ready.
+ ProFTPD 1.2.2rc2 Server (FOCUS) [192.168.221.8]
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [mail.fotomeister.ee]
+ ProFTPD 1.2.5 Server (FotoOnline FTP server) [chupachups]
+ gnl_nt Microsoft FTP Service (Version 4.0).
+ carrock Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.2rc2 Server (LYHIS FTP SERVER) [doctor.drcrm.com]
+ tulevall.harjutv FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.4 Server (Haapsalu Trykikoda) [ftp.htrk.ee]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ FTP Service
+ Microsoft FTP Service
+ ProFTPD 1.2.0pre10 Server (Havera FTP server) [havera]
+ tulevall.jarvatv FTP server (Version 6.5/OpenBSD) ready.
+ FTP server ready
+ FTP server ready
+ Microsoft FTP Service
+ ProFTPD 1.2.2rc2 Server ready.
+ ns Microsoft FTP Service (Version 3.0).
+ web Microsoft FTP Service (Version 5.0).
+ FTP server ready
+ FTP server ready
+ ProFTPD 1.2.9rc1 Server (Liiwi FTP server) [mail.liiwi.ee]
+ ftp.linux.ee
+ kuukala.mbp.ee FTP server (Version 6.00LS) ready.
+ merit.sise FTP server ready
+ mlaweb Microsoft FTP Service (Version 5.0).
+ Microsoft FTP Service
+ Welcome to MK ftp service.
+ gw.ck.ee FTP server (Version 6.00LS) ready.
+ web Microsoft FTP Service (Version 5.0).
+ mtarvutid.mt.ee FTP server ready.
+ purk.mv.werro.ee FTP server (Version 6.5/OpenBSD) ready.
+ web Microsoft FTP Service (Version 5.0).
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ nps.vnet.ee NcFTPd Server (free personal license) ready.
+ FTP server ready
+ ProFTPD 1.2.8 Server (Printbest FTP) [best.printbest.ee]
+ FTP server ready
+ aidamees.raad.tartu.ee FTP server (Version 6.00LS) ready.
+ FTP Server ready.
+ ProFTPD 1.2.0pre10 Server (Havera FTP server) [havera]
+ tulevall.saaretv FTP server (Version 6.5/OpenBSD) ready.
+ Taebla Vallavalitsus.
+ ProFTPD 1.2.9rc1 Server ready.
+ tariserver Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5rc1 Server (hagar) [hagar.nomad.ee]
+ ProFTPD 1.2.0pre10 Server (Debian) [foma.tkwcy.ee]
+ Welcome to Datagate FTP service.
+ web Microsoft FTP Service (Version 5.0).
+ ilmeniit Microsoft FTP Service (Version 5.0).
+ benjy FTP server (UNIX(r) System V Release 4.0) ready.
+ ftp.upgrade.ee
+ kadri FTP server (SunOS 5.8) ready.
+ vemis.ee
+ web Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5rc1 Server (hagar) [hagar.nomad.ee]
+ tulevall.virutv FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.5rc1 Server (hagar) [hagar.nomad.ee]
+ FTP Server ready.
+ FTP Server ready.
+ ProFTPD 1.2.8 Server (FTP) [sys]
+ ProFTPD 1.2.8 Server ready.
+         Facultade de Informatica da Universidade da Corun~a.
+ ProFTPD 1.2.4 Server (FTP server at luna.gui.uva.es) [luna.gui.uva.es]
+ ALBA61INT Microsoft FTP Service (Version 5.0).
+ polinux2.eui.upv.es FTP server ready.
+ 156.35.14.150 FTP server ready.
+ FTP server ready.
+ ULPGC FTP
+ ProFTPD 1.2.8 Server (Servidor FTP de la Universidad de Murcia) [araneus]
+ Bienvenido al Servicio de FTP anonimo de la Universidad de Leon
+ FTP server ready
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [butler.cc.tut.fi]
+ FTP Server ready.
+ fsftpfi01 ready
+ ftp.inet.fi FTP server (Version iNET AnonFTPD 24216(7) Mon Dec 27 13:53:22 EET
+ info2 FTP server (Version 1.7.212.2 Tue Apr 21 12:14:46 GMT 1998) ready.
+ Welcome to FTP.JYU.FI
+ huovinen.lingsoft.fi FTP server (Anon ftp (1) Wed Dec 30 16:51:54 EET 1998) ready.
+ Welcome to Mpoli & FLUG
+ Welcome to global.netppl.fi FTP service.
+ qntsrv4 Microsoft FTP Service (Version 3.0).
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [server.tvi.tut.fi]
+ winwww Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5rc1 Server (CMAP ftp server) [barbes.polytechnique.fr]
+ ProFTPD 1.2.2 Server ([Prolian] Bienvenue sur le serveur FTP www.absoft.fr)
+ Serveur ftp Anonyme de l'Académie d'Amiens
+ ProFTPD 1.2.5rc1 Server (ACRI) [mail.acri.fr]
+ FTP Server ready.
+ ProFTPD 1.2.5rc1 Server ready.
+ zcefe Microsoft FTP Service (Version 5.0).
+ naurouze FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.8 Server (Server FTP du CIRIL) [atik.ciril.fr]
+ Welcome to ftp.com1.fr FTP server
+ ProFTPD 1.2.7 Server (CRIHAN FTP Server) [ftp.crihan.fr]
+ yoda.easynet.fr FTP server ready.
+ Connected to 192.168.0.2 ready...
+ oasis FTP server ready.
+ Hello ftpuser!  Welcome to enst.fr.
+ 193.54.82.46 FTP server ready.
+ E.S.R.F. Internet FTP Server ready
+ exogene.ext.genethon.fr NcFTPd Server (licensed copy) ready.
+ rd.grame.fr FTP server ready.
+ FTP server ready.
+ o200.icor.fr FTP server ready.
+ fer.icp.inpg.fr FTP server ready
+ "ILL FTP server."
+ ftp.imag.fr FTP server ready.
+ web Microsoft FTP Service (Version 5.0).
+ FTP Server ready.
+ extra FTP server ready.
+ ftp server ready
+ FTP Service
+ orthose.lmcp.jussieu.fr FTP server ready.
+ ProFTPD 1.2.7 Server (Serveur FTP anonyme du LMD) [armstrong.lmd.jussieu.fr]
+ ServeurWeb Microsoft FTP Service (Version 5.0).
+ newwww.lri.fr FTP server ready
+            Bienvenue sur le serveur ftp de LSCP
+ rio.magic.fr FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.8 Server (Debian) [speedy.minet.net]
+ ProFTPD 1.2.1 Server (ProFTPD Default Installation) [pasca]
+ FTPd Server ready.
+ ProFTPD 1.2.5rc1 Server (funk.nic.fr) [192.134.4.27]
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ProFTPD 1.2.0 Server (Institut Pasteur) [wallis.pasteur.fr]
+ Serveur  FTP PC SOFT
+         Bienvenue sur le serveur FTP du site Polygone CNRS de Grenoble
+ Bienvenue sur le serveur ftp de
+ ProFTPD 1.2.1 Server ready.
+ Bienvenue sur le serveur ftp de
+ 
+ default Microsoft FTP Service (Version 4.0).
+                 Bienvenue sur le serveur ftp de
+ ProFTPD 1.2.0pre10 Server (frazer.ubisoft.fr) [frazer.ubisoft.fr]
+ FTP server ready.
+ ProFTPD 1.2.7 Server (Serveur ftp de l'UNSA) [ftp.unice.fr]
+ ProFTPD 1.2.7 Server (Serveur FTP Universite de Limoges) [web.unilim.fr]
+ You are user number 25 of 500 allowed.
+ ftp server
+ FTP server ready.
+ FTP Server ready.
+ goupix Microsoft FTP Service (Version 4.0).
+ FTP Server ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [brahma.via.ecp.fr]
+ megrez FTP server (SunOS 5.7) ready.
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [moulon]
+ quatramaran.ens.fr FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ ProFTPD 1.2.4 Server (ProFTPD) [styx.adoc.fr]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ sun FTP server (SunOS 5.8) ready.
+ ee.lbl.gov FTP server ready.
+ dcFTPD server (Windows 95) ready.
+ magnum FTP server ready.
+ rs7.loc.gov FTP server (Library of Congress) ready.
+ Welcome to the Frederick Biomedical Supercomputing Center
+ NLM FTP server ready
+ ProFTPD 1.2.4 Server (ftp.noaa.gov) [boykin.nnic.noaa.gov]
+ ftp.sec.noaa.gov NcFTPd Server (licensed copy) ready.
+ ftp.sec.noaa.gov NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ FTP server ready.
+ www Microsoft FTP Service (Version 4.0).
+ NLM FTP server ready
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ Welcome to the CSD archive. Please login as ftp or anonymous with
+ ftp.duth.gr FTP server ready
+ ProFTPD 1.2.8 Server (ProFTPD) [ftp.internet.gr]
+ ProFTPD 1.2.8 Server (ftp.mgmt.internet.gr) [ftp.mgmt.internet.gr]
+ For anonymous ftp users, please use 'anonymous' as the login name and your
+ For anonymous ftp users, please use 'anonymous' as the login name and your
+ ProFTPD 1.2.4 Server (Official CARNet FTP server) [hlapic.srce.hr]
+ cromath.math.hr FTP server (Version 1.1.214.8 Fri Apr 20 07:27:42 GMT 2001) ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [debella.ikk.sztaki.hu]
+ ProFTPD 1.2.4 Server (BKAE ftp) [ds20e.bke.hu]
+ ftp.bme.hu FTP server ready.
+ ProFTPD 1.2.8 Server (ftp.euroweb.hu) [sondor.euroweb.hu]
+ ftp
+ FTP Server (Guess what!)
+ ProFTPD 1.2.5rc1 Server (Debian) [ftp.idg.hu]
+ You have now reached the ftp server at the Department of Control
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [ns.kibernet.hu]
+ ProFTPD 1.2.5rc1 Server (ftp.linuxforum.hu) [linuxforum]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ProFTPD 1.2.1 Server (MPlayerHQ) [mail.mplayerhq.hu]
+ FTP Server powered by SuSE Linux
+ ftp.sztaki.hu FTP server ready.
+ iseb2 Microsoft FTP Service (Version 3.0).
+ Welcome to CBN FTP Server [ftp.cbn.net.id]
+ elpico FTP server ready.
+ ProFTPD 1.2.5rc1 Server (timae) [timae.csn.ul.ie]
+ ftp.oceanfree.net FTP server ready.
+  Welcome to the Irish National Information Server FTP site.
+ siobhra.indigo.ie FTP server (Version 6.00) ready.
+ users.iol.ie FTP server ready.
+ ProFTPD 1.2.2 Server (ftp.cs.huji.ac.il) [ftp.cs.huji.ac.il]
+ iglu.actcom.co.il FTP server ready.
+ invircible.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.1 Server (ProFTPD) [sites.huji.ac.il]
+ ligeti.cns.vt.edu NcFTPd Server (free educational license) ready.
+ winasks.com NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ spegill.linux.is FTP server ready
+ gauss.mbl.is FTP server ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [raunvis.hi.is]
+ FTP server ready.
+ ftp.rhnet.is FTP server (tnftpd 2.0 beta3) ready.
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [turn]
+ zen.veda.net FTP server (Version 6.00LS) ready.
+ area.area.ba.cnr.it FTP server (Compaq Tru64 UNIX Version 5.60) ready.
+ ftp.brain.it V2 WS_FTP Server 3.1.4 (0)
+ Welcome to DEI FTP service.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ten FTP server (WARNING: Authorized users only) ready.
+ ProFTPD 1.2.8 Server (EdisonTel S.p.A.) [ftp.edisontel.com]
+ Welcome to FLUG FTP service. Please use passive mode
+ Cybernet Italia Spa FTP Server
+ axgarr.dir.garr.it FTP server (Digital UNIX Version 5.60) ready.
+ ProFTPD 1.2.8 Server (ftp.ihnet.it) [217.18.104.148]
+ (vsFTPd 1.2.0)
+ cici.cilea.it FTP server ready.
+ ProFTPD 1.2.2rc2 Server (InetCosmos's ProFTPD Server (Powered by SuSE Linux))
+ ProFTPD 1.2.4 Server (ProFTPD Anonymous Server) [giove.polito.it]
+ ProFTPD 1.2.0pre10 Server (Sulu FTP Server) [ftp.postgresql.uli.it]
+ ftp.sif.it FTP server ready.
+ Wildcard Service Srl Ftp Server
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [atlas.ubisoft.it]
+ www2.unife.it FTP server (Compaq Tru64 UNIX Version 5.60) ready.
+ winda2 Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.2 Server (Secondary FTP) [213.92.99.41]
+ mercurio.iet.unipi.it FTP server (Digital UNIX Version 5.60) ready.
+ microian FTP server (SunOS 5.7) ready.
+ apollon Microsoft FTP Service (Version 5.0).
+ nishiki.omronsoft.co.jp FTP server (BSDI Version 7.00LS) ready.
+ APMI FTP Service Ver.1.00 ready.
+ ftp.caj.co.jp NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.4 Server (ftp.casio.co.jp) [210.150.32.3]
+ ProFTPD 1.2.8 Server (ftp.cs.keio.ac.jp) [131.113.70.1]
+ serve FTP server ready.
+ violin FTP server (lukemftpd 1.2 beta 1) ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [plat.debian.or.jp]
+ Ftp.Eos.Hokudai.Ac.Jp FTP Server Ready
+ ProFTPD 1.2.0pre9 Server (ProFTPD) [lily.fan.gr.jp]
+ ProFTPD 1.2.8 Server ready.
+  Welcome to ftp.foretune.co.jp
+ fxgwww FTP server ready.
+ ProFTPD 1.2.8 Server (ftp.cims.hokudai.ac.jp) [goblin.cims.hokudai.ac.jp]
+ ProFTPD 1.2.5rc1 Server (Debian) [lilia.hypercore.co.jp]
+ ns08.iamas.ac.jp FTP server (Version 6.00LS) ready.
+ ftp1.iij.ad.jp FTP server ready.
+ www.is.titech.ac.jp FTP server ready.
+      Welcome to FTP.JPIX.ad.jp,
+ kces.koganemaru.co.jp FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5 Server (LASER5 Linux FTP Server) [211.5.140.197]
+ ProFTPD 1.2.5rc1 Server (LInux NETwork/ProFTPD) [sv.linet.gr.jp]
+ soseki.magma.ad.jp FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7 Server (Matsusaka University Anonymous FTP Server)
+ ProFTPD 1.2.5rc1 Server (ProFTPD Basic Configuration) [cod.meme.hokudai.ac.jp]
+ ace.nerimadors.or.jp FTP server (Version 6.00LS) ready.
+ Welcome to ftp.netlab.is.tsukuba.ac.jp
+ asabu.north.ad.jp FTP server (Version 6.00LS) ready.
+ ns.numata.aomori.aomori.jp FTP server (lukemftpd 1.2 beta 1) ready.
+ nishiki.omronsoft.co.jp FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.8 Server (Orangesoft FTP Server) [komomo.orangesoft.co.jp]
+ ProFTPD 1.2.8 Server (ftp.python.jp) [parrot.python.jp]
+ This is ftp1.sony.co.jp, aliased to ftp.sony.co.jp,
+ violin FTP server (lukemftpd 1.2 beta 1) ready.
+ ftp.itjit.ne.jp FTP server ready.
+ ProFTPD 1.2.6 Server (SRA FTP server) [sraigw]
+ ProFTPD 1.2.4 Server ready.
+ FTP server ready.
+ ftp.tokyoweb.or.jp NcFTPd Server (licensed copy) ready.
+ ftp.vector.co.jp NcFTPd Server (licensed copy) ready.
+ bakkai.wkj.forus.or.jp FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (YYNET FTP SERVICE) [sapphire.yynet.tama.tokyo.jp]
+ extended FTP [MODE XDC][XDC/BASE64][PIPELINE] (1) delegate.as.wakwak.ne.jp
+ hst.asiainfo.kg NcFTPd Server (licensed copy) ready.
+ stone FTP server ready.
+ ProFTPD 1.2.8 Server ready.
+ FTP server ready.
+ Host.KZ ftp server
+  Sveiki,
+ Fermentas
+ FTP server ready.
+ uosis.mif.vu.lt FTP server (Version 6.00LS) ready.
+ resnis Microsoft FTP Service (Version 4.0).
+ (vsFTPd 1.1.3)
+ lexx.eunet.lv FTP server (BSDI Version 7.00LS) ready.
+ NOTICE: This is a United States Department of Defense computer system.
+ emissary FTP server (This DoD Computer System to be used only for official U.S.
+ This is a Department of Defense computer system.  This computer system,
+ ironsides NcFTPd Server (licensed copy) ready.
+ ftp FTP server ready
+ ftp2.jaring.my FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.0pre9 Server (candc1.golden.net) [candc1.golden.net]
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [daedalus.crosslink.net]
+ mixmeister Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (EDGE) [edge.fireplug.net]
+ ProFTPD 1.2.2rc2 Server (Raw Bandwidth Communications) [shell.rawbw.com]
+ u1.abs.net FTP server ready.
+ argo.acronet.net FTP server (Version 6.00LS) ready.
+ Web Microsoft FTP Service (Version 5.0).
+ FTP Server ready.
+ ProFTPD 1.2.7rc1 Server (Allegiance Internet Public FTP Server) [ftp.dmz.algx.net]
+ ProFTPD 1.2.6 Server (ftp.apnic.net) [ftp.apnic.net]
+ ProFTPD 1.2.8 Server (Asimov Apple ][ Archive) [198.202.148.6]
+ ari.ari.net FTP server ready.
+ ProFTPD 1.2.7 Server (ftp.arin.net) [ftp1]
+ ftp.aros.net NcFTPd Server (licensed copy) ready.
+ Auschat Internet FTP Server
+ FTP server ftp.backschues.net
+ ftp.FreeBSD.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.2 Server (BinTec anonymous ftp server) [sol07]
+ ftp.biz.net FTP server (BSDI Version 7.00LS) ready.
+ ftp.bizsystems.net
+ Welcome to the Blarg.net FTP Server
+ admin.cabel.net FTP server ready.
+ ProFTPD 1.2.8 Server (blueyonder Mirrors) [mirror2.blueyonder.co.uk]
+ NuVox Customer FTP Server (usercomm@trivergent.net)
+ rubidium Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.6 Server (Chaotix Addictions) [dproper.chaotix.net]
+ linus FTP server ready.
+ FTP server ready.
+ ProFTPD 1.2.8 Server ready.
+ ProFTPD 1.2.5 Server (Welcome to SuperHosts.net FTP Server) [superhosts.net]
+ ox.compsoc.net (OU Compsoc) FTP server ready
+ clientmail3 Microsoft FTP Service (Version 5.0).
+ "This is a mirror of Free Software repositories hosted by CPRM.net. All transfers
+ ns1.repp.org FTP server ready.
+ ready, dude (vsFTPd 0.9.3: beat me, break me)
+ ProFTPD 1.2.2rc2 Server (powered by SuSE Linux) [tammy.croftj.net]
+ atlas.csd.net FTP server (Digital UNIX Version 5.60) ready.
+ ProFTPD 1.2.5 Server (ftp.cstone.net) [ftp.cstone.net]
+ www Microsoft FTP Service (Version 4.0).
+ guest31337.dal.net FTP server (Version 6.00LS) ready.
+ Aleron Broadband FTP Mirror
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [midgard.deva.net]
+ FTP server ready.
+ ProFTPD 1.2.5rc1 Server (Netsplit.com) [populous.netsplit.com]
+ (vsFTPd 1.1.3)
+ djuga.net NcFTPd Server (licensed copy) ready.
+ ftp.dknet.dk NcFTPd Server (licensed copy) ready.
+ Welcome to the anonymous FTP server at EarthLink Network, Inc.
+ ProFTPD 1.2.6 Server (Earthnet Primary FTP Server) [springs.earthnet.net]
+ mandarin.ftp.easynet.net NcFTPd Server (free personal license) ready.
+ ProFTPD 1.2.5rc1 Server (www2.ebtech.net Personal Pages) [sleepy.ebtech.net]
+ ftp.edome.net NcFTPd Server (licensed copy) ready.
+ sv1.eng.oar.net FTP server (Version 6.00LS) ready.
+ Welcome to ftp.esat.net
+ Welcome to ftp.euronet.nl / ftp.wanadoo.nl.
+ Der Farlepische FTP Server fertig
+ nova.fiber.net FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.4 Server (Flipcode.com FTP Server) [linux1350]
+ ProFTPD 1.2.8 Server (Debian) [caladan.freestone.net]
+  Welcome to the Irish National Information Server FTP site.
+ adenine.frognet.net
+  Welcome to the Frontier Internet ftp archive.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [play.gamerz.net]
+ sun2.f.de.gatel.net FTP server (CERFnet Germany, Inc. 30/05/1997) ready.
+ ProFTPD 1.2.5rc1 Server (GulfNet FTP Server) [tourist.gnt.net]
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [web.got.net]
+ ftp.gu.net FTP server ready.
+ sdm.habber.net FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ ProFTPD 1.2.5 Server (ProFTPD) [206.166.194.141]
+ cocoja FTP server (Version 6.00LS) ready.
+ biz6.iadfw.net FTP server (Version 6.00) ready.
+ ProFTPD 1.2.9rc1 Server (RoEduNet Iasi Branch FTP Server) [ns.iasi.roedu.net]
+ ftp FTP server (SunOS 5.8) ready.
+ JOLT Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ imagemagick.org NcFTPd Server (licensed copy) ready.
+ jane Microsoft FTP Service (Version 5.0).
+ Welcome to ftp.infogrames.net
+ www.ing.twinwave.net FTP server ready.
+ ProFTPD 1.2.5 Server (inKline Global FTP Server) [inklineglobal.com]
+ FtpServer 0.85 ready
+ ProFTPD 1.2.7 Server (Serwer FTP ASK INTER) [inter.wroc.net]
+ Internic FTP Server
+ PortBridge FTP Server
+ ircache.net FTP server (Version 6.00LS) ready.
+ ftp.itl.net NcFTPd Server (licensed copy) ready.
+ aph.waw.pdi.net FTP server ready
+ johngaughan.net NcFTPd Server (licensed copy) ready.
+ jpsoft.net FTP server ready
+ ProFTPD 1.2.5rc2 Server (host.ka.net) [host.ka.net]
+ orange.kame.net FTP server (Version 6.00LS) ready.
+ zoo.kar.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD Default Installation) [mudshark.kemerovo.net]
+ ProFTPD 1.2.8 Server (ftp.lightband.com) [www.lightband.com]
+ ftp.keyway.net NcFTPd Server (licensed copy) ready.
+ eclectic.kluge.net FTP server ready
+ ProFTPD 1.2.8 Server (KSC Commercial Internet, Anonymous FTP Server) [ftp.ksc.net]
+ lacnic.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [hoochie]
+ ProFTPd Account Server ready ..
+ FTP Server ready.
+ moot.litech.net FTP server (Version 6.00LS) ready.
+ Luna.nl anonymous FTP server
+ diamond FTP server ready
+ ProFTPD 1.2.4 Server (ProFTPD Default Installation) [marko.marko.net]
+ ProFTPD 1.2.2rc3 Server (ProFTPD Default Installation) [proxy.mebius.net]
+ ProFTPD 1.2.5 Server ready.
+ ProFTPD 1.2.8 Server (Debian) [speedy.minet.net]
+ ProFTPD 1.2.5rc1 Server (ftp.mirt.net) [mirt.mirt.net]
+ Welcome to the MNIS FTP Server!
+ ProFTPD 1.2.8 Server (MrUnix FTP Server) [guru.mrunix.net]
+ mylittleserver.net FTP server ready
+ Welcome to Nationwide Internet's anonymous ftp server!
+ hustle FTP server (UNIX(r) System V Release 4.0) ready.
+ mint FTP server ready.
+ metroid FTP server ready.
+ ns1.nero.net FTP server ready.
+ Ftp.NetWiz.Net NcFTPd Server (licensed copy) ready.
+ Welcome to mars FTP Server!
+ ProFTPD 1.2.5rc1 Server (Debian) [katrijn.vergenet.net]
+  Server (ProFTPD) [sigmar.norwida.net]
+ ProFTPD 1.2.2rc2 Server (powered by SuSE Linux) [ftp.nrw.net]
+ ProFTPD 1.2.1 Server (NETPLEX Internet Services) [ftp.ntplx.net]
+ dialup.oar.net FTP server (UNIX(r) System V Release 4.0) ready.
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [ftp.oleane.net]
+ ProFTPD 1.2.8 Server (Omnitel) [aitvaras]
+ ftp.ovh.net NcFTPd Server (licensed copy) ready.
+ ftp.paco.net FTP server ready.
+ 213.186.73.194 FTP server ready
+ 80.142.111.180 FTP server ready
+ ProFTPD 1.2.0pre10 Server (ProFTPD safran) [safran.pimentech.net]
+ ftp.plig.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [challenger.vgp.de]
+ ProFTPD 1.2.9rc2 Server (proftpd.org Project) [81.223.20.36]
+ Welcome to Promo.Net FTP Site!
+ shell.pubnix.net FTP server (Version 6.00) ready.
+ ReadyNetH FTP version 1.0 ready at Fri Jan  7 13:29:10 2000
+ sullivan.realtime.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (REDNET Ltd. FTP Server: email ftpmaster@red.net) [exmoor]
+ ProFTPD 1.2.7 Server (ProFTPD Default Installation) [rial.rial.net]
+ FTPD Server (RIPE NCC FTP server)
+ ftp.rosbi.ru FTP server ready.
+ proxy Microsoft FTP Service (Version 5.0).
+ (vsFTPd 1.2.0)
+ ProFTPD Version 1.2.8 (sanguine.net FTP Server) [ftp.sanguine.net]
+ Welcome to ZEDZ Warez services.
+ shell1.sentex.ca FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7 Server (Shell2 FTP Server) [shell2.shore.net]
+ ProFTPD 1.2.5rc1 Server (ftp.rettc.com) [carter]
+ drftp.digitalriver.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.2rc2 Server (Raw Bandwidth Communications) [shell.rawbw.com]
+ skuz.net FTP server ready
+ ProFTPD 1.2.2rc1 Server (SpaceNet AG) [localhost]
+ bull.spline.net FTP server (BeroFTPD 1.3.2(1) Sun Jan 24 17:59:27 EET 1999) ready.
+ ProFTPD 1.2.2rc2 Server (ProFTPD Default Installation) [capella.ssft.net]
+ ProFTPD 1.2.7 Server (StBen's FTP server) [ns.stben.net]
+ ProFTPD 1.2.5rc1 Server (ftp.steinberg.net) [ftp.steinberg.net]
+ "That secret you've been guarding, isn't."
+ gsh.styx.cabel.net FTP server ready.
+ octopus.sunbay.ch FTP server (Version 6.00LS) ready.
+ clarinet.synapse.net FTP server (Version 6.00LS) ready.
+ ftp.synchro.net FTP Server ready
+ ftp.szkola.net FTP server ready.
+ ProFTPD 1.2.8 Server (tamos) [grue.tamos.net]
+ ftp.telstra.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.6 Server (teol.net hosting service) [hosting1.teol.net]
+ ftp.terratec.de
+ ProFTPD 1.2.8 Server ready.
+ ProFTPD 1.2.6 Server (FTP Server) [online.tomsk.net]
+ jimbo.trustix.com FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ ProFTPD 1.2.8 Server ready.
+ ProFTPD 1.2.6rc1 Server (Time Warner Telecom FTP Server) [ftp.twtelecom.net]
+ ProFTPD FTP Server ready.
+ ftp.vianetworks.co.uk FTP server (BeroFTPD 1.3.4(1) Tue Sep 7 12:24:47 BST 1999)
+ FTP server ready.
+ asterix.uptel.net FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ ProFTPD 1.2.0pre4 Server (ProFTPD) [knife.viawest.net]
+ ns1.vrx.net FTP server (Version 6.00) ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ FTP server ready.
+ www.westbend.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7 Server (WhidbeyNET Personal Server) [pws.whidbey.net]
+ wibble.net FTP server ready.
+ mach01.win.net FTP server ready.
+ Welcome to mars FTP Server!
+ ProFTPD 1.2.0pre6 Server (Web+ FTP service) [ftp.wplus.net]
+ Welcome to ZEDZ Warez services.
+ zipcon.net FTP server ready
+ ftp.zverkov.net Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.0 Server (gear FTP server) [gear.torque.net]
+ Welcome to Mirror.VuurWerk.nl.
+ cont1.lhx.teleglobe.net FTP server ready.
+ berg.samara.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5 Server (inKline Global FTP Server) [inklineglobal.com]
+ ProFTPD 1.2.2rc1 Server (inplup.bora.net) [ftp1]
+ ProFTPD 1.2.6 Server (dickey.his.com) [216.194.228.25]
+ ProFTPD 1.2.0pre8 Server (download.mindjet.com) [207.228.255.163]
+ Mirddin FTP ready
+ ProFTPD 1.2.5 Server (HiWAAY Public FTP Mirror) [mirror.hiwaay.net]
+ mirrors.ptd.net
+ Mp3Drome Is Online!
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ProFTPD 1.2.6 Server (FTP Server) [online.tomsk.net]
+ postfix.cloud9.net NcFTPd Server (licensed copy) ready.
+ (vsFTPd 1.1.3)
+ Drydock
+ ProFTPD 1.2.5rc1 Server (ftp.mirt.net) [mirt.mirt.net]
+ "This is a mirror of Free Software repositories hosted by CPRM.net. All transfers
+ ProFTPD 1.2.0rc3 Server (kksoft.net) [208.56.24.47]
+ FTP Service
+ jagr.zenon.net FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5 Server (ProFTPD) [ftp.cablenet.com.ni]
+ Welcome to the CE FTP server.  Please read /pub/README !
+ cobalt FTP server ready.
+ ProFTPD 1.2.6 Server (The Luon Network ProFTPD) [sphere.luon.net]
+ cobalt FTP server ready.
+ wdh010 Microsoft FTP Service (Version 5.0).
+ ftp.adonis.nl FTP server ready.
+ ftp Microsoft FTP Service (Version 4.0).
+ FTP Service
+ FTP server ready.
+ FTP server ready.
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ users.castel.nl FTP server ready.
+ FTP Server for .chem.uu.nl ready
+ ftp.cistron.nl FTP server ready.
+ cmbi1.cmbi.kun.nl FTP server ready.
+ FTP server ready.
+ castor FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.cs.kun.nl) [pandora.cs.kun.nl]
+  Welcome to ftp.cs.uu.nl
+  Welcome to ftp.cs.uu.nl
+ ProFTPD 1.2.0pre3 Server (Dataman ProFTPD) [w3]
+ Welcome to the Linux Generation FTP mirror!
+ dworks02 FTP server (Version 1.7.212.3 Wed Jul 14 10:24:05 GMT 1999) ready.
+ 195.86.128.57 FTP server ready
+ FTP Service
+ oxzaps4.elsevier.co.uk FTP server (Elsevier Science Ltd) ready.
+ emelan FTP Server for NW 3.1x, 4.xx  (v1.10), (c) 1994 HellSoft.
+ Welcome to ftp.euronet.nl / ftp.wanadoo.nl.
+ snap.expa.fnt.hvu.nl FTP server ready.
+ castor FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.0pre10 Server (Debian) [mirror.fwn.rug.nl]
+ ftp.geo.vu.nl FTP server ready.
+ Welcome to the Faculty of Geographical Sciences FTP service.
+ gewis.win.tue.nl FTP server (Version 6.00LS) ready.
+ Welcome to ZEDZ Warez services.
+ www.hinttech.nl FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ Welcome to the Hobbynet FTP archive
+ Welcome to the official FTP Server of Hogeschool Zeeland.
+     This is an anonymous ftp service only.
+  Welkom op de Knoware FTP site
+ ftp.let.rug.nl NcFTPd Server (licensed copy) ready.
+ Luna.nl anonymous FTP server
+ (vsFTPd 1.2.0)
+ (vsFTPd 1.1.3)
+ Welcome to the XS4ALL archive,  Please login as `anonymous' with
+ ProFTPD 1.2.5rc1 Server (Debian) [helikon.muze.nl]
+ (vsFTPd 1.1.3)
+ Welcome to UNIPEN FTP service.
+ FTP server ready.
+ Welcome to paralax.nl!
+ server_files Microsoft FTP Service (Version 4.0).
+ ftp.ph.tn.tudelft.nl NcFTPd Server (licensed copy) ready.
+ ftp.planet.nl NcFTPd Server (licensed copy) ready.
+ ftp.quicknet.nl NcFTPd Server (licensed copy) ready.
+ FreeRadius FTP server
+ ftp.rug.nl NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.sci.kun.nl) [wees.sci.kun.nl]
+ FTP server ready.
+ ftp.stack.nl ready.
+ web.swi.psy.uva.nl FTP server (Version 6.5/OpenBSD, linux port 0.3.2) ready.
+ mailhub.tcja.nl FTP server (Version 6.00LS) ready.
+ Microsoft FTP Service (Version 4.0).
+ jakob FTP server (SunOS 5.7) ready.
+ ProFTPD 1.2.1 Server (ftp.tue.nl) [euclides.tue.nl]
+ ProFTPD 1.2.8 Server (ftp.vu.nl) [ftp.vu.nl]
+ ProFTPD 1.2.2 Server (Wageningen University Public FTP server) [ftp.wau.nl]
+ ProFTPD 1.2.4 Server (Win TU/e) [svbcf05]
+ XS4ALL ftpd DCLXVI
+ mud.stack.nl FTP server (Version 6.00LS) ready.
+ spike.porcupine.org FTP server (Version 4.138 Mon Apr 16 15:55:41 EDT 2001) ready.
+ ProFTPD 1.2.8 Server (xraysoft powered by Ton) [xray5.chem.uu.nl]
+ ProFTPD 1.2.4 Server (Aragorn FTP Server) [aragorn.uio.no]
+ ProFTPD 1.2.4 Server (ftp.astro.uio.no) [algedi]
+ FTP Service
+ DataGuard AS: FTP server
+ ProFTPD 1.2.2rc3 Server (ProFTPD Default Installation) [www.dolphinics.no]
+ ftp.fast.no FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (ProFTPD) [metlife]
+ svabu.gtf.ol.no FTP server ready.
+ terne FTP server (SunOS 5.7) ready.
+ ghost Microsoft FTP Service (Version 3.0).
+ ProFTPD 1.2.7 Server (ftp.idi.ntnu.no) [uranus.idi.ntnu.no]
+ ftp.geo.uib.no NcFTPd Server (free educational license) ready.
+ ftp.ii.uib.no.no NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.7 Server (NORUT IT Anonymous FTP server) [thoth.itek.norut.no]
+ FTP Server ready.
+ verdi.nethelp.no ANONYMOUS ONLY FTP (Version 6 mjr) ready.
+ ProFTPD 1.2.8 Server (ProFTPD on Linux 2.4) [marcus]
+ ProFTPD 1.2.2rc3 Server (Norwegian Computing Center FTP Server) [orion]
+ hytr.itea.ntnu.no FTP server (lukemftpd 1.1) ready.
+ pub2.opera.com FTP server ready.
+ pnet.no NcFTPd Server (licensed copy) ready.
+ Welcome to mercury FTP Server!
+ ftp.rtfm.no FTP server ready
+ ProFTPD 1.2.2rc3 Server (Coin3D FTP Server) [loki.sim.no]
+ ProFTPD 1.2.5rc1 Server (Skolelinux) [developer.skolelinux.no]
+ ProFTPD 1.2.7 Server (acscar.uio.no) [ascar.uio.no]
+ FTP Daemon@FTP.UIT.NO
+ ftpsearch.trd.fast.no FTP server (Version 6.00LS) ready.
+ ftpsearch.trd.fast.no FTP server (Version 6.00LS) ready.
+ FTP Server ready.
+ Local time is now 14:36 and the load is 0.16.
+ ftp.steffo.nu FTP server ready.
+ ProFTPD 1.2.5rc1 Server (Asgard) [asgard.actrix.co.nz]
+ University of Auckland FTP Server
+ Welcome to blah FTP service.
+ Welcome to ftp.wave.co.nz FTP service
+ ftp.iprolink.co.nz FTP server ready.
+ ProFTPD 1.2.5rc1 Server (Master) [master.jetstreamgames.co.nz]
+ Welcome to the IDG FTP service.
+ Welcome to ftp.wave.co.nz FTP service
+ WebNZFTPD 1.1 Server (WebNZ Public FTP Server) [webnz.net.nz]
+ Gameplanet FTP2 (ftp2.gameplanet.co.nz)
+ University of Auckland FTP Server
+ NetPresenz v4.1 awaits your command.
+ ProFTPD 1.2.7 Server (ProFTPD Default Installation) [umcc.ais.org]
+ ProFTPD 1.2.5rc1 Server (Debian) [c64.rulez.org]
+ castaway.flirble.org FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.4 Server (clockwork.dementia.org: angband archive) [localhost]
+ Welcome to demonground.org!
+ dogma FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ FTP server ready.
+ 3GPP Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [dollar.fourthought.com]
+ 217.204.9.113 FTP server ready.
+ aelvis Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.0rc3 Server (AFN FTP Server) [freenet2.afn.org]
+ Welcome to ftp.afterstep.org!
+ ProFTPD 1.2.7 Server (ProFTPD Default Installation) [umcc.ais.org]
+ ftp.aklug.org FTP server ready.
+ 192.108.114.81 FTP server ready
+ This site is running a very verbose ftp server.  Feel free to shut it up by
+ ProFTPD 1.2.5rc1 Server (UNIX) [planeetta.amigascne.org]
+ loki.ams.org FTP server ready.
+ amsat.org FTP server (Version 6.00LS) ready.
+ FTP server ChukotkaSviazInform
+ Welcome to Joetek.com FTP service.
+ ProFTPD 1.2.8 Server (Angrenost) [angrenost.org]
+ "This is a mirror of Free Software repositories hosted by CPRM.net. All transfers
+ inetserver Microsoft FTP Service (Version 4.0).
+ gaucho.ar.FreeBSD.org FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5 Server (ProFTPD) [66.117.150.227]
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [sebigbos.hepe.com]
+  ARRL FTP Service
+ atftp1 Microsoft FTP Service (Version 5.0).
+ drftp.digitalriver.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server ready.
+ ftp.asmparty.net NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [hoochie]
+ ProFTPD 1.2.6 Server (ProFTPD Default Installation) [lightning.he.net]
+ PlanetMirror LKAMS1
+ ProFTPD 1.2.4 Server (ProFTPD Default Installation) [ben05.ulb.ac.be]
+ w3.beng.org FTP server (Version 6.00) ready.
+ ComNet FreeBSD NcFTPd Server (licensed copy) ready.
+ kernel.ludost.net, Welcome!
+ ftp.bitchx.org/ftp.cyberpunkz.org Denver, CO.
+ ProFTPD 1.2.7 Server (Serwer ftp   M e d i a) [xm.pl]
+ ProFTPD 1.2.2rc2 Server (ftp.demailly.com) [198.144.193.92]
+ aranha.inf.ufpr.br FTP server ready.
+ Buddha Educatioanl Foundation FTP Service.
+ FTP Server
+ raff.debian.org FTP server (vsftpd)
+ ftp.FreeBSD.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.2rc3 Server (CAIDA anonymous ftp archive) [cider.caida.org]
+ cgicc.org NcFTPd Server (licensed copy) ready.
+ cabby Microsoft FTP Service (Version 4.0).
+ ftp.circlemud.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (Debian GNU/Linux Chile) [debian.ciencias.uchile.cl]
+ linuxaid.com.cn. FTP server ready.
+ ProFTPD 1.2.2rc3 Server (Coin3D FTP Server) [loki.sim.no]
+ ns1.repp.org FTP server ready.
+ synergy FTP server ready.
+ phage FTP server (CSHL FTP Server) ready.
+ ProFTPD 1.2.4 Server (ftp.cubic.org) [roasted.cubic.org]
+ FTP Server (ProFTPD) ready.
+ PlanetMirror LKAMS2
+ cxm.obninsk.org FTP server (Version 6.00LS) ready.
+ unagi.cybernothing.org FTP server (Version 6.00LS) ready.
+ ftp.debian.cz
+ ProFTPD 1.2.7 Server (PANDEMONIUM) [pandemonium]
+ Welcome to ktown.kde.org ftp.
+ beat me, break me! vsftpd, yeah baby!
+ saens.debian.org FTP server (vsftpd)
+ Welcome to leo FTP Server!
+ extended FTP [MODE XDC][XDC/BASE64][PIPELINE] (1)
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ProFTPD 1.2.5 Server (DHIS FTP Server) [ns.net.dhis.org]
+ (vsFTPd 1.2.0)
+ kizmiaz.dis.org FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.dk.debian.org) [m03.opasia.dk]
+ ftp.dk.FreeBSD.org NcFTPd Server (licensed copy) ready.
+ mirror03.inet.tele.dk FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (Debian) [teleute]
+ FtpServer 1.16 ready
+ jiffy.nmedia.net FTP server (Version 6.5/OpenBSD) ready.
+ ftp.dreams.org FTP server (BSDI Version 7.00LS) ready.
+ dungeoncrawl.org NcFTPd Server (licensed copy) ready.
+ dynamite.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.0 Server (hindenburg ftpd) [hindenburg.eboai.org]
+ luisa.ecisd.org FTP server ready.
+ ftp.estpak.ee FTP server (Version 6.00LS) ready.
+ ftp.efn.org FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.6rc2 Server ready.
+ Welcome to the EnGarde Secure Linux FTP server.
+ ProFTPD 1.2.8 Server (Eulerian Technologies FTP Server) [eulerian.com]
+  Welcome to the EPIC Software Labs FTP server.
+ hades.cslab.ericsson.net FTP server (Version 6.00) ready.
+ ProFTPD 1.2.6 Server (Debian) [ulises.adi.uam.es]
+ dakota.dakotabcn.net FTP server ready
+  Welcome to the ftp.etext.org Text File Archives, an
+ Welcome to the ewtoo.org FTP server
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ (vsFTPd 1.1.3)
+ faoext02 Microsoft FTP Service (Version 4.0).
+ server.fatburen.org FTP server (Version 6.00LS) ready.
+ alppitorvi FTP server (Version 6.5/OpenBSD, linux port 0.3.2) ready.
+ This site is running a very verbose ftp server.  Feel free to shut it up by
+ Firstfloor. Not less. Not more.
+ ProFTPD 1.2.8 Server (Debian) [seneca.me.umn.edu]
+ ProFTPD 1.2.6 Server (ftp.flirble.org) [194.70.3.50]
+ ProFTPD 1.2.0 Server ready.
+ Welcome to kalahari.flup.org, Allan Saddi's server. Unauthorized use
+ FoeBuD FTP Server ready (vsftpd 0.0.15)
+ ProFTPD 1.2.2rc1 Server (ProFTPD) [www.taygeta.com]
+ FOX FTP Server
+ ProFTPD 1.2.5rc1 Server (Official French mirror of Debian) [212.27.32.66]
+ ProFTPD 1.2.6 Server (ProFTPD) [ftpmirror.proxad.net]
+ Bienvenue sur le serveur ftp de
+ freebsd.isc.org FTP server ready.
+ freeengineer.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (consort) [consort.superb.net]
+ freegames.org NcFTPd Server (licensed copy) ready.
+ FreeRadius FTP server
+ ftp115.pair.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD Anonymous Server) [clara1.tuxeon.com]
+ UH Math FTP server
+ ProFTPD 1.2.6 Server (ProFTPD Anonymous Server) [realms.game.org]
+ (vsFTPd 1.1.3)
+ Welcome to the GIMP.ORG FTP service.
+ ProFTPD 1.2.7 Server (samba.org) [dp.samba.org]
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ ProFTPD 1.2.2rc2 Server (InetCosmos's ProFTPD Server (Powered by SuSE Linux))
+ Service ready for new user.
+ 80.67.176.155 FTP server ready.
+ ns.templewest.net FTP server (Version 6.00LS) ready.
+ gordol.org NcFTPd Server (licensed copy) ready.
+ Welcome to ftp.simplesystems.org
+ FTP Server ready
+ Welcome to the GIMP.ORG FTP service.
+ Ready to transfer files.
+ The Harbour FTP Server is Ready
+ nazgul.linux.pulawy.pl FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.6 Server (ftp.hikago.flirble.org) [212.134.1.34]
+ ftp.nessus.org NcFTPd Server (licensed copy) ready.
+ FTP server ready.
+ frontend2.fsn.hu FTP server ready.
+ IANA FTP Server
+ iclnet FTP Server hosted by ReachONE
+ siobhra.indigo.ie FTP server (Version 6.00) ready.
+ www.ietf.org NcFTPd Server (licensed copy) ready.
+ ifarchive.telerama.com FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.4 Server (www.clickshift.com / ihpva.org) [mars.clickshift.com]
+ ace.iiug.org FTP server (SunOS 5.8) ready.
+ iglu.actcom.co.il FTP server ready.
+ imagemagick.org NcFTPd Server (licensed copy) ready.
+ ***    Bienvenue sur le FTP d'INFOROOTS.    ****
+ mum.innominate.com FTP server ready.
+ insflug.org NcFTPd Server (licensed copy) ready.
+ internat.freebsd.org FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [progress.netaktiv.com]
+ iworks.interworks.org FTP server (Version 1.1.214.8 Fri Apr 20 07:27:42 GMT 2001)
+ ftp.irc.org NcFTPd Server (licensed copy) ready.
+ ftp.rhnet.is FTP server (tnftpd 2.0 beta3) ready.
+ ftp.isc.org FTP server ready.
+ isdn4linux ftp server
+ (vsFTPd 1.2.0)
+ ftp.unina.it NcFTPd Server (free educational license) ready.
+ Welcome ftp.bononia.it
+ dev FTP server ready.
+ starvation.hungry.com FTP server (Version 6.00) ready.
+ buckk.jeamland.org FTP server ready
+ space FTP server (SunOS 4.1) ready.
+ FTP server ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [plat.debian.or.jp]
+ Welcome to KDDI R&D Labs, INC.
+ ProFTPD 1.2.5 Server (ProFTPD) [211.125.78.77]
+ ProFTPD 1.2.5rc1 Server (Debian) [pogo.kaffe.org]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ProFTPD [ftp.kernel.org]
+ ProFTPD [ftp.kernel.org]
+ ProFTPD 1.2.0rc3 Server (ftpd) [blue.keystealth.org]
+ FTP Server ready
+ ftp.komkon.org FTP server ready.
+ Herzlich willkommen auf dem FTP Service der Kruemel Boks!, einem OS/2
+ ProFTPD Server (ftp.lavender.org)
+ terror.hungry.com FTP server (Version 6.00LS) ready.
+ Welcome to ftp.linuxfromscratch.org!
+ ProFTPD 1.2.8 Server (LinuxPackages's FTP Server) [ftp3.linuxpackages.net]
+ aph.waw.pdi.net FTP server ready
+ ProFTPD 1.2.8 Server (ProFTPD) [schizo.psychosis.com]
+ ProFTPD 1.2.5rc1 Server (Logilab Anonymous FTP Server) [licorne.logilab.fr]
+ ProFTPD 1.2.5rc1 Server (Lspace Anonymous FTP Archive) [library.lspace.org]
+ ocean.delfi.lt FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (Lithuanian Debian Mirror) [debian.balt.net]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ FTP Server
+ ProFTPD 1.2.5rc1 Server (Debian) [brahma.via.ecp.fr]
+ ProFTPD 1.2.7 Server (ftp.evilnet.net) [216.234.116.162]
+ surveyor.mars.org FTP server ready.
+ home.mcn.org FTP server (BSDI Version 7.00LS) ready.
+ ProFTPD 1.2.2rc2 Server (bulk.resource.org) [bulk.resource.org]
+ plymouth FTP server (Version 6.5/OpenBSD) ready.
+ mindworkshop.org FTP server ready
+ homegate.gatwood.net FTP server (Version: 7.2.0) ready.
+ eclectic.kluge.net FTP server ready
+ courtesan.cs.colorado.edu FTP server (Version 6.5/OpenBSD) ready.
+ ftp.modssl.org FTP Server (ProFTPD) ready.
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [zim.musicbrainz.org]
+ Service ready for new user.
+ "This is a mirror of Free Software repositories hosted by CPRM.net. All transfers
+ naiua.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [karin.namazu.org]
+ ProFTPD 1.2.4 Server (nedit.org) [216.242.72.41]
+ ftp.nessus.org NcFTPd Server (licensed copy) ready.
+ ProFTPD Server (umn.dl.sourceforge.net)
+ ProFTPD 1.2.5rc1 Server (netfilter/iptables FTP site) [kashyyyk.netfilter.org]
+ FtpServer 1.15 ready
+ netlib2.cs.utk.edu FTP server ready.
+ Welcome to ftp.netris.org
+ Welcome to the Anonymous FTP Service of net.sw, the
+ yuri.netwinder.org FTP server ready.
+ ProFTPD 1.2.9rc1 Server (Mirror FTP Server (Amsterdam, The Netherlands) /
+ ready, dude (vsFTPd 0.9.1: beat me, break me)
+ Service ready for new user.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [junk.nocrew.org]
+ members.nova.org NcFTPd Server (licensed copy) ready.
+ b1pi2k01 Microsoft FTP Service (Version 5.0).
+ Service ready for new user.
+ OOPS FTP Server ready ..
+ ProFTPD 1.2.8 Server (Onodera Lab./opaopa.org FTP Server) [kajiki]
+ turk.camb.opengroup.org FTP server ready.
+ Pax vobiscum!
+ boole.openldap.org FTP server (Version 6.00LS) ready.
+ ftp.openpkg.org OpenPKG Anonymous FTP Server (ProFTPD) ready.
+ ftp.openssl.org FTP Server (ProFTPD) ready.
+ ftp.plig.org NcFTPd Server (licensed copy) ready.
+ SciTech FTP Server ready.
+ ProFTPD 1.2.8 Server (ftp.oric.org) [oric.org]
+ ftp.ossp.org OSSP Anonymous FTP Server (ProFTPD) ready.
+ ProFTPD 1.2.5rc1 Server (THIS IS A PRIVATE SYSTEM) [212.12.35.244]
+ ProFTPD 1.2.5rc1 Server (Debian) [dsl2.external.hp.com]
+ ProFTPD 1.2.9rc1 Server (PEAK, Inc) [locutus.peak.org]
+ NetPresenz v4.1 awaits your command.
+ phred.org FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.0pre10 Server (CRI74 PingOO FTP Server) [195.202.0.23]
+ urtica.linuxnews.pl FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ FTP Server (TASK ftp server) [ftp.pl.kernel.org]
+  Server (PLD FTP Server) [193.219.28.20]
+ rodent2.porcupine.org FTP server (Version 4.138 Mon Apr 16 20:33:49 EDT 2001) ready.
+ ProFTPD 1.2.8 Server (RossfellFTP) [statler.rossfell.co.uk]
+ ProFTPD 1.2.5 Server (ftp.povray.org) [ftp.povray.org]
+ ftp.prairienet.org NcFTPd Server (licensed copy) ready.
+ prana.obninsk.org FTP server (Version 6.00LS) ready.
+ prisonministry.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.9rc2 Server (proftpd.org Project) [81.223.20.36]
+ ftp.psmfc.org FTP server ready.
+ Servidor de FTP da Telepac [ftp.telepac.pt]
+ FTP server ready.
+ ProFTPD 1.2.4 Server (ftp.python.org) [creosote.python.org]
+ 63.208.72.113 FTP server ready
+ Welcome to ftp.rlug.org
+ ProFTPD 1.2.5 Server (Rain Network) [coyote.rain.org]
+ ProFTPD 1.2.0pre10 Server (CRI74 R&D FTP Server) [195.202.0.16]
+ lh3k3 Microsoft FTP Service (Version 5.0).
+ iguana.reptiles.org FTP server (lukemftpd 1.2 beta 1) ready.
+ Welcome to source.rfc822.org FTP service.
+ home Microsoft FTP Service (Version 5.0).
+ Welcome to ftp.rpm.org!
+ Local time is now 13:52 and the load is 0.00.
+ ProFTPD 1.2.7 Server (samba.org) [dp.samba.org]
+ sandpile.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.1 Server (chello FTP Server) [ftp.kernel.chello.se]
+ Welcome to ftp.sebi.org FTP!
+ ProFTPD 1.2.8 Server (Debian) [olivia.shellhung.org]
+ CAMTP Linux kernel mirror [ftp.si.kernel.org]
+ FTP server ready.
+ babbage Microsoft FTP Service (Version 4.0).
+ dellracka Microsoft FTP Service (Version 5.0).
+ copious23 Microsoft FTP Service (Version 5.0).
+ Welcome to ftp.simplesystems.org
+ ProFTPD 1.2.5rc1 Server (Debian) [ftp.tuke.sk]
+ ftp.sk.FreeBSD.org
+ ProFTPD 1.2.5rc1 Server (kernel.tuke.sk) [kernel.tuke.sk]
+ FTP server ready.
+ Welcome at Sliepen's Linux cluster!
+ dumbcat.snafu.org FTP server (Version 6.5/OpenBSD) ready.
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.5 Server (ProFTPD) [64.77.93.225]
+ SPEC Public FTP Server ready!
+ WWW Microsoft FTP Service (Version 5.0).
+ www Microsoft FTP Service (Version 4.0).
+ "This is a mirror of Free Software repositories hosted by CPRM.net. All transfers
+ ProFTPD 1.2.5rc1 Server (Debian) [jadzia]
+ ftp.stansell.org ready.
+ You have reached ftp.sudval.org
+ ProFTPD 1.2.7 Server (ftp2.sysdev.org) [thekernel.sysdev.org]
+ t1nt Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.9rc1 Server (ProFTPD Default Installation) [ns4.pi.dk]
+ tapr.org FTP server ready.
+ dipsy FTP server (Version 6.00LS) ready.
+ thom.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (ticalc.org) [ticalc.ticalc.org]
+ ProFTPD 1.2.8 Server (Ticklers.Org Useful Mirrors) [rib.ticklers.org]
+ newton.toontown.org FTP server (Version 6.00LS) ready.
+ silos.torrini.home FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.2rc2 Server (bulk.resource.org) [bulk.resource.org]
+ trachtman.org NcFTPd Server (licensed copy) ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+ ProFTPD 1.2.8 Server (tug) [tug]
+ UCO/Lick anonymous FTP service
+ ProFTPD 1.2.0pre9 Server (Utah Education Network FTP Server) [hoser]
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ProFTPD 1.2.2rc2 Server (ProFTPD) [sarasvati.unicode.org]
+ Welcome ftp user!
+ ftp.usgennet.org NcFTPd Server (licensed copy) ready.
+ merkel.debian.org FTP server (vsftpd)
+ ProFTPD 1.2.4 Server (BDHosting FTP Server1) [ehost.bdhosting.com]
+ ProFTPD 1.2.7rc1 Server (Allegiance Internet KDE Mirror) [ftp.us.kde.org]
+ alpaca.mcs.anl.gov NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (Lspace Anonymous FTP Archive) [library.lspace.org]
+ FTP server ready.
+ FTP server ready.
+ schizoid.village.org FTP server (Version 6.00LS) ready.
+ heineken FTP server (SunOS 5.8) ready.
+ coda.w3.org FTP server ready
+ Welcome to Buergernetz Weihenstephan FTP service.
+ TERRA Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ ProFTPD 1.2.0rc3 Server (bilbo.escapesystems.com) [bilbo]
+ ftp.onehost.net NcFTPd Server (licensed copy) ready.
+ Welcome to the ftp.x.org server.
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ ProFTPD 1.2.5rc1 Server (XEmacs FTP Archives) [199.184.165.136]
+ ProFTPD 1.2.8 Server (ftp.xeper.org) [64.246.63.19]
+ ProFTPD 1.2.8 Server (UFies.org FTP Server) [ufies.org]
+ "That secret you've been guarding, isn't."
+ XPilot FTP Server ready.
+ Welcome to Internet Solutions FTP service.
+ ProFTPD 1.2.5rc1 Server (Zebra ftp site) [www.zebra.org]
+ ProFTPD 1.2.5rc1 Server (Debian) [poulet.zoy.org]
+ ***          You have reached our FTP site            ***
+ cp3.smallbits.com FTP server (Version 6.5/OpenBSD) ready.
+ ftp.FreeBSD.org NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.6 Server (SayClub FTP Server) [ftp.sayclub.com]
+ volt.iem.pw.edu.pl FTP server (Version 6.00LS) ready.
+ jarjar FTP server ready
+ FTP server ready.
+ freebsd.isc.org FTP server ready.
+ polux.bsdfr.org FTP server (Version 6.00LS) ready.
+ Welcome to mirror2.dataphone.se
+ karma FTP server (Version 6.00LS) ready.
+ gaia.colocall.net FTP server (lukemftpd 1.2 beta 1) ready.
+ 
+ Welcome to Science Computing FTP Server at PKU.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [galatea.rotfl.eu.org]
+ FTP server ready.
+ kame.vpnc.org FTP server (lukemftpd 1.1) ready.
+ ProFTPD 1.2.1 Server (KDVS ProFTPD Server) [kdvs.org]
+ FTP server ready.
+ ftp.isc.org FTP server ready.
+ ProFTPD [mirrors.kernel.org]
+ ProFTPD 1.2.8 Server (Debian) [redhat.eyetap.org]
+ ProFTPD 1.2.7 Server (samba.org) [dp.samba.org]
+ ready, dude (vsFTPd 1.0.0: beat me, break me)
+ ProFTPD 1.2.5rc1 Server (Web) [kambing.vlsm.org]
+ ProFTPD 1.2.4 Server (Trustix Secure Linux proftpd server) [sensimilia.eu.org]
+ FTP server ready.
+ Welcome to the Scyld FTP service
+ frmug.org FTP server (Version 6.00LS) ready.
+ ProFTPD [ftp.kernel.org]
+ alfa.iele.polsl.gliwice.pl FTP server (Version 6.00LS) ready.
+  Server (ProFTPD) [ep09.kernel.pl]
+  Server (ProFTPD) [ep09.kernel.pl]
+ filez.home.net.pl FTP server (Version 6.00LS) ready.
+ eorder Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5rc1 Server (JTT Computer's FTP Server) [195.205.161.16]
+ AGH ftp server
+ main.amu.edu.pl FTP server ready.
+ Server ready.                
+ eorder Microsoft FTP Service (Version 5.0).
+ alfa.ceti.pl FTP server ready.
+ Server FTP ready.
+ ProFTPD 1.2.5rc1 Server ready.
+  Server (ProFTPD) [cyber.cs.net.pl]
+ FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8rc2 Server ready.
+ FTP server (Version 6.00LS) ready.
+ ftp.fincom.pl
+ alberti.gdynia.ids.pl FTP server ready.
+ FTP service
+ Server ready.                
+ filez.home.net.pl FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (Introl) [www]
+ ProFTPD 1.2.5rc1 Server (ftp.ists.pwr.wroc.pl) [diament.ists.pwr.wroc.pl]
+ Gandalf Public FTP server ready
+ ProFTPD 1.2.5rc1 Server (JTT Computer's FTP Server) [195.205.161.16]
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+  Server (ProFTPD) [ep09.kernel.pl]
+ zly FTP server ready.
+ ProFTPD 1.2.8 Server (FTP Komputer Swiat GRY) [rainworm.axelspringer.com.pl]
+ You are user number 24 of 10000 allowed.
+ ProFTPD 1.2.8 Server (ftp.man.lodz.pl) [kujawiak.man.lodz.pl]
+ ProFTPD 1.2.8 Server (OLMAN FTP Server) [sunfire]
+ ftp MAN server
+ ProFTPD 1.2.6 Server (MegaNET Internet Public FTP Server) [atom.meganet.pl]
+  Server (ProFTPD) [duch.mimuw.edu.pl]
+ pomoc Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server () [217.8.181.134]
+ ProFTPD 1.2.5rc1 Server (Nurkowanie) [217.96.54.12]
+ This is the Polish "Project Gutenberg" mirror located
+ FTP server ready
+  Server (Kernel.pl PLD mirror ftp.pld.kernel.pl) [212.87.11.164]
+  Server (Main PLD FTP Server) [ftp.pld.org.pl]
+ ftp.pm.waw.pl FTP server ready.
+ soft.polbox.pl
+ ProFTPD 1.2.7 Server (Pomorska.Net) [router.pomorska.net.pl]
+ PRz
+ ftp.tuniv.szczecin.pl FTP server ready
+ Service Ready for new User
+ FTP something...
+ ProFTPD 1.2.8 Server (RadioSerwis FTP Server) [radio.org.pl]
+ Samsung Electronics Polska FTP Server
+ Secure FTP Service ready.
+ ProFTPD 1.2.5rc3 Server (ftpd server) [akson.sgh.waw.pl]
+ urtica.linuxnews.pl FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ server2 Microsoft FTP Service (Version 5.0).
+ FTP Server v1.10
+ ProFTPD 1.2.4 Server ready.
+ Witamy na serwerze FTP firmy Thomson Multimedia Polska
+ ProFTPD 1.2.8 Server (Debian) [twojepc]
+ AGH ftp server
+ ProFTPD 1.2.5 Server (ftp.uni.wroc.pl anonymous ftp site) [ftp.uni.wroc.pl]
+     **************************** WARNING ******************************
+ ProFTPD 1.2.2 Server (FTP Server on Return.pl (ftp.return.pl)) [return.pl]
+ (vsFTPd 1.1.3)
+     **************************** WARNING ******************************
+ FTP Server v1.10
+ ProFTPD 1.2.8 Server (OLMAN FTP Server) [sunfire]
+ urtica.linuxnews.pl FTP server (Version 6.5/OpenBSD, linux port 0.3.3) ready.
+ FTP server ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [coral.eq.uc.pt]
+ FTP server ready.
+ ftp FTP server ready.
+ (vsFTPd 1.2.0)
+ ProFTPD 1.2.8 Server (IST FTP Server) [193.136.128.6]
+ ProFTPD 1.2.6 Server (LINUX.PT Software Archive) [ftp.linux.pt]
+ Welcome to NFSi FTP service.
+ Servidor de FTP da Telepac [ftp.telepac.pt]
+ diana.uninova.pt FTP server ready.
+ ftp.up.pt FTP server ready.
+ FTP Server ready.
+ ProFTPD 1.2.5rc1 Server (Interakt FTP server) [ns342.ovh.net]
+ FTP Server for local sites.
+ node10 FTP server ready
+ Welcome to warp.ro FTP service (100Mbits/s WAN); 3 connections/IP; problems,
+ Jgaa's Fan Club FTP service
+ ProFTPD 1.2.8 Server (ProFTPD FTP SERVER ON CELT.NET21.RU) [celt.net21.ru]
+ ProFTPD 1.2.2 Server (DGRAD Chaos ftp server) [localhost]
+ ProFTPD 1.2.6 Server (ClubArena.Spb.Ru FTP server) [ns.clubarena.spb.ru]
+ cygnet Microsoft FTP Service (Version 3.0).
+ dfe3300.karelia.ru FTP server (OSF/1 Version 5.60) ready.
+ domino Microsoft FTP Service (Version 3.0).
+ ProFTPD 1.2.0pre10 Server (Zenon FidoNet Project) [fido.aha.ru]
+ news.svzserv.kemerovo.su FTP server (Version 6.00LS) ready.
+ FtpServer 1.10 ready
+ ntst Microsoft FTP Service (Version 5.0).
+ FTP server ready.
+ ProFTPD 1.2.0pre10 Server (C.I.S. ISP tech support) [trango.cis.ru]
+ ftp.aaa.ru NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.aanet.ru) [ivc.aanet.ru]
+ diwan Microsoft FTP Service (Version 5.0).
+ alf Microsoft FTP Service (Version 5.0).
+ acmwww Microsoft FTP Service (Version 3.0).
+ FTP Server of ADP NetWorks
+ FTP Server of ADP NetWorks
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ ns.ael.ru FTP server ready.
+ ProFTPD 1.2.8 Server (*) [spider.hq.aenet.ru]
+ ProFTPD 1.2.4 Server (BasicNet FTP server) [afpserver]
+ jagr.zenon.net FTP server (Version 6.00LS) ready.
+ flash.ahome.ru FTP server (Version 6.00LS) ready.
+ Welcome, archive user!  This is an experimental FTP server.  If have any
+ ProFTPD 1.2.8 Server (ftp.akmos.ru) [213.247.128.20]
+ ProFTPD 1.2.4 Server (Alef Consulting & Soft FTP Server) [ftp.alef.ru]
+ www01 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (Primary ALFA FTP Server ftp://ftp.alfashop.ru) [alfashop.ru]
+ ftp.alo.ru FTP server ready.
+ alpha.alt.ru FTP server ready.
+ Welcome to ALT Linux (http://www.altlinux.ru/) FTP service.
+ ProFTPD 1.2.8 Server (Amfodent FTP Server) [amfodent.ru]
+ ftp.aminetwork.net X2 WS_FTP Server 4.0.0 (3699960856)
+ ProFTPD 1.1.4pre1 Server (AMT Group archive server) [amtsun]
+ websrv.amtkom.ru FTP server ready.
+ ProFTPD 1.2.8 Server (ProFTPD) [bella.amur.mts.ru]
+ ProFTPD 1.2.5 Server (ProFTPD Server) [62.5.191.18]
+ FTP server ChukotkaSviazInform
+ ProFTPD 1.2.8 Server (Anime.ru ftp server) [194.220.110.242]
+ www Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5rc1 Server (Anonymous Antex Ltd/Altech Computers FTP server) [antex.ru]
+ ProFTPD 1.2.8 Server (DialogueScience, Inc. FTP Server) [rt.dials.ru]
+ ns.any.ru FTP server (Version 6.00LS) ready.
+ zeus Microsoft FTP Service (Version 5.0).
+ Montaque.appm.ru FTP server ready.
+ web Microsoft FTP Service (Version 5.0).
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.0 Server (AS Baikal TV ProFTPD server) [as.baikal.tv]
+ raid Microsoft FTP Service (Version 5.0).
+ *************************************************
+ atlant.asiamusic.ru FTP server (Version 6.00LS) ready.
+  Hi! You log on at kc2.kc.ru!
+ Welcome to ASPLinux FTP service.
+ ftp.aspnet.ru FTP server ready.
+ FTP Server (RusSDO FTP Server) [kermit.asvt.ru]
+       Arkhangelsk Regional Internet Access and Services Provider
+ ProFTPD 1.2.2 Server (ProFTPD Default Installation) [www]
+ x400 Microsoft FTP Service (Version 5.0).
+ ftp.bag.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ alloy Microsoft FTP Service (Version 4.0).
+ BWN003.barwil.ru FTP server (Version 6.00LS) ready.
+ Welcome to the BG Telecom FTP server
+ www.citforum.ru FTP server (Version 6.00) ready.
+ ns.biochemmack.ru FTP server (Version 6.00LS) ready.
+ ProFTPD Server (ProFTPD) [ftp.bionet.nsc.ru]
+ diwan Microsoft FTP Service (Version 5.0).
+ www.biysk.ru FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ ProFTPD 1.2.0pre9 Server (Blind ftp server...) [212.5.108.190]
+ FTP server ready.
+ ProFTPD 1.2.2rc1 Server (Books.Ru ftp server) [www.books.ru]
+ ProFTPD 1.2.2 Server ready.
+ bsd.braz.ru FTP server ready
+ FTP server ready.
+ www.bti.secna.ru FTP server ready.
+ ntmail Microsoft FTP Service (Version 4.0).
+ 195.170.62.40 FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7 Server (NTHOST.RU Main FTP Server) [web.nthost.ru]
+ l35route Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (Main_ftp) [gts.tol.ru]
+ ProFTPD 1.2.4 Server (ProFTPD on lpc1.stu.neva.ru) [lpc1.stu.neva.ru]
+ intergate Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (ProFTPD Default Installation) [ce.cctpu.edu.ru]
+ FTP server ready.
+ ProFTPD 1.2.0 Server (Chimfak RSU FTP server) [ns.chimfak.rsu.ru]
+ ProFTPD 1.2.2 Server (FTP Server @ ChTTS.ru) [incomnet.chtts.ru]
+ ProFTPD 1.2.8 Server (Internet Of Siberia FTP server) [sword.cis.ru]
+ www.citforum.ru FTP server (Version 6.00) ready.
+ www.citforum.ru FTP server (Version 6.00) ready.
+ ProFTPD 1.2.4 Server (Cityline) [mamai.cityline.ru]
+ helloween.cknb.ru FTP server ready.
+ gw.clm.ru FTP server (Version 6.00LS) ready.
+ ns.cnirti.ru FTP server (Version 6.00LS) ready.
+ proxy.cocos.ru FTP server (Version 6.00LS) ready.
+ www.com2com.ru FTP server (Version 6.00LS) ready.
+ server Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.0pre9 Server ready.
+ ns.kuban.su FTP server (Version 6.00) ready.
+ The local time is: Fri Aug 29 15:06:41 2003
+ chost.compassplus.ru FTP server ready.
+ . Welcome to CompTek's FTP site
+ cons.sbcorp.ru FTP server (Version 6.00LS) ready.
+ ********************************************************************
+ ns.mebius.spb.ru FTP server (Version 6.00LS) ready.
+ bravo.cplire.ru FTP server (Version 6.00LS) ready.
+ Please enter your user name.
+ kucha.rinet.ru FTP server ready.
+ ns.crpi.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [cnti.csti.ru]
+ zeus.nordnet.ru FTP server (Version 6.00LS) ready.
+ relay FTP server (Version 6.00LS) ready.
+ "Welcome to ftp.dlink.ru!"
+ Welcome to Tomsk ftp site of Darim Vision Company
+ ProFTPD 1.2.8 Server (ftp.dars.com.ru) [ftp.dars.com.ru]
+ dcisa Microsoft FTP Service (Version 5.0).
+ news FTP server ready.
+ Epsylon Technologies Primary FTP Server
+ ProFTPD 1.2.6 Server (ProFTPD) [ns.dexp.ru]
+ ProFTPD 1.2.8 Server (DialogueScience, Inc. FTP Server) [rt.dials.ru]
+ ProFTPD 1.2.4 Server (DialogueScience, Inc. FTP Server) [server.dials.ru]
+ ProFTPD 1.2.8 Server (DialogueScience, Inc. FTP Server) [rt.dials.ru]
+ bopota Microsoft FTP Service (Version 5.0).
+ mail.dicomp.ru FTP server (Version 6.00LS) ready.
+ ddappsrv Microsoft FTP Service (Version 5.0).
+ mail.des.ru FTP server (Version 6.00LS) ready.
+ 80.250.162.92 FTP server (Version 6.00LS) ready.
+ mit2 Microsoft FTP Service (Version 5.0).
+ ftp.dol.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ proxy.donmetal.ru FTP server (Version 6.00LS) ready.
+ DPIDB FTP service
+ nest.drbit.ru NcFTPd Server (free license) ready.
+ Welcome and take care!
+ ProFTPD 1.2.7 Server (ftp.dvo.ru) [ftp.dvo.ru]
+ ftp.eagpo.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ cobra.east.ru FTP server (Version 6.00LS) ready.
+ internet Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.2rc3 Server (ProFTPD Default Installation) [dlc.edu.yar.ru]
+ hosting.eesnet.ru FTP server ready.
+ ProFTPD 1.2.8rc2 Server (FTP server) [sunrise]
+ ready, dude (vsFTPd 1.0.2: beat me, break me)
+ ns Microsoft FTP Service (Version 4.0).
+ localhost FTP server ready.
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [lae2.dhtp.kiae.ru]
+  ******************************
+ ProFTPD 1.2.5rc1 Server (EMS FTP Server) [ems.ems.ru]
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ ftp.enet.ru FTP Server ready
+ FTP Server ready.
+ ENIKO TSO FTP service
+ epc.ru FTP server ready
+ ProFTPD 1.2.8 Server (TransTeleCom) [eraser.transtk.ru]
+ router.etel.ru FTP server (Version 6.00) ready.
+ ProFTPD 1.2.6 Server (Windows 3.10) [etes.da.ru]
+ Welcome to ets.ru!
+ inter Microsoft FTP Service (Version 5.0).
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.2 Server (F1 Communications FTP server) [px]
+ beorn.sftcomp.ru FTP server (Version 6.00LS) ready.
+ ftp.faeton1.ru FTP server ready.
+ ProFTPD 1.2.4 Server (Xland FTP server) [camel.fantex.ru]
+ Unknow Model 1.2
+ finmarket Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.2rc2 Server (powered by SuSE Linux) [elephant.fintech.ru]
+ relay.fis.ru FTP server ready.
+ fivt.kgtu.runnet.ru FTP server (Version 6.00LS) ready.
+ Welcome to DataX/FLORIN FTP.
+ FORS FTP Server
+ FTP server ready.
+ galalop Microsoft FTP Service (Version 5.0).
+ gw.fsakhalin.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.2rc3 Server (ftp.ftu.ru) [ns.ftu.ru]
+ FVRS FTP Server Ready
+ ftp.galaktika.ru
+ flagman.galaktika.spb.ru FTP server (Version 6.00LS) ready.
+ ftp.gals.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+         Çäðàâñòâóé, õîðîøèõ èãð ëþáèòåëü!
+ mail.des.ru FTP server (Version 6.00LS) ready.
+         Çäðàâñòâóé, õîðîøèõ èãð ëþáèòåëü!
+ ftp.gamesnet.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ mail FTP server (BeroFTPD 1.3.4(1) Sat May 1 16:04:03 CEST 1999) ready.
+ ready, dude (vsFTPd 1.0.2: beat me, break me)
+ FTP server ready.
+ hawk FTP server ready.
+ srcso.globis.ru FTP server (Version 6.00) ready.
+ Hi there! This is anonftpd.
+ gorgaz.ryazan.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.4 Server (GosNIIAS FTP Server) [bear.gosniias.msk.ru]
+ CGP Microsoft FTP Service (Version 5.0).
+ diamond.gpad.ac.ru FTP server (Version 6.00LS) ready.
+ nova.gpntb.ru FTP server ready.
+ Main Granch Ltd. FTP server
+ main Microsoft FTP Service (Version 5.0).
+ hamsk.ru FTP server (Version 6.00LS) ready.
+ helios.ru FTP server ready.
+ torch.higis.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.4 Server (Pub and MTC ftp Server) [hms.wsnet.ru]
+ HomePage FTP Server ready.
+ FTP server ready.
+ THEODEN Microsoft FTP Service (Version 5.0).
+                      Tomsk State University
+ icbevr.com FTP server (Version 6.00LS) ready.
+ The local time is: Fri Aug 29 15:06:40 2003
+ GX0.oit.cmc.msu.ru FTP server (Version 6.00) ready.
+ ftp.icp.ac.ru FTP server ready.
+ X2 WS_FTP Server 1.0.1 ftp.idcom.ru (3669401938)
+ ProFTPD 1.2.8 Server (IEM FTP server) [dragon.iem.ac.ru]
+ INTERFACE SSH FTP SERVER
+ www.iile.ru FTP server (Version 6.00LS) ready.
+ FTP Server ready.
+ ProFTPD 1.2.2 Server (FTP Server ILMENY) [netserv1.ilmeny.ac.ru]
+ ProFTPD 1.2.4 Server ( Master FTP server ) [ftp.imash.ru]
+ live Microsoft FTP Service (Version 5.0).
+ main.incoma.ru FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.2rc1 Server (FTP Server) [ns]
+ webserver.inec.ru FTP server (Version 6.00LS) ready.
+ hq.inet.ru FTP server (Version 6.00) ready.
+ Infin
+ ns.saminfo.ru FTP server (Version 6.00) ready.
+  *******************************************************************************
+ Enter login "anonymous" and your email as password for anonymous access
+ ProFTPD 1.2.8 Server (InfPol FTP Server) [ns.infpol.ru]
+ RopNet FTP server ready.
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ Jgaa's Fan Club FTP service
+ IOSO ftp server.
+ ichem.ipoc.rsu.ru FTP server (Version 6.00LS) ready.
+ news.ipt.ru FTP server (Version 6.00LS) ready.
+ ready, dude (vsFTPd 1.1.0: beat me, break me)
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ localhost FTP server ready
+ srv Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.4 Server (ISU FTP Server) [giant.isu.ru]
+ ITK ftpd server
+ ProFTPD 1.2.5rc1 Server (IU7 FTP Server) [www.iu7.ru]
+ Izhcom FTPD server
+ mtelecom.tomsk.ru FTP server (Version 6.00LS) ready.
+ ftp.jar.ru FTP server ready.
+ ftp Microsoft FTP Service (Version 5.0).
+ ftp.kazan.ru FTP server ready.
+ newweb.ktk.ru FTP server ready.
+  Hi! You log on at kc2.kc.ru!
+ ww Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.0rc3 Server ready.
+ kiarchive.relcom.ru FTP server (Version 6.00LS) ready.
+ FTP Server (kirsoft.com.ru) [195.2.65.29]
+ Welcome to the ftp.klondike.space.ru server.
+ ftp.KM.ru NcFTPd Server (licensed copy) ready.
+ FTP server ready
+ giant.kmtn.ru FTP server (Version 6.00LS) ready.
+ ns1.komet.ru FTP server (Version 6.00LS) ready.
+ hosting.komisat.ru FTP server (Version 6.00LS) ready.
+ hosting Microsoft FTP Service (Version 5.0).
+ netclub.ru NcFTPd Server (licensed copy) ready.
+ orion FTP server (Version 6.00LS) ready.
+ gate FTP server ready.
+ box.krasnodar.ru FTP server ready.
+ ProFTPD 1.2.9rc1 Server (ftp.krasu.ru FTP server) [ftp.krasu.ru]
+ FTP Service
+ Dragon.Krokus.Ru FTP server (Version 6.5/OpenBSD) ready.
+ ftp.krw.ru FTP server ready.
+ ProFTPD 1.2.2rc1 Server ready.
+ ProFTPD 1.2.0pre8 Server (ProFTPD on Lanck) [ns.lanck.ru]
+ go.lanit.ru FTP server ready.
+ crait.lcard.ru FTP server (Version 6.00) ready.
+ ftp.lebedev.ru FTP server ready.
+ FTP Server
+ ProFTPD 1.2.6 Server (FTP.LEXA.RU) [www.lexa.ru]
+ FTP Service
+ genesis.lib.tpu.ru FTP server (Version 6.00LS) ready.
+ The local time is: Fri Aug 29 15:06:40 2003
+ mx.lim.ru FTP server ready.
+ server Microsoft FTP Service (Version 5.0).
+ (vsFTPd 1.1.1)
+ Lipetsk ftp server ready
+ ProFTPD 1.2.6 Server (ftp.listsoft.ru) [listsoft.peterlink.ru]
+ ftp.logicom.ru FTP server ready.
+ websrv Microsoft FTP Service (Version 5.0).
+ LTC FTP
+ LTC FTP
+ ProFTPD 1.2.8 Server (Luga FTP Server) [ftp.luga.ru]
+ lvs00 Microsoft FTP Service (Version 4.0).
+ Welcome to mackerel.ru!
+ ProFTPD 1.2.4 Server (ProFTPD Server) [213.167.35.146]
+ Moscow State Aviation Institute FTP Server
+ ftp.majordomo.ru NcFTPd Server (free license) ready.
+ nsd FTP server (Version 6.5/OpenBSD) ready.
+ ns.math.rsu.ru FTP server (Version 6.00LS) ready.
+ ftp.alo.ru FTP server ready.
+ FTP.MCAFEE.RU Mikrosoft FTP Service (Version 5.0).
+ ProFTPD 1.2.9rc1 Server (ProFTPD MCCME server) [newweb.mccme.ru]
+ ns.mcd.ru FTP server (Version 6.00) ready.
+ mail2.mecom.ru FTP server ready.
+ ProFTPD 1.2.8 Server (ProFTPD on MEDCITY.RU) [medcity.ru]
+ FTP server ready.
+          You have reached ftp.medlux.msk.su [194.87.237.18].
+ mail.melt.ru FTP server (Version 6.00LS) ready.
+ Metacom FTP server ready.
+ ProFTPD 1.2.8 Server (Metrocom Clients FTP server) [195.5.128.135]
+ metropol Microsoft FTP Service (Version 4.0).
+ rescue Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (*) [spider.hq.aenet.ru]
+ mgpu2 Microsoft FTP Service (Version 5.0).
+ ***************************************************************************
+ ns.mhfp.ru FTP server (Version 6.00) ready.
+ warlock.miem.edu.ru FTP server (Version 6.00LS) ready.
+  WELCOME TO MIREA!
+ www.citforum.ru FTP server (Version 6.00) ready.
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ babylon Microsoft FTP Service (Version 5.0).
+ ns.modem.ru FTP server (Version 6.00LS) ready.
+ CONNECT Microsoft FTP Service (Version 5.0).
+ ftp.mplik.ru FTP server ready.
+ MPM FTP Server
+ gate.mprestige.ru FTP server (BeroFTPD 1.3.4(1) Sat May 1 16:04:03 CEST 1999) ready.
+ dove.mstu.edu.ru FTP server (Version 6.00) ready.
+ is FTP server ready.
+ Microsoft FTP Service
+ MTS FTP Server [ftp.mtsnet.ru]
+ ProFTPD 1.2.8 Server (myweb.ru ftp server) [new.myweb.ru]
+ Welcome to ftp.tekopro.ru
+ ProFTPD 1.2.2rc1 Server (ProFTPD) [www.ncstu.ru]
+ taiga.nedra.ru FTP server (Version 6.00LS) ready.
+ ns Microsoft FTP Service (Version 5.0).
+ netclub.ru NcFTPd Server (licensed copy) ready.
+ wolf Microsoft FTP Service (Version 5.0).
+     *****************************************************
+ nlnt Microsoft FTP Service (Version 5.0).
+ neurok.neurok.ru FTP server (Version 6.00LS) ready.
+ neva.vlink.ru FTP server (Version 6.00LS) ready.
+ newtech Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.5rc1 Server (Debian) [localhost]
+ linux.nist.fss.ru FTP server (BeroFTPD 1.3.4(1) Sat May 1 16:04:03 CEST 1999) ready.
+ webserver Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (NordNet FTP Server) [hermes.nordnet.ru]
+ NetSL FTP server [ftp.netsl.ru]
+ CPMSFTFTPA05 Microsoft FTP Service (Version 5.0).
+ werewolf.novomoskovsk.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.4 Server (Trustix Secure Linux proftpd server) [alpha.npi.tpu.ru]
+ ProFTPD 1.2.2 Server (TCC of Novorossiysk) [nr]
+ netline Microsoft FTP Service (Version 4.0).
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ webtelecom Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.7 Server (NVC hosting FTP server) [ftp.nvc.ru]
+ NWG FTP Server
+ ns.nyagan.ru FTP server ready.
+ 213.182.189.35 FTP server (Version 6.00LS) ready.
+ officina.ru FTP server (Version 6.00) ready.
+ ProFTPD 1.2.0 Server (OKI FTP Server) [194.87.63.6]
+ FTP for anonymous users
+ FTP Server (omega.ru) [195.2.65.86]
+ FTP Server ready
+ ProFTPD 1.2.0pre6 Server (ProFTPD based OKNO's FTP site) [info]
+ ftp.onego.ru FTP server ready.
+ cvs.openbsd.ru FTP server (Version 6.5/OpenBSD) ready.
+ Welcome to OpenNet FTP server.
+ OptimWeb Microsoft FTP Service (Version 5.0).
+ FTP Server of ORG.KemSU
+ Omsk Telegraph FTP server ready
+ Overta Company FTP Server
+ (vsFTPd 1.2.0)
+ PG FTP server
+ ftp.paraplan.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ ProFTPD 1.2.4 Server (ftp.skpress.ru) [mail.skpress.ru]
+ PCweek FTP service
+ Welcome!
+ ProFTPD 1.2.7 Server (IP&L FTP Server) [server.philosophy.nsc.ru]
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.6 Server (ftp.phyton.ru) [ftp.phyton.ru]
+ konrad.pi2.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7rc2 Server (PI8+ ftp server) [ns.pi8plus.ru]
+ FTP server ready.
+ FTP server ready.
+ ns FTP server ready
+ plst.ru FTP server (Version 6.00) ready.
+ plst.ru FTP server (Version 6.00) ready.
+ mailsrv Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.6 Server ready.
+ ProFTPD 1.2.2rc2 Server (FTP) [194.84.231.135]
+ The local time is: Fri Aug 29 15:06:41 2003
+ Welcome to poputchik.ru!
+ ProFTPD 1.2.6 Server (ProFTPD) [isp.pragma.ru]
+ Welcome to ProgramBank ftp server.
+ ftp.primorye.ru FTP server ready
+ ProjectMT public FTP server
+ propro Microsoft FTP Service (Version 5.0).
+ lust.icc.ru FTP server ready.
+ lust.icc.ru FTP server ready.
+ lust.icc.ru FTP server ready.
+ FTP4ALL FTP server ready. Local time is Fri Aug 29, 2003 15:48.
+ ProFTPD 1.2.5rc1 Server (Debian) [server.psn.ru]
+ ProFTPD 1.2.0pre10 Server (Debian) [socrat.psu.ru]
+ FTP server ready.
+ FTP.QRZ.RU server ready.
+ ProFTPD 1.2.1 Server (FTP Server) [craft]
+ (vsFTPd 1.2.0)
+ ProFTPD 1.2.0pre10 Server (Debian) [news]
+ ns.rakurs.spb.ru FTP server ready.
+ FTP Service
+ ProFTPD 1.2.5 Server (Ratay FTP Server) [ngate.ratay.ru]
+ RatioPro
+ RatioPro FTP
+ lennox.rbc.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.0pre10 Server (RCA FTP Server) [rca.ru]
+ ruscitybank.com FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.0 Server ready.
+         It's ftp site of Redcom company.
+ ftp.redoute.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ ftp.reic.ru FTP server (Version 6.00LS) ready.
+                This is the public FTP server of Reksoft Ltd.
+ kiarchive.relcom.ru FTP server (Version 6.00LS) ready.
+ serv2 Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.6 Server (ftp rissa) [ftp.rissa.ru]
+ ProFTPD 1.2.8 Server (rndavia) [cat.rndavia.ru]
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ public.robotek.ru NcFTPd Server (licensed copy) ready.
+ ns FTP server (Version 6.00LS) ready.
+ scorpion.donpac.ru FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ intergate Microsoft FTP Service (Version 5.0).
+ pr2 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [aix.rsl.ru]
+ legolas.rsu.ru FTP server ready.
+ srv2.rt.mipt.ru FTP server (Version 6.00LS) ready.
+ ftp.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ ProFTPD 1.2.5rc1 Server (ProFTPD) [rsoft.rubtsovsk.ru]
+ 212.44.133.7 FTP server ready
+ ProFTPD 1.2.6rc1 Server (Rusmed FTP Server) [ftp.rusmed.ru]
+ ProFTPD 1.2.0pre10 Server (INFIN Company FTP server.) [ftp.infin.ru]
+ FTP Server ready.
+ ftp.sakhalin.ru
+ ns.saminfo.ru FTP server (Version 6.00) ready.
+ www.sampo.ru FTP server ready.
+ ww Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (ProFTPD Default Installation) [hosting.sc.ru]
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+  FTP bio.tstu.tver.ru
+ ProFTPD 1.2.4 Server (Trustix Secure Linux proftpd server) [solo.sclassic.ru]
+ ProFTPD 1.2.8 Server (ftp.scn.ru anonymous ftp) [pub.scn.ru]
+ seagull.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.0pre10 Server (ftp.sertolovo.ru) [ftp.sertolovo.ru]
+ main.sfc.ru FTP server (Version 6.00) ready.
+ ns.sgtp.samara.ru NcFTPd Server (licensed copy) ready.
+ umka Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (Simtel FTP server) [www.mvc.ru]
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [treas.simtreas.ru]
+ ftp.skbkontur.ru FTP server ready.
+ ys.smog.ru FTP server (Version 6.00) ready.
+ ns.smr.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.4 Server (Samara Telecom FTP Server) [www.smrtlc.ru]
+ snark.rinet.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8rc1 Server (SNC FTP Server) [212.6.0.125]
+ Internet_ssricc Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (FTP) [s02.snpa.ru]
+ TODAY  Fri Aug 29 15:07:56 2003
+ internet Microsoft FTP Service (Version 5.0).
+ ns.sovintel.ru FTP server (Version 6.00LS) ready.
+ speechpro.ru NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (ftp.spekulant.ru) [213.247.128.6]
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [mb.ssau.ru]
+ ns.sssu.ru FTP server (Version 6.00LS) ready.
+ FTP server (Version 1.2.4) ready.
+ ProFTPD 1.2.2rc1 Server (ProFTPD) [www.ncstu.ru]
+ sanford Microsoft FTP Service (Version 5.0).
+ Welcome to FTP server
+ ProFTPD 1.2.2rc1 Server (ProFTPD) [www.ncstu.ru]
+ sweb Microsoft FTP Service (Version 5.0)
+ relay.svrw.ru FTP server (SunOS 5.7) ready.
+ ProFTPD 1.2.2rc2 Server (AK Tatris FTP Server) [corvette.office.tatris.ru]
+ www Microsoft FTP Service (Version 4.0).
+ Microsoft FTP Service
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ Welcome to ftp.tekopro.ru
+ hornet.telecom.tmn.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (Telefun Co FTP server) [nova.telefun.ru]
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [proxy.teleserv.ru]
+ ProFTPD 1.2.4 Server (FTP Server) [angel.tellur.ru]
+ ftp.tern.ru FTP server ready
+ TS Super ftp server
+ ProFTPD 1.2.1 Server (FTP Server) [craft]
+ Welcome to unknown FTP service.
+ ns FTP server (lukemftpd 1.1) ready.
+ ProFTPD 1.2.8 Server (Debian) [thunder.tob.ru]
+ ProFTPD 1.2.6 Server (SibPTUS Anonymous FTP Server) [212.73.124.110]
+ jumbo.tomsknet.ru FTP server ready.
+ info.krasn.ru FTP server (Version 6.00LS) ready.
+ Kitten FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.4 Server (Tomsk Polytechnic University Ftp Server) [195.208.172.1]
+ ftp.majordomo.ru NcFTPd Server (free license) ready.
+ Welcome to TeleCom Service ftp archive
+                      Tomsk State University
+ janus.ttknet.ru FTP server (Version 6.00LS) ready.
+ ftp.ttn.ru FTP server ready
+ ProFTPD 1.2.4 Server ready.
+  Welcome to ftp.tyumbit.ru, a service of TyumBIT, Inc.
+  Welcome to Tyumen City ftp host.
+  Wellcome to ftp.opennet.ru FTP archive.
+ ns.tz.ru FTP server (Version 6.00LS) ready.
+ Welcome to ftp.ucvt.ru on MS IIS 5.9/OpenBSD site.
+ cerber.ufps.donpac.ru FTP server (Version 6.00) ready.
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [info]
+ ProFTPD 1.2.4 Server (FTP for UMIS) [ftp.umis.ru]
+ int.umn.ru FTP server (Version 6.00LS) ready.
+ localhost FTP server ready.
+ unisoft Microsoft FTP Service (Version 5.0).
+ FTP Server
+              FTP Site of the Ural
+ ProFTPD 1.2.0pre3 Server (ProFTPD) [mail.uraltelecom.ru]
+ ProFTPD 1.2.0 Server (Southern Ural Regional Center of FREEnet) [ftp.urc.ac.ru]
+ arcturus Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.2rc3 Server (FTP.USN.RU) [usn.ru]
+ ProFTPD 1.2.0pre6 Server (Web+ FTP service) [ftp.usr.spb.ru]
+ ProFTPD 1.2.0pre6 Server (Web+ FTP service) [ftp.usr.spb.ru]
+   
+ ProFTPD 1.2.2 Server (Internet VALLEY (tm) FTP server) [home.valley.ru]
+ ProFTPD 1.2.8 Server (ftp.vhost.ru (ProFTPD)) [base.vhosts.ru]
+ www.viacom.ru FTP server (Version 6.00LS) ready.
+ hosting Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (ProFTPD Videotest) [relay.videotest.ru]
+ Welcome to virginia.ru!
+ ftp.visp.ru FTP server ready.
+ ns.vistdon.ru FTP server ready
+ ultra FTP server ready
+ ftp.primorye.ru FTP server ready
+ pit Microsoft FTP Service (Version 5.0).
+ river.vrcc.ru NcFTPd Server (free educational license) ready.
+ Welcome to the Voronezh State University archive.
+ mx Microsoft FTP Service (Version 4.0).
+ Welcome to wadim.ru!
+ FTP server ready.
+ bigboy.wave.ru FTP server (Version 6.00) ready.
+ Welcome to wharton.ru!
+ Wiznet Company FTP Server
+ Welcome to earth FTP Server!
+ moon.yantene.ru FTP server (Version 6.00) ready.
+                 Yaroslavl Computer Networks FTP server
+ This computer system is for authorized users only. Individuals using this
+ ftp.zanas.ru FTP server lukemftpd 1.2 beta 1 (DEMOS revision) ready.
+ "ftp.zelax.ru ready"
+ ProFTPD 1.2.7 Server (QRZ.RU Enterprise FTP server) [qrz.ru]
+ ProFTPD 1.2.4 Server (ftp.reforma.nnov.ru) [gw.reforma.nnov.ru]
+ helios Microsoft FTP Service (Version 4.0).
+ iclub.nsu.ru FTP server (Version 6.00LS) ready.
+ infoteka.nsk.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (ProFTPD Default Installation) [ip.portal.ru]
+ FTP Server ready.
+ lab18 Microsoft FTP Service (Version 4.0).
+ "Welcome to LeMM FTP service."
+ mail.ca.fss.ru FTP server (BeroFTPD 1.3.4(1) Sat May 1 16:04:03 CEST 1999) ready.
+ ProFTPD 1.2.0pre6 Server (ProFTPD Server of Mathematic Department) [md.uniyar.ac.ru]
+ mmfd Microsoft FTP Service (Version 5.0).
+ molsp.phys.spbu.ru FTP server (Version 6.00) ready.
+ onit Microsoft FTP Service (Version 4.0).
+ FTP Server ready
+ ProFTPD 1.2.2 Server (TCC of Novorossiysk) [nr]
+ srv.inorg.chem.msu.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7 Server (IP&L FTP Server) [server.philosophy.nsc.ru]
+ orion Microsoft FTP Service (Version 3.0).
+ phys Microsoft FTP Service (Version 4.0).
+           ____    ___   _
+ FtpServer 1.15 ready
+ ProFTPD 1.2.8 Server (SAGA Project FTP Server (main)) [saga.ruscom.ru]
+ sky.kuban.ru FTP server (Version 6.00LS) ready.
+ snark.rinet.ru FTP server (Version 6.00LS) ready.
+ spider FTP server (UNIX(r) System V Release 4.0) ready.
+ sun.tsu.ru FTP server ready.
+ ProFTPD 1.2.1 Server (ProFTPD) [www.tsrv.ru]
+ ProFTPD 1.2.2 Server (MPEI TWT FTP server powered by SuSE Linux) [twts]
+ ProFTPD 1.2.4 Server (ACS department ProFTPD server) [localhost]
+ Jgaa's Fan Club FTP service
+ ProFTPD 1.2.4 Server (Cityline) [mamai.cityline.ru]
+  *******************************************************************************
+ aspire.lanck.ru FTP server (Version 6.00) ready.
+ kamenolomni.donpac.ru FTP server (Version 6.00LS) ready.
+ www.svzserv.kemerovo.su FTP server (Version 6.00LS) ready.
+ ftp.isu.net.sa FTP server ready.
+ (vsFTPd 1.2.0)
+ sm0sbi.altin.se FTP server (Version 6.00LS) ready.
+ ritz.appli.se FTP server (Version 6.5/OpenBSD) ready.
+ admin Microsoft FTP Service (Version 4.0).
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.5rc1 Server (ftp.axis.se) [malle.se.axis.com]
+ ProFTPD 1.2.2rc3 Server (Bahnhof Internet FTP Service) [metro.bahnhof.se]
+ bhmnt1c Microsoft FTP Service (Version 5.0).
+         Welcome to CADPOINT's FTP Server
+ ProFTPD 1.2.0pre7 Server (Chalmers Anonymous FTP server) [chalmers.se]
+ ProFTPD 1.2.1 Server (FTP chello broadband) [ftp]
+ maggie.codefactory.se FTP server (lukemftpd 1.1) ready.
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.0 Server ready.
+ ProFTPD 1.2.2rc3 Server (Bahnhof Internet FTP Service) [metro.bahnhof.se]
+ ProFTPD 1.2.5rc1 Server (Dataplus) [nic.dataplus.se]
+ ProFTPD 1.2.0 Server ready.
+ ProFTPD 1.2.8 Server ready.
+ ProFTPD 1.2.0 Server (ftp.edu.sollentuna.se) [62.65.68.12]
+ Welcome to ftp.enea.se / ftp.redina.se
+ FTP Server ready
+ FTP Server ready
+ jackd.fos.su.se FTP server (Version 6.5/OpenBSD) ready.
+ ProFTPD 1.2.8 Server (Ftp.fragzone.se) [frag2.fragzone.se]
+ Welcome to fyrplus ftp proxy gateway.
+ webbserver Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.5rc1 Server (Debian) [reptilian.maxnet.nu]
+ IAR Microsoft FTP Service (Version 5.0).
+ Peter's Anonymous FTP server (pftpd 0.41 at May  1 2002 23:08:53) ready.
+ Peter's Anonymous FTP server (pftpd 0.42 at May 21 2002 12:02:10) ready.
+ ftp.su.se NcFTPd Server (free educational license) ready.
+         Karolinska Institutet
+ www.liu.se NcFTPd Server (free educational license) ready.
+ ProFTPD 1.2.8 Server (NSC's Public FTP server) [belate.nsc.liu.se]
+ ProFTPD 1.2.8 Server (ProFTPD/tls NUD/AI) [nassa]
+ Port80 FTP http://www.port80.se
+ ProFTPD 1.2.5rc1 Server (www.propellerheads.se) [mysql.propellerheads.mon.pi.se]
+ w13sscb Microsoft FTP Service (Version 5.0).
+ cochise.sics.se FTP server ready.
+ ftp.su.se NcFTPd Server (free educational license) ready.
+ www.tripnet.se FTP server ready.
+ ProFTPD 1.2.8 Server (Update FTP) [Tempo.Update.UU.SE]
+ sylvia FTP server ready.
+ FTP Server ready ...
+   WELCOME TO SINGNET'S FTP SERVER
+     This is a FTP archive of FEI STU Bratislava,Slovakia,Europe!
+ amber.idata.sk FTP proxy (Version V2.1) ready.
+ FTP Server (ftp.nextra.sk) ready.
+ FTP Server (ftp.nextra.sk) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [ftp.tuke.sk]
+  Welcome to FTP Server of VSE s.p. (ftp.vse.sk).
+ Ftp Server ready
+ lust.icc.ru FTP server ready.
+ ddt.demos.su FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.7 Server (Afps FTP Server) [net.afps.chel.su]
+ phobos.cs.msu.su FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ frant.com.ru FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.gts.chel.su) [gw.gts.chel.su]
+ Shiva's FTP server ready
+ ProFTPD 1.2.7 Server ready.
+ kiarchive.relcom.ru FTP server (Version 6.00LS) ready.
+ ns.kuban.su FTP server (Version 6.00) ready.
+  *********************
+ parus.nsk.su FTP server (Version 6.00) ready.
+ thorin.po.cs.msu.su FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.0 Server ready.
+           ____    ___   _
+ Lycee 93 FTP Site
+ main FTP server ready.
+ eru.sftcomp.ru FTP server (Version 6.00LS) ready.
+ urcrm.chel.su FTP server (Version 6.00LS) ready.
+ km Microsoft FTP Service (Version 5.0).
+ FTP Service
+ ftp337.pair.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (FTP@ENG) [lily]
+ ProFTPD 1.2.0rc3 Server (iac.co.th) [209.239.60.195]
+ bizet.inet.co.th FTP server (Version 6.00) ready.
+ belldandy.kitty.in.th FTP server (Version 6.00LS) ready.
+ (vsFTPd 1.1.3)
+ ProFTPD 1.2.8 Server (KSC Commercial Internet, Anonymous FTP Server) [ftp.ksc.net]
+ (vsFTPd 1.1.3)
+ FTP Service
+ FTP Service
+ ftp.warf.co.th FTP Server ready
+ FTP Server Ready (kona 3/20/2001)
+ ftp.anet.net.tr NcFTPd Server (licensed copy) ready.
+ gandalf.comu.edu.tr NcFTPd Server (free educational license) ready.
+    Welcome To
+ ProFTPD 1.2.8 Server (ftp.linux.org.tr) [193.140.100.100]
+ ProFTPD FTP Server ready.
+ asftp Microsoft FTP Service (Version 5.0).
+ ftp2.abit.com.tw FTP server ready.
+ ProFTPD 1.2.6rc2 Server (Aboway FTP Server) [dns.aboway.com.tw]
+ wt Microsoft FTP Service (Version 5.0).
+ tpeweb Microsoft FTP Service (Version 5.0).
+ ftp.cc.ntut.edu.tw NcFTPd Server (free educational license) ready.
+ Microsoft FTP Service
+ ProFTPD 1.2.5 Server (ProFTPD Default Installation) [ftp.cgu.edu.tw]
+ ecsftp Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (ProFTPD Anonymous Server) [ftp]
+ necro Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.8 Server (GIGA FTP Service) [freebsd.giga.net.tw]
+ ProFTPD 1.2.6 Server (Infortrend Technology, Inc.) [localhost.localdomain]
+ ftp Microsoft FTP Service (Version 5.0).
+ ecsftp Microsoft FTP Service (Version 5.0).
+ a1 Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.7 Server (SOYO Computer Inc. FTP Server) [www.soyo.com.tw]
+ WebServer Microsoft FTP Service (Version 5.0).
+ (vsFTPd 1.1.3)
+ (vsFTPd 1.1.3)
+ ftp Microsoft FTP Service (Version 5.0).
+ dn.ua FTP server (lukemftpd 1.2 beta 1) ready.
+ ProFTPD 1.2.4 Server (FTPD Vecher.Com Server) [main.alina.te.net.ua]
+ ProFTPD 1.2.7 Server (autohost.com.ua) [exclusiv.autohost.com.ua]
+ ProFTPD 1.2.0pre10 Server (BCS public archive) [relay1.bcs.zp.ua]
+ ftp.reis.zp.ua FTP server (ftpd) ready.
+ squirrel.cs.com.ua FTP server ready.
+ app1.visti.net FTP server (Version 6.00LS) ready.
+ phantom.cris.net FTP server (Version 6.00LS) ready.
+ master.ghost.dn.ua FTP server ready.
+ ftp.gov.ua FTP server ready.
+ pactyx.ibc.net.ua FTP server (Version 6.00LS) ready.
+ FTP server ready.
+ c2.ils.com.ua FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (ILT NAN of Ukraine) [flint.ilt.kharkov.ua]
+ zoo.lincore.net FTP server ready.
+ voodoo.intercom.net.ua FTP server (Version 6.00LS) ready.
+ pantera.interfax.kharkov.ua FTP server (Version 6.00) ready.
+ ftp.interlink.net.ua FTP server ready.
+ hostel.iptelecom.net.ua FTP server (Version 6.00LS) ready.
+ mail.ires.net.ua FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (ALLGAMES.COM.UA FTP Server) [darkstar.kiev.farlep.net]
+ ProFTPD 1.2.6 Server (ISP ConCom Ltd) [ftp.kharkov.net]
+ ProFTPD 1.2.8 Server (KSPU FTP Archive) [trident.kspu.kr.ua]
+ ProFTPD 1.2.4 Server (Vasia) [golowood.mao.kiev.ua]
+ FTP server ready.
+ ProFTPD 1.2.4 Server ready.
+ The mutt mail user agent ftp site.
+ ftp.paco.net FTP server ready.
+ ns.pbank.donetsk.ua FTP server (Version 6.00LS) ready.
+ pantera.interfax.kharkov.ua FTP server (Version 6.00) ready.
+ ProFTPD 1.2.4 Server ready.
+ ftp.riak.lg.ua FTP server ready.
+ lakshmi.sita.kiev.ua FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.8 Server (FTP server of Spezvuzautomatika) [relay.spezvuz.kharkov.ua]
+ ProFTPD 1.2.8 Server (FTP server of Spezvuzautomatika) [relay.spezvuz.kharkov.ua]
+ TeNeT FTP [ftp.te.net.ua]
+ alf.ucom.com.ua FTP server (Version 6.00LS) ready.
+ uni.com.ua FTP server (Version 6.00LS) ready.
+ zeus Microsoft FTP Service (Version 4.0).
+ ProFTPD 1.2.0pre8 Server (JSCB Ukrsotsbank, Dnepropetrovsk directorate)
+                 Welcome to Webber Ltd. FTP sever.
+ The Volkov Commander ftp site.
+ abacus.gene.ucl.ac.uk FTP server (Digital UNIX Version 5.60) ready.
+ ProFTPD 1.2.9rc1 Server (Catless) [catless.ncl.ac.uk]
+ cct0s Microsoft FTP Service (Version 3.0).
+ cs.ucl.ac.uk FTP server (SunOS 4.0) ready.
+ power4.power.net.uk FTP server (BSDI Version 7.00LS) ready.
+ FTP server ready.
+ ProFTPD 1.2.5rc1 Server (MIPS Technologies UK Ltd) [dmz.algor.co.uk]
+ clint FTP server (Version 6.00LS) ready.
+ ProFTPD 1.2.1 Server (ProFTPD DAMTP setup) [ftp.amtp.cam.ac.uk]
+ FTP Service
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ red.gradwell.net NcFTPd Server (licensed copy) ready.
+ No unauthorised access allowed to this server
+ ophiuchus FTP server ready.
+ ProFTPD 1.2.8 Server (Keele Astrophysics FTP Server) [servus.astro.keele.ac.uk]
+ ProFTPD 1.2.4 Server (AOPP FTP Server) [gubbins.atm.ox.ac.uk]
+ sun7.bham.ac.uk FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.2rc2 Server (Welcome to ftp.bio.cam.ac.uk) [mole.bio.cam.ac.uk]
+ ProFTPD 1.2.5rc1 Server (ftp.blackstar.co.uk) [grus.blackstar.co.uk]
+ ProFTPD 1.2.8 Server (blueyonder Mirrors) [mirror1.blueyonder.co.uk]
+ websrv5.netbenefit.co.uk FTP server ready.
+ loki.brunel.ac.uk FTP server (Version 4.132 Thu Aug 28 18:18:43 BST 1997) ready.
+ wwwserve FTP server (Version 4.1 Thu Jun 18 15:09:25 CDT 1998) ready.
+ ProFTPD 1.2.0pre10 Server (ProFTPD) [utter.chaos.org.uk]
+ ProFTPD 1.2.5rc1 Server (Debian) [chiark.greenend.org.uk]
+ webserver.chime.ucl.ac.uk FTP server ready.
+ ProFTPD 1.2.2rc3 Server (ProFTPD Default Installation) [netgate]
+ ProFTPD 1.2.4 Server (ProFTPD Nextra CIX) [magnesium.cix.co.uk]
+ graham FTP server (Version 4.128 Tue Dec 19 12:58:13 GMT 2000) ready.
+ black Microsoft FTP Service (Version 5.0).
+ ProFTPD 1.2.4 Server (ProFTPD Default Installation) [bell]
+ ITT Microsoft FTP Service (Version 5.0).
+   Welcome to the Connect Anonymous FTP Service.
+ lunaleka FTP server ready.
+ doc FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.5 Server (ProFTPD at Man Uni Comp Sci) [newftp]
+ ProFTPD 1.2.5 Server (ProFTPD Server) [pat]
+ cash FTP server (UNIX(r) System V Release 4.0) ready.
+ ftp.cis.strath.ac.uk NcFTPd Server (free educational license) ready.
+   Welcome to the Liverpool Computer Science FTP Archive
+ ftp.csd.abdn.ac.uk FTP server ready.
+ University of Cambridge Computing Service ftp Server
+ draco.cus.cam.ac.uk FTP server (SunOS 5.9) ready.
+ red.gradwell.net NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.1 Server (ProFTPD DAMTP setup) [ftp.amtp.cam.ac.uk]
+ qs222.pair.com NcFTPd Server (licensed copy) ready.
+ radon FTP server () ready.
+ ProFTPD 1.2.0pre10 Server (QMW DCS ftp server) [138.37.88.61]
+ ProFTPD 1.2.0pre10 Server (QMW DCS ftp server) [138.37.88.61]
+ ftp.dis.strath.ac.uk NcFTPd Server (free educational license) ready.
+ ****
+ ftp.dl.ac.uk FTP server ready.
+ ProFTPD 1.2.0pre6 Server (ftp.dlink.co.uk) [ns.dlink.co.uk]
+ ProFTPD 1.2.7 Server (DPMMS ftp server) [rhea.dpmms.cam.ac.uk]
+ dux FTP server (SunOS 5.8) ready.
+ procyon FTP server (SunOS 5.8) ready.
+ ProFTPD 1.2.0rc3 Server (Earth Sciences, Oxford University, UK.) [owl]
+ Eidos European FTP Server
+ QMUL ELECTRONIC ENGINEERING DEPARTMENT FTP SERVER
+ club.eng.cam.ac.uk FTP server ready.
+ iwamoto.eng FTP server (SunOS 4.1) ready.
+ This is Edinburgh Parallel Computing Centre's FTP service.
+ ProFTPD 1.2.6 Server ready.
+ web0.fast.net.uk FTP server (Version 6.00LS) ready.
+ cream FTP server (SunOS 5.6) ready.
+ ProFTPD 1.2.6 Server (Future Publishing Public FTP Service) [ftp.futurenet.co.uk]
+ FTP Server Ready
+ govan FTP server (SunOS 5.8) ready.
+ Geology and Geophysics Department      The University of Edinburgh
+ Goldsmiths FTP Server ready.
+ jupiter FTP server (UNIX(r) System V Release 4.0) ready.
+ innovasyssrv04 Microsoft FTP Service (Version 5.0).
+ ftp.ist.co.uk FTP server ready.
+ knotty FTP server (SunOS 5.7) ready.
+ ProFTPD 1.2.5rc1 Server (ftp.ktgroup.co.uk) [195.188.16.41]
+ Welcome to the FTP service running on pisa.ling.ed.ac.uk.
+ No unauthorised access allowed to this server
+ ready, dude (vsFTPd 1.0.1: beat me, break me)
+ FTP server ready.
+ FTP server ready.
+ Welcome! Please enter your username and password to login.
+ Mathematical Sciences FTP Server
+ FTP Service
+ fibratus FTP server (SunOS 5.7) ready.
+ enterprise.molbiol.ox.ac.uk FTP server ready.
+   Mullard Space Science Laboratory. Dept. of Space and Climate Physics, UCL.
+ You are user number 1 of 500 allowed.
+ ProFTPD 1.2.2 Server ready.
+ red.gradwell.net NcFTPd Server (licensed copy) ready.
+ Welcome to New College FTP service.
+ Isaac Newton Institute FTP server (vsFTPd 1.2.0) ready
+ gotham.ccc.nottingham.ac.uk NcFTPd Server (free educational license) ready.
+ Welcome to ftp.ox.ac.uk
+ ox.compsoc.net (OU Compsoc) FTP server ready
+ ftp.dennisnet.co.uk FTP server ready
+ ftp.pellcomp.co.uk FTP server ready.
+ holtz FTP server (Users activities are monitored) ready.
+ This is the Experimental Psychology FTP server.
+ iota FTP server (UNIX(r) System V Release 4.0) ready.
+ griffin FTP server ready.
+ No unauthorised access allowed to this server
+ padua FTP server ready.
+ You are connected to the Satellite Observing Systems.
+ csdalpha1a.sbu.ac.uk FTP server (Compaq Tru64 UNIX Version 5.60) ready.
+ Welcome to the Scotnet FTP server.
+ bserver21.digital.co.uk FTP server ready.
+ ftp114.pair.com NcFTPd Server (licensed copy) ready.
+ ProFTPD 1.2.8 Server (Nildram UNIX Webserver) [itchy.nildram.co.uk]
+ ProFTPD 1.2.8 Server (altohiway Virtual Server 2) [vweb2.hiway.co.uk]
+ (vsFTPd 1.1.3)
+ jupiter FTP server (SunOS 5.7) ready.
+ heron.stats FTP server (SunOS 5.7) ready.
+ ProFTPD 1.2.5rc1 Server (Debian) [poker.statslab.cam.ac.uk]
+ forth.stir.ac.uk FTP server (Version 1.1.214.5 Tue Nov 16 09:39:15 GMT 1999) ready.
+ ProFTPD 1.2.5 Server (USCS anonymous/open+) [ames.central.susx.ac.uk]
+                       TCM Computer Systems
+ ftp.tcp.co.uk NcFTPd Server (licensed copy) ready.
+ No unauthorised access allowed to this server
+ ProFTPD 1.2.2rc1 Server (ProFTPD) [195.149.51.160]
+ minerva FTP server (SunOS 5.7) ready.
+ wumpus FTP server (SunOS 5.6) ready.
+ prospero NcFTPd Server (free educational license) ready.
+ puredigital Microsoft FTP Service (Version 5.0).
+ This machine is only for ANONYMOUS ftp.  Access to Unix home directories
+ ProFTPD 1.2.8 Server (Nildram UNIX Webserver) [itchy.nildram.co.uk]
+ lycosa FTP server (FTP) ready.
+ ProFTPD 1.2.7 Server (Wireplay FTP Server) [ftp.wireplay.co.uk]
+ ProFTPD 1.2.4 Server ready.
+ ProFTPD 1.2.8 Server (blueyonder Mirrors) [mirror1.blueyonder.co.uk]
+ ProFTPD 1.2.5rc1 Server (Dafodil) [dafodil]
+ vulture.dmem.strath.ac.uk FTP server (Version 6.00) ready.
+ winston Microsoft FTP Service (Version 3.0).
+ (vsFTPd 1.1.3)
+ www.ietf.org NcFTPd Server (licensed copy) ready.
+ www FTP server (Version 1.1.214.8 Fri Apr 20 07:27:42 GMT 2001) ready.
+ ProFTPD 1.2.8 Server (FTP Universidad de los Andes) [delhi.cecalc.ula.ve]
+ casper.cs.uct.ac.za FTP server (Version 6.00LS) ready.
+ Welcome to Internet Solutions FTP service.
+ ProFTPD 1.2.8 Server ready.
+ Welcome to the FTP service of the University of Stellenbosch
+ Service ready for new user.
+ picasso.wcape.school.za FTP server (Version 6.00LS) ready.

@@ -1,0 +1,829 @@
+smtp.businessserve.co.uk
+
+mail.cableone.net
+
+mail.cableone.net
+:220 2.0.0 mail.cableone.net ESMTP ecelerity 3.6.6.45965 r(Core:3.6.6.0) Thu, 14 May 2015 21:28:47 -0400
+
+smtp.blueyonder.co.uk
+
+smtp.caiway.nl
+
+smtp.caiway.nl
+:220 smtp-out1.caiw.net [NOSPAM] ESMTP Ready! Sending unsollicited commercial or bulk e-mail is prohibited.
+
+smtp2.callsouth.net.nz
+
+smtp.callsouth.net.nz
+
+mail.cantv.net
+
+smtp.cegetel.net
+
+smtp.cegetel.net
+:220 msfrf2316.sfr.fr ESMTP ABO **************************
+
+mail.vic.chariot.net.au
+
+mail.charter.net
+
+pop.charter.net
+
+smtp.cheapnet.it
+
+smtp.cheapnet.it
+:220 vnsmtp.cheapnet.it ESMTP Exim 4.72 Fri, 15 May 2015 03:29:49 +0200
+
+mail.chello.pl
+
+mail.chello.pl
+:220 edge01.upcmail.net edge ESMTP server ready
+
+ciaosmtp.ciaoweb.it
+
+smtp.mymmode.com
+
+smtp.ciudad.com.ar
+
+smtp.ciudad.com.ar
+:220 relay1.ciudad.com.ar ESMTP Postfix
+
+relay.clara.net
+
+relay.clara.net
+:220 relay.clara.net ESMTP [relay15]
+
+smtp.clear.net.nz
+
+smtp.click21.com.br
+
+smtp.club-internet.fr
+
+smtp.club-internet.fr
+:220 msfrf2221.sfr.fr ESMTP ABO **************************
+
+collegeclub.com
+
+smtp.ipmail.colt.net
+
+smtp.ipmail.colt.net
+:220 mail223c25.carrierzone.com ESMTP Sendmail 8.14.9 ready at Fri, 15 May 2015 01:30:25 +0000
+
+mail.cpws.net
+
+smtp.comcast.net
+
+smtp.comcast.net
+:220 resomta-po-19v.sys.comcast.net comcast ESMTP server ready
+
+smtp.central.cox.net
+
+smtp.central.cox.net
+:220 eastrmimpo109 cox ESMTP server ready
+
+smtp.east.cox.net
+
+smtp.east.cox.net
+:220 eastrmimpo209 cox ESMTP server ready
+
+smtp.west.cox.net
+
+smtp.west.cox.net
+:220 fed1rmimpo109 cox ESMTP server ready
+
+smtp.cultura.com.br
+
+smtp.cultura.com.br
+:220 cultura.com.br modusMail ESMTP Receiver Version 4.4.568.77 Ready
+
+smtp.ntlworld.com
+
+mail.datamat.it
+
+post.demon.co.uk
+
+post.demon.co.uk
+:220 smtp.demon.co.uk ESMTP
+
+smtp.etmail.it
+
+www.dinajpur.biz
+
+www.dinajpur.biz
+:220-k035.k035jp9079.info ESMTP Exim 4.85 #2 Fri, 15 May 2015 10:31:01 +0900 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+mail.dreamnet.co.nz
+
+smtpauth.earthlink.net
+
+smtpauth.earthlink.net
+:220-elasmtp-spurfowl.atl.sa.earthlink.net ESMTP Exim 4.67 #1 Thu, 14 May 2015 21:31:02 -0400
+220-NO UCE.  EarthLink does not authorize the use of its computers or network
+220 equipment to accept, transmit, or distribute unsolicited e-mail.
+
+smtp.easynet.co.uk
+
+smtp.easynet.co.uk
+:220 smarthost3.mail.uk.easynet.net ESMTP Fri, 15 May 2015 02:31:02 +0100.
+
+mail2.eircom.net
+
+smtp.elitel.biz
+
+smtp.email.it
+
+smtp.email.it
+:220 emout03.email.it ESMTP Postfix
+
+smtp.euronet.nl
+
+smtp.euronet.nl
+:220 fe03.em.euronet.nl ESMTP Postfix
+
+itsverybad
+
+smtp.tiscali.it
+
+smtp.ezysurf.co.nz
+
+smtp.ezysurf.co.nz
+:220 mx-1.iconz.co.nz ESMTP ICONZ Mail Services
+
+mail.messagingengine.com
+
+mail.messagingengine.com
+:220 mail.messagingengine.com ESMTP ready
+
+mailbus.fastweb.it
+
+pop.fastwebnet.it
+
+smtp.fastweb.it
+
+smtp.fastwebnet.it
+
+smtp.fastwebnet.it
+:220 mr003msr.fastwebnet.it ESMTP Service ready
+
+smtp.fibertel.com.ar
+
+smtp.free.fr
+
+smtp.free.fr
+:220 smtp4-g21.free.fr ESMTP Postfix
+
+smtp.free.fr
+
+smtp.free.fr
+:220 smtp4-g21.free.fr ESMTP Postfix
+
+outmail.f2s.com
+
+smtp.freemail.it
+
+mail.freemail.it
+
+mail.freemail.it
+
+mx.freenet.de
+
+mx.freenet.de
+:220 mx14.freenet.de ESMTP Exim 4.82 Fri, 15 May 2015 03:32:18 +0200
+
+mx.freenet.de
+
+mx.freenet.de
+:220 mx12.freenet.de ESMTP Exim 4.82 Fri, 15 May 2015 03:32:18 +0200
+
+smtp.freeserve.co.uk
+
+smtp.freeserve.co.uk
+:220 mwinf5d05 ME ESMTP server ready
+
+smtp.galactica.it
+
+mail.genie.co.uk
+
+smtp.giga.net.tw
+
+smtp.globe.net.nz
+
+smtp.globe.net.nz
+:220 mail.actrix.co.nz ESMTP
+
+smtp.gmail.com
+
+smtp.gmail.com
+:220 mx.google.com ESMTP uf7sm40401pab.37 - gsmtp
+
+mail.gmx.net
+
+mail.gmx.net
+:220 gmx.com (mrgmx103) Nemesis ESMTP Service ready
+
+smtpout.secureserver.net
+
+smtp.go.com
+
+smtp.haier-electronics.com
+
+ms1.hinet.net
+
+ms1.hinet.net
+:220 msr11.hinet.net ESMTP Sendmail 8.14.9/8.14.9; Fri, 15 May 2015 09:33:01 +0800 (CST)
+
+msa.hinet.net
+
+msa.hinet.net
+:220 msr3.hinet.net ESMTP Sendmail 8.14.9/8.14.9; Fri, 15 May 2015 09:33:02 +0800 (CST)
+
+mx2.hotmail.com
+
+hotmail.co.uk
+
+smtp.hotpop.com
+
+mail.i4u.net.nz
+
+mail.i4u.net.nz
+:220 mail.orcon.net.nz ESMTP CanIt-Appliance
+
+smtp.ic24.net
+
+smtp.ic24.net
+:220 avasout06 smtp smtp-proxy.plus.net 
+
+smtp.ig.com.br
+
+smtp.ig.com.br
+:220 hank0031 ESMTP ready
+
+smtp.ihug.co.nz
+
+inet.it
+
+mail.infinito.it
+
+mail.infinito.it
+:220 smtp-2.infinito.ipnext.it ESMTP Sendmail; Fri, 15 May 2015 03:33:50 +0200
+
+smtp.grrtech.com
+
+smtp.grrtech.com
+:220 smtp.b.hostedemail.com ESMTP
+
+smtp.mind.net
+
+smtp.mind.net
+:220 smtp.b.hostedemail.com ESMTP
+
+smtp.kfalls.net
+
+smtp.kfalls.net
+:220 smtp.b.hostedemail.com ESMTP
+
+smtp.medford.net
+
+smtp.medford.net
+:220 smtp.b.hostedemail.com ESMTP
+
+mail.insightbb.com
+
+mail.insightbb.com
+:220 mail.insightbb.com ESMTP
+
+mail1.cs.interbusiness.it
+
+mail.interfree.it
+
+sout.zahav.net.il
+
+smtp.internetlibero.it
+
+mail.inwind.it
+
+mail.iol.it
+
+smtp.domain.ext
+
+smtp.iprimus.com.au
+
+smtp.iprolink.co.nz
+
+smtp.iprolink.co.nz
+:220 smtp.compassnet.co.nz ESMTP
+
+istruzione.it
+
+mail.italymail.biz
+
+mail.italymail.biz
+:220 server274.com ESMTP
+
+smtp.ixpres.com
+
+mail.jumpy.it
+
+smtp.juno.com
+
+smtp.juno.com
+:220 smtpout03.vgs.untd.com ESMTP
+
+smtp.katamail.com
+
+smtp.katamail.com
+
+smtp.laposte.net
+
+smtp.laposte.net
+:220 lpn-prd-vrin004 ESMTP Postfix (Ubuntu)
+
+smtp.neuf.fr
+
+smtp.neuf.fr
+:220 msfrf2603.sfr.fr ESMTP ABO **************************
+
+mail.libero.it
+
+smtp.weblinea.it
+
+smtp.lineone.net
+
+smtp.lycos.co.uk
+
+smtp.lycos.it
+
+smtp.mac.com
+
+smtp.mac.com
+:220 nk11p00mm-asmtp001.mac.com -- Server ESMTP (Oracle Communications Messaging Server 7.0.5.35.0 64bit (built Dec  4 2014))
+
+smtp.madasafish.com
+
+smtp.madasafish.com
+:220 avasout05 smtp smtp-proxy.plus.net 
+
+mail.quizil.net
+
+smtp.mail.ru
+
+smtp.mail.ru
+:220 smtp17.mail.ru ESMTP ready
+
+mail.mailsnare.net
+
+mira0.maktoob.com
+
+mail.mclink.it
+
+mail.mchsi.com
+
+smtp.mistral.co.uk
+
+smtp.mistral.co.uk
+:220 Mistral Internet lon-gs3mx-out.mail.mistral.net ESMTP
+
+smtp.momax.it
+
+ms15.hinet.net
+
+ms15.hinet.net
+:220 msr12.hinet.net ESMTP Sendmail 8.14.9/8.14.9; Fri, 15 May 2015 09:35:30 +0800 (CST)
+
+smtp.weblinea.it
+
+mail.mtel.net
+
+smtp.namestoday.ws
+
+smtp.namestoday.ws
+
+astralblue@nerim.net
+
+smtp.netcabo.pt
+
+smtp.netcabo.pt
+:220 mx04.smtp.netcabo.pt ESMTP
+
+mail.netexplora.com
+
+mail.netexplora.com
+:220-tcn-05-lon-cp16.tecnoera.com ESMTP Exim 4.85 #2 Thu, 14 May 2015 22:36:01 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+mail.netlink.co.nz
+
+smtp.hcmc.netnam.vn
+
+smtp.isp.netscape.com
+
+smtp.isp.netscape.com
+:220 dm0220.mta.everyone.net ESMTP EON-AUTHRELAY2
+
+mailhost.netscapeonline.co.uk
+
+mail.netvigator.com
+
+mail.netvisao.pt
+
+mail.netvisao.pt
+
+smtp.netzero.com
+
+smtp.netzero.com
+:220 smtpout03.vgs.untd.com ESMTP
+
+smtp.neuf.fr
+
+smtp.neuf.fr
+:220 msfrf2502.sfr.fr ESMTP ABO **************************
+
+smtp.ngi.it
+
+smtp.ngi.it
+:220 smtp2.ngi.it ESMTP Postfix (NGI)
+
+smtp.nildram.co.uk
+
+smtp.noos.fr
+
+mail.novis.pt
+
+mail.novis.pt
+:220 mailfrt06.isp.novis.pt ESMTP Novis - Empresas mais Inteligentes
+
+smtp.ntlworld.com
+
+smtp.ntlworld.com
+
+mail.onetel.net.uk
+
+smtp.ono.com
+
+wanadoo.fr
+
+mail.optonline.net
+
+mail.optonline.net
+:220 mta4.srv.hcvlny.cv.net -- Server ESMTP (Sun Java System Messaging Server 6.2-8.04 (built Feb 28 2007))
+
+mail.orcon.net.nz
+
+mail.orcon.net.nz
+:220 mail.orcon.net.nz ESMTP CanIt-Appliance
+
+tchrshelli
+
+ns.pcts.sk
+
+ns.pcts.sk
+:220 ns.pcts.sk ESMTP Sendmail 8.13.2/8.13.2; Fri, 15 May 2015 03:37:44 +0200
+
+smtp.paradise.net.nz
+
+smtp.pchome.com.tw
+
+smtpauth.peoplepc.com
+
+smtpauth.peoplepc.com
+:220-smtpauth13.mail.atl.earthlink.net ESMTP Exim 4.67 #1 Thu, 14 May 2015 21:38:04 -0400
+220-NO UCE.  EarthLink does not authorize the use of its computers or network
+220 equipment to accept, transmit, or distribute unsolicited e-mail.
+
+mail.peoplepc.com
+
+smtp.dsl.pipex.com
+
+smtp.dial.pipex.com
+
+smtp.citilink.com
+
+mail.portbridge.com
+
+mail.postman.net
+
+mail.postman.net
+:220 rs07.net-housting.de ESMTP Postfix (Debian/GNU)
+
+relay.poste.it
+
+smtp.postino.it
+
+kiwi.previdencia.gov.br
+
+xasa.com
+
+smtp.prodigy.net.mx
+
+smtp.prodigy.net.mx
+:220-smtp.prodigy.net.mx ESMTP
+220 ip-c
+
+smtp.promo.it
+
+smtp.purplenet.co.uk
+
+smtp.purplenet.co.uk
+:220 authsmtp03.freezone.co.uk Freezone Internet ESMTP
+
+quipo.it
+
+smtp.mundo-r.com
+
+smtp.mundo-r.com
+:220 smtp4.mundo-r.com ESMTP
+
+smtp.deejaymail.it
+
+smtp.deejaymail.it
+:220 smtpcm2-pc.aruba.it bizsmtp ESMTP server ready
+
+amauta.rcp.net.pe
+
+amauta.rcp.net.pe
+:220-rioja.yachay.pe ESMTP Exim 4.82 #2 Thu, 14 May 2015 20:39:37 -0500 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+smtp.reteitaly.com
+
+smtp.reteitaly.com
+:421 rigel.movimatica.com: Too many concurrent SMTP connections; please try again later
+
+smtp.broadband.rogers.com
+
+smtp.broadband.rogers.com
+:220 smtp.broadband.rogers.com ESMTP ready
+
+smtp.runbox.com
+
+smtp.runbox.com
+:220 mailfront03.runbox.com ESMTP Exim 4.76 Fri, 15 May 2015 03:39:38 +0200
+
+mx.sapo.pt
+
+mx.sapo.pt
+:220 sapo.pt ESMTP SPF1
+
+smtp.swbell.yahoo.com
+
+smtp.swbell.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.snet.yahoo.com
+
+smtp.snet.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.ameritech.yahoo.com
+
+smtp.ameritech.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.flash.yahoo.com
+
+smtp.flash.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.wans.yahoo.com
+
+smtp.wans.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.pacbell.yahoo.com
+
+smtp.pacbell.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.nvbell.yahoo.com
+
+smtp.nvbell.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.prodigy.yahoo.com
+
+smtp.prodigy.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.sbcglobal.yahoo.com
+
+smtp.sbcglobal.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.sbcglobal.yahoo.com
+
+smtp.sbcglobal.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.sbcglobal.yahoo.com
+
+smtp.sbcglobal.yahoo.com
+:220 smtp.att.yahoo.com ESMTP ready
+
+smtp.scarlet.be
+
+smtp.tiscali.co.uk
+
+smtp.tiscali.co.uk
+:220 out.ipsmtp3nec.opaltelecom.net ESMTP
+
+smtp-auth.sfr.fr
+
+smtp-auth.sfr.fr
+:220 msfrf2316.sfr.fr ESMTP ABO **************************
+
+shawmail.cg.shawcable.net
+
+shawmail.cg.shawcable.net
+:220 mo21.dcs.int.inet shaw.ca ESMTP server ready
+
+smtp.shylex.net
+
+smtp.shylex.net
+:220 smtp02.shylex.net ESMTP
+
+smtp.simail.it
+
+mail.satyam.net.in
+
+relay.skynet.be
+
+relay.skynet.be
+:220-smtp.skynet.be ESMTP
+220 Belgacom relay service - authentication required!
+
+relay.skynet.be
+
+relay.skynet.be
+:220-smtp.skynet.be ESMTP
+220 Belgacom relay service - authentication required!
+
+smtp.slingshot.co.nz
+
+smtp.slingshot.co.nz
+:220 fortimail1.tranzpeer.net ESMTP Smtpd; Fri, 15 May 2015 13:40:16 +1200
+
+mail.softhome.net
+
+mail.softhome.net
+:220 No spam, UCE, or bulk email allowed.  ESMTP
+
+smtp.southnet.co.nz
+
+smtp.southnet.co.nz
+:220 rupert.snap.net.nz ESMTP Postfix (Ubuntu)
+
+mail.swbell.net
+
+mail.swbell.net
+:220 isp.att.net - Maillennium ESMTP/MULTIBOX frfwmhc01 #101
+
+smtp.sprintpcs.com
+
+mail.spymac.com
+
+mail1.stofanet.dk
+
+mail1.stofanet.dk
+:220 mx-aarh-1.stofanet.dk - StofaNet Mail Server.
+
+smtp.sunrise.ch
+
+smtp.supanet.com
+
+mail.supereva.it
+
+smtp.superfree.it
+
+smtp1.sympatico.ca
+
+smtp.TalkTalk.net
+
+smtp.TalkTalk.net
+:220 c3 smtp.talktalk.net ESMTP
+
+smtp.tariffenet.it
+
+backup-mx.post.tele.dk
+
+smtp.tele2.fr
+
+smtp.tele2.it
+
+virtual.everyday.com
+
+mail.cs.interbusiness.it
+
+mail.tin.it
+
+mail.tin.it
+:220 vsmtpvtin1.tin.it ESMTP Service ready
+
+smtp.191.it
+
+mail.191.it
+
+mail.191.it
+:220 outmail.impresasemplice.it
+
+191.it
+
+mail.tuttopmi.it
+
+mail.tuttopmi.it
+:220 outmail.impresasemplice.it
+
+smtp.xtra.co.nz
+
+mail.191.it
+
+mail.191.it
+:220 outmail.impresasemplice.it
+
+mail.teledisnet.be
+
+smtp.telefonica.net
+
+uit.telenet.be
+
+uit.telenet.be
+:220 laurent.telenet-ops.be bizsmtp ESMTP server ready
+
+uit.telenet.be
+
+uit.telenet.be
+:220 michel.telenet-ops.be bizsmtp ESMTP server ready
+
+smtp.telepac.pt
+
+smtp.telepac.pt
+:220 sapo.pt ESMTP SPF1
+
+smtp.telepac.pt
+
+smtp.telepac.pt
+:220 sapo.pt ESMTP SPF1
+
+smtp.blueyonder.co.uk
+
+smtp.blueyonder.co.uk
+
+smpt.telkom.net
+
+smtp.telkomsa.net
+
+smtp.telus.net
+
+smtp.telus.net
+:220 cmta9.telus.net TELUS ESMTP server ready
+
+mail.telus.net
+
+smtp.telvia.it
+
+smtp.terra.es
+
+smtp.sao.terra.com.br
+
+smtp.sao.terra.com.br
+:220 mail-smtp02-mia.tpn.terra.com ESMTP
+
+smtp.rec.terra.com.br
+
+smtp.rec.terra.com.br
+:220 mail-smtp06-mia.tpn.terra.com ESMTP
+
+smtp.mailhost.terra.es
+
+mailhost..terra.es
+
+smtp.mailhost.terra.es
+
+mail.tesco.net
+
+mail.posta.tim.it
+
+smtp2.xdslnet.it
+
+(Unknown At This Time)
+
+smtp-server.nc.rr.com
+
+smtp-server.nc.rr.com
+:220 mail-server-domain ESMTP mail service ready
+
+out.virgilio.it
+
+mail.clubnet.tin.it
+
+smtp.tiscali.it
+
+smtp.tiscali.co.uk
+
+smtp.tiscali.de
+
+smtp.tiscali.es
+

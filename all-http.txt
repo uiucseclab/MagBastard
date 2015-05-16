@@ -1,0 +1,83 @@
+ 
+ 
+ ***** HTTP Banner Grabbing ***** 
+
+google.com
+
+Date: Fri, 15 May 2015 23:14:41 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PREF=ID=9126ca166559d0fd:FF=0:TM=1431731681:LM=1431731681:S=He54upVJmj-WB2od; expires=Sun, 14-May-2017 23:14:41 GMT; path=/; domain=.google.com
+Set-Cookie: NID=67=rrJnw9KPaTImKonafU2bbkwy0ZxCX_jnB0v1EHOFUD-w7YCgaafYuZmZSjw-WiXnGBIiV1qBG9BGEmrg8B2BpRJpGAqxPrnxhOBTQAhP7vxghQbHD8so2X3eZWHj0PDoyjiJu1Q4R2VVGk2hM7QjnQW_NHxi; expires=Sat, 14-Nov-2015 23:14:41 GMT; path=/; domain=.google.com; HttpOnly
+P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alternate-Protocol: 80:quic,p=1
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+
+200
+facebook.com
+
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000; preload
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: datr=4n1WVc79g9OkfvfMY8rp5_tP; expires=Sun, 14-May-2017 23:14:42 GMT; Max-Age=63072000; path=/; domain=.facebook.com; httponly
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2F; path=/; domain=.facebook.com; httponly
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2F; path=/; domain=.facebook.com; httponly
+Vary: Accept-Encoding
+Content-Type: text/html
+X-FB-Debug: Q8Rp6/m0+ilJrPD67dgBBsD9VLEpNcd/OATJY+Zj9Cv/GKHQYqL2RPHpYBcq7y9cFfg8xNW3gxjxgmPkyT5vfQ==
+Date: Fri, 15 May 2015 23:14:42 GMT
+Connection: close
+
+200
+yahoo.com
+
+Date: Fri, 15 May 2015 23:14:42 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: YM=v=2&u=Oo3Drv.PlmUamJmHCaWqiGNXAokkhHc6f_2X0A--&d=&f=AAA&t=i3nVVB&s=YcYt; expires=Mon, 15-May-2017 23:14:43 GMT; path=/; domain=.yahoo.com; HttpOnly
+Set-Cookie: DK=v=2&p=fDEwMDB8fHx8; expires=Mon, 15-May-2017 23:14:43 GMT; path=/; domain=.yahoo.com
+Set-Cookie: B=fci95dpvvuvf2&b=3&s=4a; expires=Mon, 15-May-2017 23:14:43 GMT; path=/; domain=.yahoo.com
+x-frame-options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Age: 3
+Via: http/1.1 r01.ycpi.gq1.yahoo.net (ApacheTrafficServer [cMsSf ]), https/1.1 ir3.fp.gq1.yahoo.com (ApacheTrafficServer)
+Server: ATS
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: no-store, no-cache, private, max-age=0
+Expires: -1
+
+200
+youtube.com
+
+Date: Fri, 15 May 2015 23:14:43 GMT
+Server: gwiseguy/2.0
+Content-Type: text/html; charset=utf-8
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+Set-Cookie: VISITOR_INFO1_LIVE=gIwEfHK-iOU; path=/; domain=.youtube.com; expires=Thu, 14-Jan-2016 11:07:43 GMT; httponly
+Set-Cookie: YSC=Fcc-ucAlSjA; path=/; domain=.youtube.com; httponly
+Alternate-Protocol: 443:quic,p=1
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+
+200
+wikipedia.org
+
