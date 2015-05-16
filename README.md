@@ -1,3 +1,49 @@
+
+CS 460 - Spring 2015
+Magnanimous Bastard
+IP: 52.10.246.52
+
+Features
+
+1) Service Emulation through inetsim and dionaea
+   For the honeypot to emulate a real system, we repond to requests using inetsim and dionaea. 
+   Applicable services are: HTTP, HTTPS, FTP, SMTP, POP3. 
+   SSH service remains to be ported to Kippo. Scripts were written for the east of usage
+
+   Usage: ./insetsim-daemon start|stop [path_to_pid] [path_to_conf_file]
+   Usage: ./opt/dionaea/bin/dionaea
+          (configuration file for dionaea can be found in /opt/dionaea/etc/dionaea/dionaea.conf
+
+2) Collect Banner data.
+   Using the list of sites from Alexa-1000sites, we collect HTTP and HTTPS banners from real sites
+   From the site listed in www.ftp-sites.org, we collect FTP banners from real sites
+   From the lists in liveport.com/smtp-servers, we collect SMTP/POP3 banners
+
+   Usage: python get-http-banners.py > all-http.txt
+         (http can be replaced with other services. Refer to the list of scripts in the root folder)
+
+          python banner-grabbing.py nameofsite port_num # grabs the banner of the specific site : port
+
+3) Random cofig file generation
+   Using the banners collected from 2), we generate the configuration files for inetsim. Each configuration file represents a distinct server
+   Usage: Inetsim/gen_conf_linux.py platform_id, platform_id.conf (where platform_id is an integer)
+
+4) Magbastard Update
+   After the update, Magbastard runs up to 10 inetsim processes where each process represents a distinct server.
+   Upon receiving a request, MagBastard checks if there is a valid session from the src of the request. 
+       If so, it forwards the request accordingly.
+       Else, it checks how many inetsim processes are running
+           If less than max, initiate a new process with a new config file generated from 3)
+           Else, assigns a random server from list of existin, and forwards the request accordingly.
+   Upon timeout, MagBastard checks if the inetsim mapped to this session has other valid sessions.
+       If not, it terminates the inetsim process.
+
+TODO:
+   MagBastard need update to forward a portion of requests to Dionaea, which is otherwise fully functional.
+   Other services remain for extended service.
+   If you can find an alternative to labrea mentioned in the readme from 2014, you can map different IPs with a different inetsim process.  
+
+
 CS 460 - Spring 2014
 Magnanimous Bastard
 

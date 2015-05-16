@@ -904,3 +904,343 @@
 2014-05-09 03:32:11+0000 [HoneyPotTransport,33,127.0.0.1] connection lost
 2014-05-09 03:33:19+0000 [HoneyPotTransport,28,127.0.0.1] connection lost
 2014-05-09 03:33:19+0000 [HoneyPotTransport,32,127.0.0.1] connection lost
+2015-04-10 20:29:03+0000 [-] Log opened.
+2015-04-10 20:29:03+0000 [-] twistd 13.2.0 (/usr/bin/python 2.7.6) starting up.
+2015-04-10 20:29:03+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2015-04-10 20:29:03+0000 [-] HoneyPotSSHFactory starting on 2222
+2015-04-10 20:29:03+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x7fadd39ebc68>
+2015-04-10 21:06:16+0000 [-] Log opened.
+2015-04-10 21:06:16+0000 [-] twistd 13.2.0 (/usr/bin/python 2.7.6) starting up.
+2015-04-10 21:06:16+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2015-04-10 21:06:16+0000 [-] HoneyPotSSHFactory starting on 2222
+2015-04-10 21:06:16+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x7f5066443440>
+2015-04-10 21:13:43+0000 [-] Received SIGTERM, shutting down.
+2015-04-10 21:13:43+0000 [-] (TCP Port 2222 Closed)
+2015-04-10 21:13:43+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x7f5066443440>
+2015-04-10 21:13:43+0000 [-] Main loop terminated.
+2015-04-10 21:13:43+0000 [-] Server Shut Down.
+2015-04-10 21:14:03+0000 [-] Log opened.
+2015-04-10 21:14:03+0000 [-] twistd 13.2.0 (/usr/bin/python 2.7.6) starting up.
+2015-04-10 21:14:03+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2015-04-10 21:14:03+0000 [-] HoneyPotSSHFactory starting on 2222
+2015-04-10 21:14:03+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x7f02045fa440>
+2015-04-10 21:15:54+0000 [-] Received SIGTERM, shutting down.
+2015-04-10 21:15:54+0000 [-] (TCP Port 2222 Closed)
+2015-04-10 21:15:54+0000 [-] Stopping factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x7f02045fa440>
+2015-04-10 21:15:54+0000 [-] Main loop terminated.
+2015-04-10 21:15:54+0000 [-] Server Shut Down.
+2015-04-10 21:17:25+0000 [-] Log opened.
+2015-04-10 21:17:25+0000 [-] twistd 13.2.0 (/usr/bin/python 2.7.6) starting up.
+2015-04-10 21:17:25+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2015-04-10 21:17:25+0000 [-] HoneyPotSSHFactory starting on 2222
+2015-04-10 21:17:25+0000 [-] Starting factory <kippo.core.honeypot.HoneyPotSSHFactory instance at 0x7fe13fcfd440>
+2015-04-10 21:17:31+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:53822 (127.0.0.1:2222) [session: 0]
+2015-04-10 21:17:31+0000 [HoneyPotTransport,0,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2
+2015-04-10 21:17:31+0000 [HoneyPotTransport,0,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2015-04-10 21:17:31+0000 [HoneyPotTransport,0,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2015-04-10 21:17:31+0000 [HoneyPotTransport,0,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2015-04-10 21:17:31+0000 [-] Unhandled error in Deferred:
+2015-04-10 21:17:31+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 423, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 490, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 577, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1155, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1097, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 389, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 66, in createSessionWhenever
+	    'SELECT `id` FROM `sensors` WHERE `ip` = %s', (sensorname,))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 191, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.sensors' doesn't exist")
+	
+2015-04-10 21:17:31+0000 [-] Unhandled error in Deferred:
+2015-04-10 21:17:31+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 423, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 490, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 577, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1155, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1097, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 389, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 130, in handleClientVersion
+	    (args['version'],))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 191, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.clients' doesn't exist")
+	
+2015-04-10 21:17:40+0000 [HoneyPotTransport,0,127.0.0.1] NEW KEYS
+2015-04-10 21:17:40+0000 [HoneyPotTransport,0,127.0.0.1] starting service ssh-userauth
+2015-04-10 21:17:40+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi trying auth none
+2015-04-10 21:17:40+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi trying auth keyboard-interactive
+2015-04-10 21:17:49+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] login attempt [bambi/notbambi] succeeded
+2015-04-10 21:17:49+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] bambi authenticated with keyboard-interactive
+2015-04-10 21:17:49+0000 [SSHService ssh-userauth on HoneyPotTransport,0,127.0.0.1] starting service ssh-connection
+2015-04-10 21:17:49+0000 [SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] got channel session request
+2015-04-10 21:17:49+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] channel open
+2015-04-10 21:17:49+0000 [SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] got global no-more-sessions@openssh.com request
+2015-04-10 21:17:49+0000 [-] SQL Error: (1146, "Table 'MagBastard.auth' doesn't exist")
+2015-04-10 21:17:49+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2015-04-10 21:17:49+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] executing command "notbambi"
+2015-04-10 21:17:49+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,0,127.0.0.1] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/log.py", line 73, in callWithContext
+	    return context.call({ILogContext: newCtx}, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/conch/ssh/channel.py", line 137, in requestReceived
+	    return f(data)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/conch/ssh/session.py", line 68, in request_exec
+	    self.session.execCommand(pp, f)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/core/honeypot.py", line 467, in execCommand
+	    raise NotImplementedError
+	exceptions.NotImplementedError: 
+	
+2015-04-10 21:24:10+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:53824 (127.0.0.1:2222) [session: 1]
+2015-04-10 21:24:10+0000 [HoneyPotTransport,1,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2
+2015-04-10 21:24:10+0000 [HoneyPotTransport,1,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2015-04-10 21:24:10+0000 [HoneyPotTransport,1,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2015-04-10 21:24:10+0000 [HoneyPotTransport,1,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2015-04-10 21:24:10+0000 [-] Unhandled error in Deferred:
+2015-04-10 21:24:10+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 423, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 490, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 577, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1155, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1097, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 389, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 66, in createSessionWhenever
+	    'SELECT `id` FROM `sensors` WHERE `ip` = %s', (sensorname,))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 191, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.sensors' doesn't exist")
+	
+2015-04-10 21:24:10+0000 [-] Unhandled error in Deferred:
+2015-04-10 21:24:10+0000 [-] Unhandled Error
+	Traceback (most recent call last):
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 423, in errback
+	    self._startRunCallbacks(fail)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 490, in _startRunCallbacks
+	    self._runCallbacks()
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 577, in _runCallbacks
+	    current.result = callback(current.result, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1155, in gotResult
+	    _inlineCallbacks(r, g, deferred)
+	--- <exception caught here> ---
+	  File "/usr/lib/python2.7/dist-packages/twisted/internet/defer.py", line 1097, in _inlineCallbacks
+	    result = result.throwExceptionIntoGenerator(g)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/failure.py", line 389, in throwExceptionIntoGenerator
+	    return g.throw(self.type, self.value, self.tb)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 130, in handleClientVersion
+	    (args['version'],))
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/threadpool.py", line 191, in _worker
+	    result = context.call(ctx, function, *args, **kwargs)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 118, in callWithContext
+	    return self.currentContext().callWithContext(ctx, func, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/python/context.py", line 81, in callWithContext
+	    return func(*args,**kw)
+	  File "/home/ubuntu/MagBastard/kippo-0.8/kippo/dblog/mysql.py", line 22, in _runInteraction
+	    self, interaction, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 448, in _runInteraction
+	    result = interaction(trans, *args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/twisted/enterprise/adbapi.py", line 462, in _runQuery
+	    trans.execute(*args, **kw)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 174, in execute
+	    self.errorhandler(self, exc, value)
+	  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+	    raise errorclass, errorvalue
+	_mysql_exceptions.ProgrammingError: (1146, "Table 'MagBastard.clients' doesn't exist")
+	
+2015-04-10 21:24:10+0000 [HoneyPotTransport,1,127.0.0.1] NEW KEYS
+2015-04-10 21:24:10+0000 [HoneyPotTransport,1,127.0.0.1] starting service ssh-userauth
+2015-04-10 21:24:10+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] bambi trying auth none
+2015-04-10 21:24:10+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] bambi trying auth keyboard-interactive
+2015-04-10 21:24:16+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] login attempt [bambi/notbambi] succeeded
+2015-04-10 21:24:16+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] bambi authenticated with keyboard-interactive
+2015-04-10 21:24:16+0000 [SSHService ssh-userauth on HoneyPotTransport,1,127.0.0.1] starting service ssh-connection
+2015-04-10 21:24:16+0000 [-] SQL Error: (1146, "Table 'MagBastard.auth' doesn't exist")
+2015-04-10 21:24:16+0000 [SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] got channel session request
+2015-04-10 21:24:16+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] channel open
+2015-04-10 21:24:16+0000 [SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] got global no-more-sessions@openssh.com request
+2015-04-10 21:24:16+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] pty request: xterm (43, 76, 0, 0)
+2015-04-10 21:24:16+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Terminal size: 43 76
+2015-04-10 21:24:16+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2015-04-10 21:24:16+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] getting shell
+2015-04-10 21:24:16+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Opening TTY log: log/tty/20150410-212416-5863.log
+2015-04-10 21:24:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] /etc/motd resolved into /etc/motd
+2015-04-10 21:24:17+0000 [-] SQL Error: (1146, "Table 'MagBastard.sessions' doesn't exist")
+2015-04-10 21:24:41+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:24:41+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:24:41+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:24:53+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: cd home/
+2015-04-10 21:24:53+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: cd home/
+2015-04-10 21:24:53+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:24:53+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:24:53+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:24:53+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:24:56+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: cd richard/
+2015-04-10 21:24:56+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: cd richard/
+2015-04-10 21:24:56+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:24:57+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:24:57+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:24:57+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:25:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: cd ../
+2015-04-10 21:25:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: cd ../
+2015-04-10 21:25:06+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:25:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:25:06+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:25:06+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:25:09+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: cd ../
+2015-04-10 21:25:09+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: cd ../
+2015-04-10 21:25:09+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2015-04-10 21:26:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2015-04-10 21:26:22+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:26:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:26:25+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:26+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: pwd
+2015-04-10 21:26:26+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: pwd
+2015-04-10 21:26:26+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:31+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:26:31+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:26:31+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:34+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2015-04-10 21:26:34+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2015-04-10 21:26:34+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:35+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:26:35+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:26:35+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:38+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: ls
+2015-04-10 21:26:38+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: ls
+2015-04-10 21:26:38+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: pwd
+2015-04-10 21:26:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: pwd
+2015-04-10 21:26:40+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:26:43+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2015-04-10 21:26:43+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2015-04-10 21:26:43+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:27:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2015-04-10 21:27:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2015-04-10 21:27:17+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:27:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: exit
+2015-04-10 21:27:18+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: exit
+2015-04-10 21:27:18+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:27:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] CMD: pwd
+2015-04-10 21:27:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Command found: pwd
+2015-04-10 21:27:22+0000 [-] SQL Error: (1146, "Table 'MagBastard.input' doesn't exist")
+2015-04-10 21:27:28+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,1,127.0.0.1] Received unhandled keyID: '\x13'
+2015-04-10 21:27:46+0000 [HoneyPotTransport,1,127.0.0.1] Got remote error, code 11
+	reason: disconnected by user
+2015-04-10 21:27:46+0000 [HoneyPotTransport,1,127.0.0.1] connection lost
+2015-04-10 21:27:46+0000 [-] SQL Error: (1146, "Table 'MagBastard.ttylog' doesn't exist")
+2015-04-10 21:27:46+0000 [-] SQL Error: (1146, "Table 'MagBastard.sessions' doesn't exist")
+2015-04-10 21:43:12+0000 [kippo.core.honeypot.HoneyPotSSHFactory] New connection: 127.0.0.1:53826 (127.0.0.1:2222) [session: 2]
+2015-04-10 21:43:12+0000 [HoneyPotTransport,2,127.0.0.1] Remote SSH version: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2
+2015-04-10 21:43:12+0000 [HoneyPotTransport,2,127.0.0.1] kex alg, key alg: diffie-hellman-group1-sha1 ssh-rsa
+2015-04-10 21:43:12+0000 [HoneyPotTransport,2,127.0.0.1] outgoing: aes128-ctr hmac-md5 none
+2015-04-10 21:43:12+0000 [HoneyPotTransport,2,127.0.0.1] incoming: aes128-ctr hmac-md5 none
+2015-04-10 21:43:12+0000 [HoneyPotTransport,2,127.0.0.1] NEW KEYS
+2015-04-10 21:43:13+0000 [HoneyPotTransport,2,127.0.0.1] starting service ssh-userauth
+2015-04-10 21:43:13+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] root trying auth none
+2015-04-10 21:43:13+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] root trying auth keyboard-interactive
+2015-04-10 21:43:17+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] login attempt [root/123456] succeeded
+2015-04-10 21:43:17+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] root authenticated with keyboard-interactive
+2015-04-10 21:43:17+0000 [SSHService ssh-userauth on HoneyPotTransport,2,127.0.0.1] starting service ssh-connection
+2015-04-10 21:43:17+0000 [SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] got channel session request
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] channel open
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] pty request: xterm (43, 76, 0, 0)
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Terminal size: 43 76
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] request_env: '\x00\x00\x00\x04LANG\x00\x00\x00\x0ben_US.UTF-8'
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] getting shell
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Opening TTY log: log/tty/20150410-214317-960.log
+2015-04-10 21:43:17+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] /etc/motd resolved into /etc/motd
+2015-04-10 21:43:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: ls
+2015-04-10 21:43:22+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: ls
+2015-04-10 21:43:24+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: cd ../
+2015-04-10 21:43:24+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: cd ../
+2015-04-10 21:43:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: ls
+2015-04-10 21:43:25+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: ls
+2015-04-10 21:43:29+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: exit
+2015-04-10 21:43:29+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: exit
+2015-04-10 21:43:32+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: ls
+2015-04-10 21:43:32+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: ls
+2015-04-10 21:43:34+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: cd ../
+2015-04-10 21:43:34+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: cd ../
+2015-04-10 21:43:35+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: ls
+2015-04-10 21:43:35+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: ls
+2015-04-10 21:43:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: cd home/
+2015-04-10 21:43:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: cd home/
+2015-04-10 21:43:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] CMD: ls
+2015-04-10 21:43:40+0000 [SSHChannel session (0) on SSHService ssh-connection on HoneyPotTransport,2,127.0.0.1] Command found: ls
+2015-04-10 21:43:50+0000 [HoneyPotTransport,2,127.0.0.1] Got remote error, code 11
+	reason: disconnected by user
+2015-04-10 21:43:50+0000 [HoneyPotTransport,2,127.0.0.1] connection lost
+2015-04-10 22:58:11+0000 [HoneyPotTransport,0,127.0.0.1] connection lost

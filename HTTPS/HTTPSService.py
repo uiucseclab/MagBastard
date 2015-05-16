@@ -8,10 +8,10 @@ import socket
 config = ConfigParser()
 config.read("magbastard.cfg")
 inetaddr = config.get("inetsim", "inetaddr")
-inetHTTPport = int(config.get("inetsim", "inetHTTPport"))
+inetHTTPSport = int(config.get("inetsim", "inetHTTPSport"))
 
-'''
-def httpResponse(server, StatusCode="200 OK", ContentType="text/html", filename="HTTP/generic.header", body="HTTP/no_wai.html"):
+
+def httpsResponse(server, StatusCode="200 OK", ContentType="text/html", filename="HTTP/generic.header", body="HTTP/no_wai.html"):
     # Construct the time strings for the response
     curr_time = time.gmtime()
     last_modified = time.gmtime()
@@ -42,16 +42,15 @@ def httpResponse(server, StatusCode="200 OK", ContentType="text/html", filename=
     response = response.replace("#contenttype", ContentType)
     response = response + Body
     return response
-'''
 
-def httpHandler(s, server, details, plat_id):
+def httpsHandler(s, server, details, plat_id):
     request = ServiceListener.getMessage(s)
     logger.updateTimestamp(details[0])
     if request != None:
         logger.logEvent(details[2], details[3], details[0], details[1], request)
         print(request)
 	honeypot = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-	honeypot.connect((inetaddr, inetHTTPport + plat_id * 1000))
+	honeypot.connect((inetaddr, inetHTTPSport + plat_id * 1000))
 	honeypot.send(request)
 	response = honeypot.recv(65535)
         logger.logEvent(details[2], details[3], details[0], details[1], response)

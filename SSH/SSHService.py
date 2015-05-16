@@ -2,26 +2,40 @@ from resources import ServiceListener
 from ConfigParser import ConfigParser
 import socket
 import threading
+import random
 
 config = ConfigParser()
 config.read("magbastard.cfg")
 
 kippoaddr = config.get("kippo", "kippoaddr")
+#inetaddr = config.get("inetsim", "inetaddr")
 kippoport = int(config.get("kippo", "kippoport"))
+#inetSSHport = int(config.get("inetsim", "inetSSHport"))
+
 kippoVerStrFile = config.get("default", "kippoVerStrFile")
 
-def sshHandler(s, server, details):
+# Rate of SSH requests forwared to Kippo [0, 1.0]
+kippoRate = config.get("default", "kippoRate") 
+
+
+def sshHandler(s, server, details, plat_id):
     # Provide kippo with the version string to use
     f = open(kippoVerStrFile, "w")
     f.write(server["Version"])
     f.close()
 
-    # Connect to Kippo; forward traffic
-    kippo = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    kippo.connect((kippoaddr, kippoport))
-    kippostr = kippo.recv(65535)
-    print("From kippo: '%s', %d %d" % (kippostr, ord(kippostr[-2]), ord(kippostr[-1])))
+    honeypot = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    #x = random.random() # generate a random integer
+    #if x < kippoRate:
+	# Connect to Kippo
+    honeypot.connect((kippoaddr, kippoport))
+    honeypotstr = honeypot.recv(65535)
+    print("From kippo: '%s', %d %d" % (honeypotstr, ord(honeypotstr[-2]), ord(honeypotstr[-1])))
+    #else:
+	# Connect to Inetsim
+    	#honeypot.connect((inetaddr, inetSSHport))
 
+    # Forward traffic
     # Send selected version string as response
     try:
         s.send(server["Version"] + "\r\n")
@@ -31,15 +45,19 @@ def sshHandler(s, server, details):
             data = 'blah'
             while data != None and data != '':
                 data = s.recv(65535)
+		logger.updateTimestamp(details[0])
+		logger.logEvent(details[2], details[3], details[0], details[1], data)  # Logs the ssh request to the DB
                 ###print ("--->: %s..." % data[:70])
                 ###if (len(data) > 2):
                 ###    print ('Data ended with %d %d.' % (ord(data[-2]), ord(data[-1])))
-                kippo.send(data)
+                honeypot.send(data)
         
         def sendFrom():
             data = 'blah'
             while data != None and data != '':
-                data = kippo.recv(65535)
+                data = honeypot.recv(65535)
+		logger.updateTimestamp(details[0])
+		logger.logEvent(details[2], details[3], details[0], details[1], data) # Log the ssh response from Kippo to the DB
                 ###if (len(data) > 2):
                 ###    print ('Data ended with %d %d.' % (ord(data[-2]), ord(data[-1])))
                 ###print ("<---: %s..." % data[:70])

@@ -1,3 +1,5 @@
+use MagBastard;
+
 CREATE TABLE `auth` (
   `id` int(11) NOT NULL auto_increment,
   `session` char(32) NOT NULL,

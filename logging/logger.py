@@ -162,7 +162,8 @@ def retrieveSession(ip):
     elapsed = datetime.datetime.now() - timestamp
 
     if(elapsed.seconds > timeout):
-        return None
+        #return None
+	return "timeout"
 
     ses = Session(ip=session[0],ts=session[1],ftp=int(session[2]),ftpResponse=session[3],ssh=int(session[4]),sshResponse=session[5],smtp=int(session[6]),smtpResponse=session[7],http=int(session[8]),httpResponse=session[9],samba=int(session[10]),sambaResponse=session[11])
 #    print ('Ports: %s' % ses.Ports)
